@@ -130,6 +130,41 @@
     color: var(--accent);
     font-style: italic;
   }
+  .card .cn {
+    font-size: 14px;
+    color: var(--ink);
+    margin-top: 4px;
+  }
+  .card .ty {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #fff;
+    background: var(--sub);
+    border-radius: 4px;
+    padding: 1px 7px;
+    margin-bottom: 6px;
+  }
+  .ty-ru { background: #2f6fb0; }
+  .ty-u { background: #b0492f; }
+  .ty-suru { background: #3f8f5c; }
+  .ty-irreg { background: #7a5aa8; }
+  .grp {
+    font-size: 15px;
+    margin: 22px 0 2px;
+    padding-left: 9px;
+    border-left: 4px solid var(--accent);
+    color: var(--accent);
+  }
+  .sub {
+    font-size: 14px;
+    margin: 10px 0 0;
+    padding: 6px 10px;
+    background: var(--crumb-bg);
+    border-radius: 6px;
+    font-weight: 600;
+  }
   .empty-note {
     color: var(--sub);
     font-size: 13px;
@@ -166,173 +201,722 @@
   <div id="crumbbar">
     <h1>課程導覽（點選跳轉，滑動可看更多）</h1>
     <div id="crumbtrack">
-      <a href="#lesson-0" class="crumb" data-idx="0">17. Numbers 1-10</a>
+      <a href="#lesson-0" class="crumb" data-idx="0">01. 五類動詞變化（動詞後接不同形式）</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-1" class="crumb" data-idx="1">18. Numbers 11-99</a>
+      <a href="#lesson-1" class="crumb" data-idx="1">17. Numbers 1-10</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-2" class="crumb" data-idx="2">19. Numbers 100 - 9,999</a>
+      <a href="#lesson-2" class="crumb" data-idx="2">18. Numbers 11-99</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-3" class="crumb" data-idx="3">20. Bigger numbers</a>
+      <a href="#lesson-3" class="crumb" data-idx="3">19. Numbers 100 - 9,999</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-4" class="crumb" data-idx="4">23. Time</a>
+      <a href="#lesson-4" class="crumb" data-idx="4">20. Bigger numbers</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-5" class="crumb" data-idx="5">26. XはYです。(X is Y.)</a>
+      <a href="#lesson-5" class="crumb" data-idx="5">23. Time</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-6" class="crumb" data-idx="6">27. Question</a>
+      <a href="#lesson-6" class="crumb" data-idx="6">26. XはYです。(X is Y.)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-7" class="crumb" data-idx="7">28. Question 2</a>
+      <a href="#lesson-7" class="crumb" data-idx="7">27. Question</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-8" class="crumb" data-idx="8">29. Noun1 の Noun2 (Usage of particle の)</a>
+      <a href="#lesson-8" class="crumb" data-idx="8">28. Question 2</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-9" class="crumb" data-idx="9">30. Nounも (as well, too)</a>
+      <a href="#lesson-9" class="crumb" data-idx="9">29. Noun1 の Noun2 (Usage of particle の)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-10" class="crumb" data-idx="10">31. Negative sentences - Present</a>
+      <a href="#lesson-10" class="crumb" data-idx="10">30. Nounも (as well, too)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-11" class="crumb" data-idx="11">32. Negative sentences - Past</a>
+      <a href="#lesson-11" class="crumb" data-idx="11">31. Negative sentences - Present</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-12" class="crumb" data-idx="12">37. これ-それ-あれ-どれ (That and this not followed by a noun)</a>
+      <a href="#lesson-12" class="crumb" data-idx="12">32. Negative sentences - Past</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-13" class="crumb" data-idx="13">38. この-その-あの-どの (That and this followed by a noun)</a>
+      <a href="#lesson-13" class="crumb" data-idx="13">37. これ-それ-あれ-どれ (That and this not followed by a noun)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-14" class="crumb" data-idx="14">39. だれの noun (Whose noun)</a>
+      <a href="#lesson-14" class="crumb" data-idx="14">38. この-その-あの-どの (That and this followed by a noun)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-15" class="crumb" data-idx="15">40. ここ-そこ-あそこ-どこ (Here and there)</a>
+      <a href="#lesson-15" class="crumb" data-idx="15">39. だれの noun (Whose noun)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-16" class="crumb" data-idx="16">41. Writing Practice</a>
+      <a href="#lesson-16" class="crumb" data-idx="16">40. ここ-そこ-あそこ-どこ (Here and there)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-17" class="crumb" data-idx="17">44. Ru-verb</a>
+      <a href="#lesson-17" class="crumb" data-idx="17">41. Writing Practice</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-18" class="crumb" data-idx="18">45. U-verb</a>
+      <a href="#lesson-18" class="crumb" data-idx="18">44. Ru-verb</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-19" class="crumb" data-idx="19">46. Irregular verb</a>
+      <a href="#lesson-19" class="crumb" data-idx="19">45. U-verb</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-20" class="crumb" data-idx="20">47. Verb types and the Present Tense</a>
+      <a href="#lesson-20" class="crumb" data-idx="20">46. Irregular verb</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-21" class="crumb" data-idx="21">48. Past tense</a>
+      <a href="#lesson-21" class="crumb" data-idx="21">47. Verb types and the Present Tense</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-22" class="crumb" data-idx="22">53. Basic particles (で、に、へ、を)</a>
+      <a href="#lesson-22" class="crumb" data-idx="22">48. Past tense</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-23" class="crumb" data-idx="23">54. Basic Particles Practice</a>
+      <a href="#lesson-23" class="crumb" data-idx="23">53. Basic particles (で、に、へ、を)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-24" class="crumb" data-idx="24">55. Time reference</a>
+      <a href="#lesson-24" class="crumb" data-idx="24">54. Basic Particles Practice</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-25" class="crumb" data-idx="25">56. The topic particle は</a>
+      <a href="#lesson-25" class="crumb" data-idx="25">55. Time reference</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-26" class="crumb" data-idx="26">57. Particle が</a>
+      <a href="#lesson-26" class="crumb" data-idx="26">56. The topic particle は</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-27" class="crumb" data-idx="27">58. Particle も</a>
+      <a href="#lesson-27" class="crumb" data-idx="27">57. Particle が</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-28" class="crumb" data-idx="28">59. Particle と</a>
+      <a href="#lesson-28" class="crumb" data-idx="28">58. Particle も</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-29" class="crumb" data-idx="29">60. Particle や</a>
+      <a href="#lesson-29" class="crumb" data-idx="29">59. Particle と</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-30" class="crumb" data-idx="30">61. Particle で</a>
+      <a href="#lesson-30" class="crumb" data-idx="30">60. Particle や</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-31" class="crumb" data-idx="31">62. Frequency Adverbs</a>
+      <a href="#lesson-31" class="crumb" data-idx="31">61. Particle で</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-32" class="crumb" data-idx="32">65. 〜ませんか(Shall we ...)</a>
+      <a href="#lesson-32" class="crumb" data-idx="32">62. Frequency Adverbs</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-33" class="crumb" data-idx="33">66. 〜ましょう！ (Let&#x27;s ...!)</a>
+      <a href="#lesson-33" class="crumb" data-idx="33">65. 〜ませんか(Shall we ...)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-34" class="crumb" data-idx="34">68. Xがあります。(There is ...)</a>
+      <a href="#lesson-34" class="crumb" data-idx="34">66. 〜ましょう！ (Let&#x27;s ...!)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-35" class="crumb" data-idx="35">69. Xがいます。(There is ...)</a>
+      <a href="#lesson-35" class="crumb" data-idx="35">68. Xがあります。(There is ...)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-36" class="crumb" data-idx="36">70. Describing where things are</a>
+      <a href="#lesson-36" class="crumb" data-idx="36">69. Xがいます。(There is ...)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-37" class="crumb" data-idx="37">74. い Adjectives</a>
+      <a href="#lesson-37" class="crumb" data-idx="37">70. Describing where things are</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-38" class="crumb" data-idx="38">75. な Adjectives</a>
+      <a href="#lesson-38" class="crumb" data-idx="38">74. い Adjectives</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-39" class="crumb" data-idx="39">76. Irregular Adjectives</a>
+      <a href="#lesson-39" class="crumb" data-idx="39">75. な Adjectives</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-40" class="crumb" data-idx="40">77. すきな、きらいな</a>
+      <a href="#lesson-40" class="crumb" data-idx="40">76. Irregular Adjectives</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-41" class="crumb" data-idx="41">78. Degree Expressions</a>
+      <a href="#lesson-41" class="crumb" data-idx="41">77. すきな、きらいな</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-42" class="crumb" data-idx="42">83. Te-form rules (Ru-verbs)</a>
+      <a href="#lesson-42" class="crumb" data-idx="42">78. Degree Expressions</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-43" class="crumb" data-idx="43">84. Te-form rules (U-verbs)</a>
+      <a href="#lesson-43" class="crumb" data-idx="43">83. Te-form rules (Ru-verbs)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-44" class="crumb" data-idx="44">86. Te-form Usage 1 - Making request ... please</a>
+      <a href="#lesson-44" class="crumb" data-idx="44">84. Te-form rules (U-verbs)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-45" class="crumb" data-idx="45">87. Te-form Usage 2 - Permission You may ...May I ... You must not</a>
+      <a href="#lesson-45" class="crumb" data-idx="45">86. Te-form Usage 1 - Making request ... please</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-46" class="crumb" data-idx="46">93. 〜ている (Action in progress)</a>
+      <a href="#lesson-46" class="crumb" data-idx="46">87. Te-form Usage 2 - Permission You may ...May I ... You must not</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-47" class="crumb" data-idx="47">94. 〜ている 2</a>
+      <a href="#lesson-47" class="crumb" data-idx="47">93. 〜ている (Action in progress)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-48" class="crumb" data-idx="48">98. Te form for joining sentences</a>
+      <a href="#lesson-48" class="crumb" data-idx="48">94. 〜ている 2</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-49" class="crumb" data-idx="49">99. Writing Practice</a>
+      <a href="#lesson-49" class="crumb" data-idx="49">98. Te form for joining sentences</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-50" class="crumb" data-idx="50">102. (Body part)が(adjective)です。</a>
+      <a href="#lesson-50" class="crumb" data-idx="50">99. Writing Practice</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-51" class="crumb" data-idx="51">106. Verb stem + にいく</a>
+      <a href="#lesson-51" class="crumb" data-idx="51">102. (Body part)が(adjective)です。</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-52" class="crumb" data-idx="52">107. Writing Practice</a>
+      <a href="#lesson-52" class="crumb" data-idx="52">106. Verb stem + にいく</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-53" class="crumb" data-idx="53">108. Listening Practice</a>
+      <a href="#lesson-53" class="crumb" data-idx="53">107. Writing Practice</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-54" class="crumb" data-idx="54">110. たくさん many</a>
+      <a href="#lesson-54" class="crumb" data-idx="54">108. Listening Practice</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-55" class="crumb" data-idx="55">112. 1時間</a>
+      <a href="#lesson-55" class="crumb" data-idx="55">110. たくさん many</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-56" class="crumb" data-idx="56">115. Present tense Short form - Affirmative Conjugation</a>
+      <a href="#lesson-56" class="crumb" data-idx="56">112. 1時間</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-57" class="crumb" data-idx="57">116. Present tense Short form - Short form Negative Conjugation</a>
+      <a href="#lesson-57" class="crumb" data-idx="57">115. Present tense Short form - Affirmative Conjugation</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-58" class="crumb" data-idx="58">117 Usage of short forms 1 - Quotation (Someone said... I think...)</a>
+      <a href="#lesson-58" class="crumb" data-idx="58">116. Present tense Short form - Short form Negative Conjugation</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-59" class="crumb" data-idx="59">118. Usage of short forms 2 - Casual conversation</a>
+      <a href="#lesson-59" class="crumb" data-idx="59">117 Usage of short forms 1 - Quotation (Someone said... I think...)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-60" class="crumb" data-idx="60">119. Usage of short forms 3 - Please don&#x27;t do</a>
+      <a href="#lesson-60" class="crumb" data-idx="60">118. Usage of short forms 2 - Casual conversation</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-61" class="crumb" data-idx="61">120. Usage of short forms 4 - I like doing</a>
+      <a href="#lesson-61" class="crumb" data-idx="61">119. Usage of short forms 3 - Please don&#x27;t do</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-62" class="crumb" data-idx="62">124. Past tense short forms - Affirmative Conjugation</a>
+      <a href="#lesson-62" class="crumb" data-idx="62">120. Usage of short forms 4 - I like doing</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-63" class="crumb" data-idx="63">125. Past tense short forms - Negative Conjugation</a>
+      <a href="#lesson-63" class="crumb" data-idx="63">124. Past tense short forms - Affirmative Conjugation</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-64" class="crumb" data-idx="64">126. Past tense short forms - Usage</a>
+      <a href="#lesson-64" class="crumb" data-idx="64">125. Past tense short forms - Negative Conjugation</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-65" class="crumb" data-idx="65">130. Something and Anything</a>
+      <a href="#lesson-65" class="crumb" data-idx="65">126. Past tense short forms - Usage</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-66" class="crumb" data-idx="66">131. Some and Any for places, person and things</a>
+      <a href="#lesson-66" class="crumb" data-idx="66">130. Something and Anything</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-67" class="crumb" data-idx="67">135. Qualifying Nouns with Verbs and Adjectives</a>
+      <a href="#lesson-67" class="crumb" data-idx="67">131. Some and Any for places, person and things</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-68" class="crumb" data-idx="68">138. まだ〜ていません</a>
+      <a href="#lesson-68" class="crumb" data-idx="68">135. Qualifying Nouns with Verbs and Adjectives</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-69" class="crumb" data-idx="69">143. Because 1 〜から</a>
+      <a href="#lesson-69" class="crumb" data-idx="69">138. まだ〜ていません</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-70" class="crumb" data-idx="70">144. Because 2 〜ので</a>
+      <a href="#lesson-70" class="crumb" data-idx="70">143. Because 1 〜から</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-71" class="crumb" data-idx="71">146. Comparison 1 - A is more (property) than B</a>
+      <a href="#lesson-71" class="crumb" data-idx="71">144. Because 2 〜ので</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-72" class="crumb" data-idx="72">147. Comparison 2 - Between A and B, which is more (property)</a>
+      <a href="#lesson-72" class="crumb" data-idx="72">146. Comparison 1 - A is more (property) than B</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-73" class="crumb" data-idx="73">148. Comparison 3 - A is the most (property) among (category)</a>
+      <a href="#lesson-73" class="crumb" data-idx="73">147. Comparison 2 - Between A and B, which is more (property)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-74" class="crumb" data-idx="74">149. Comparison 4 - Among (Category), what is the most (Property)</a>
+      <a href="#lesson-74" class="crumb" data-idx="74">148. Comparison 3 - A is the most (property) among (category)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-75" class="crumb" data-idx="75">154. Pronoun の</a>
+      <a href="#lesson-75" class="crumb" data-idx="75">149. Comparison 4 - Among (Category), what is the most (Property)</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-76" class="crumb" data-idx="76">156. つもりだ</a>
+      <a href="#lesson-76" class="crumb" data-idx="76">154. Pronoun の</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-77" class="crumb" data-idx="77">159. Adjective + なる</a>
+      <a href="#lesson-77" class="crumb" data-idx="77">156. つもりだ</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-78" class="crumb" data-idx="78">184. 〜なくちゃいけません</a>
+      <a href="#lesson-78" class="crumb" data-idx="78">159. Adjective + なる</a>
       <span class="sep">&rsaquo;</span>
-      <a href="#lesson-79" class="crumb" data-idx="79">186. 〜でしょう</a>
+      <a href="#lesson-79" class="crumb" data-idx="79">184. 〜なくちゃいけません</a>
+      <span class="sep">&rsaquo;</span>
+      <a href="#lesson-80" class="crumb" data-idx="80">186. 〜でしょう</a>
     </div>
   </div>
 
   <main id="content">
     <section class="lesson" id="lesson-0" data-idx="0">
       <div class="lesson-head">
-        <h2>17. Numbers 1-10</h2>
+        <h2>01. 五類動詞變化（動詞後接不同形式）</h2>
         <button class="play-btn" data-target="lesson-0" aria-label="播放本課日文例句">▶ 播放日文</button>
+      </div>
+      <div class="cards">
+        <h3 class="grp">① ます形詞幹＋其他字（食(た)べます → 食べ）</h3>
+        <h4 class="sub">動詞變化如：～たい ─ 想要～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)は寿司(すし)を食(た)べたいです。</div>
+          <div class="rm">Watashi wa sushi o tabetai desu.</div>
+          <div class="cn">我想吃壽司。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">今晩(こんばん)映画(えいが)を見(み)たいです。</div>
+          <div class="rm">Konban eiga o mitai desu.</div>
+          <div class="cn">今晚想看電影。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">冷(つめ)たい水(みず)が飲(の)みたいです。</div>
+          <div class="rm">Tsumetai mizu ga nomitai desu.</div>
+          <div class="cn">我想喝冰水。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">日本(にほん)を旅行(りょこう)したいです。</div>
+          <div class="rm">Nihon o ryokou shitai desu.</div>
+          <div class="cn">我想去日本旅行。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～やすい ─ 容易～、好～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">このパンは食(た)べやすいです。</div>
+          <div class="rm">Kono pan wa tabeyasui desu.</div>
+          <div class="cn">這個麵包很容易入口。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">この言葉(ことば)は覚(おぼ)えやすいです。</div>
+          <div class="rm">Kono kotoba wa oboeyasui desu.</div>
+          <div class="cn">這個詞很好記。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">この靴(くつ)は歩(ある)きやすいです。</div>
+          <div class="rm">Kono kutsu wa arukiyasui desu.</div>
+          <div class="cn">這雙鞋很好走。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">雨(あめ)が降(ふ)りやすい天気(てんき)が続(つづ)きそうです。</div>
+          <div class="rm">Ame ga furiyasui tenki ga tsuzukisou desu.</div>
+          <div class="cn">看起來容易下雨的天氣還會持續。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～にくい ─ 難以～、不好～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">この肉(にく)は硬(かた)くて食(た)べにくいです。</div>
+          <div class="rm">Kono niku wa katakute tabenikui desu.</div>
+          <div class="cn">這肉很硬，很難咬。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">この漢字(かんじ)は覚(おぼ)えにくいです。</div>
+          <div class="rm">Kono kanji wa oboenikui desu.</div>
+          <div class="cn">這個漢字很難記。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">この字(じ)は小(ちい)さくて読(よ)みにくいです。</div>
+          <div class="rm">Kono ji wa chiisakute yominikui desu.</div>
+          <div class="cn">這個字太小，很難讀。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～すぎる ─ 太過～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">昨日(きのう)、食(た)べすぎました。</div>
+          <div class="rm">Kinou, tabesugimashita.</div>
+          <div class="cn">昨天吃太多了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">今朝(けさ)寝(ね)すぎて、遅刻(ちこく)しました。</div>
+          <div class="rm">Kesa nesugite, chikoku shimashita.</div>
+          <div class="cn">今天早上睡過頭，遲到了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">お酒(さけ)を飲(の)みすぎないでください。</div>
+          <div class="rm">Osake o nomisuginaide kudasai.</div>
+          <div class="cn">請不要喝太多酒。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～始(はじ)める ─ 開始～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">子供(こども)がご飯(はん)を食(た)べ始(はじ)めました。</div>
+          <div class="rm">Kodomo ga gohan o tabehajimemashita.</div>
+          <div class="cn">小孩開始吃飯了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">映画(えいが)を見(み)始(はじ)めました。</div>
+          <div class="rm">Eiga o mihajimemashita.</div>
+          <div class="cn">開始看電影了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">雨(あめ)が降(ふ)り始(はじ)めました。</div>
+          <div class="rm">Ame ga furihajimemashita.</div>
+          <div class="cn">開始下雨了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">去年(きょねん)から日本語(にほんご)を勉強(べんきょう)し始(はじ)めました。</div>
+          <div class="rm">Kyonen kara nihongo o benkyou shihajimemashita.</div>
+          <div class="cn">從去年開始學日文。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～終(お)わる ─ ～完</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ご飯(はん)を食(た)べ終(お)わりました。</div>
+          <div class="rm">Gohan o tabeowarimashita.</div>
+          <div class="cn">吃完飯了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">映画(えいが)を見(み)終(お)わりました。</div>
+          <div class="rm">Eiga o miowarimashita.</div>
+          <div class="cn">看完電影了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">この本(ほん)を読(よ)み終(お)わりました。</div>
+          <div class="rm">Kono hon o yomiowarimashita.</div>
+          <div class="cn">這本書讀完了。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～続(つづ)ける ─ 持續～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">彼(かれ)はずっと食(た)べ続(つづ)けています。</div>
+          <div class="rm">Kare wa zutto tabetsuzukete imasu.</div>
+          <div class="cn">他一直持續在吃。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">三時間(さんじかん)テレビを見(み)続(つづ)けました。</div>
+          <div class="rm">Sanjikan terebi o mitsuzukemashita.</div>
+          <div class="cn">持續看了三個小時的電視。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">一時間(いちじかん)走(はし)り続(つづ)けました。</div>
+          <div class="rm">Ichijikan hashiritsuzukemashita.</div>
+          <div class="cn">持續跑了一個小時。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">十年(じゅうねん)日本語(にほんご)を勉強(べんきょう)し続(つづ)けています。</div>
+          <div class="rm">Juunen nihongo o benkyou shitsuzukete imasu.</div>
+          <div class="cn">持續學了十年日文。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～方(かた) ─ ～的方法</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">寿司(すし)の食(た)べ方(かた)を教(おし)えてください。</div>
+          <div class="rm">Sushi no tabekata o oshiete kudasai.</div>
+          <div class="cn">請教我壽司的吃法。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">単語(たんご)の覚(おぼ)え方(かた)を教(おし)えてください。</div>
+          <div class="rm">Tango no oboekata o oshiete kudasai.</div>
+          <div class="cn">請教我單字的記法。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">この機械(きかい)の使(つか)い方(かた)が分(わ)かりません。</div>
+          <div class="rm">Kono kikai no tsukaikata ga wakarimasen.</div>
+          <div class="cn">我不懂這台機器的用法。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">漢字(かんじ)の書(か)き方(かた)を習(なら)いました。</div>
+          <div class="rm">Kanji no kakikata o naraimashita.</div>
+          <div class="cn">學了漢字的寫法。</div>
+        </div>
+        <h3 class="grp">② て形＋其他形式（食(た)べます → 食べて）</h3>
+        <h4 class="sub">動詞變化如：～ている ─ 正在～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">今(いま)、ご飯(はん)を食(た)べています。</div>
+          <div class="rm">Ima, gohan o tabete imasu.</div>
+          <div class="cn">現在正在吃飯。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">弟(おとうと)はテレビを見(み)ています。</div>
+          <div class="rm">Otouto wa terebi o mite imasu.</div>
+          <div class="cn">弟弟正在看電視。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">父(ちち)は新聞(しんぶん)を読(よ)んでいます。</div>
+          <div class="rm">Chichi wa shinbun o yonde imasu.</div>
+          <div class="cn">爸爸正在看報紙。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～てもいい ─ 可以～嗎</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ここで食(た)べてもいいですか。</div>
+          <div class="rm">Koko de tabete mo ii desu ka.</div>
+          <div class="cn">可以在這裡吃嗎？</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">窓(まど)を開(あ)けてもいいですか。</div>
+          <div class="rm">Mado o akete mo ii desu ka.</div>
+          <div class="cn">可以開窗嗎？</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">もう帰(かえ)ってもいいですよ。</div>
+          <div class="rm">Mou kaette mo ii desu yo.</div>
+          <div class="cn">已經可以回去囉。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">明日(あした)電話(でんわ)してもいいですか。</div>
+          <div class="rm">Ashita denwa shite mo ii desu ka.</div>
+          <div class="cn">明天可以打電話給你嗎？</div>
+        </div>
+        <h4 class="sub">動詞變化如：～てはいけない ─ 不可以～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ここで食(た)べてはいけません。</div>
+          <div class="rm">Koko de tabete wa ikemasen.</div>
+          <div class="cn">不可以在這裡吃。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">この写真(しゃしん)を見(み)てはいけません。</div>
+          <div class="rm">Kono shashin o mite wa ikemasen.</div>
+          <div class="cn">不可以看這張照片。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">ここでタバコを吸(す)ってはいけません。</div>
+          <div class="rm">Koko de tabako o sutte wa ikemasen.</div>
+          <div class="cn">不可以在這裡抽菸。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～てください ─ 請～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">これを食(た)べてください。</div>
+          <div class="rm">Kore o tabete kudasai.</div>
+          <div class="cn">請吃這個。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">これを見(み)てください。</div>
+          <div class="rm">Kore o mite kudasai.</div>
+          <div class="cn">請看這個。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">ここで待(ま)ってください。</div>
+          <div class="rm">Koko de matte kudasai.</div>
+          <div class="cn">請在這裡等。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">もう一度(いちど)説明(せつめい)してください。</div>
+          <div class="rm">Mou ichido setsumei shite kudasai.</div>
+          <div class="cn">請再說明一次。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～てから ─ ～之後（做某事）</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ご飯(はん)を食(た)べてから勉強(べんきょう)します。</div>
+          <div class="rm">Gohan o tabete kara benkyou shimasu.</div>
+          <div class="cn">吃完飯後讀書。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">起(お)きてからコーヒーを飲(の)みます。</div>
+          <div class="rm">Okite kara koohii o nomimasu.</div>
+          <div class="cn">起床後喝咖啡。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">手(て)を洗(あら)ってからご飯(はん)を食(た)べます。</div>
+          <div class="rm">Te o aratte kara gohan o tabemasu.</div>
+          <div class="cn">洗完手後吃飯。</div>
+        </div>
+        <h3 class="grp">③ ない形＋其他形式（食(た)べます → 食べない）</h3>
+        <h4 class="sub">動詞變化如：～ない ─ 不～（短形否定）</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)は肉(にく)を食(た)べない。</div>
+          <div class="rm">Watashi wa niku o tabenai.</div>
+          <div class="cn">我不吃肉。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)はテレビを見(み)ない。</div>
+          <div class="rm">Watashi wa terebi o minai.</div>
+          <div class="cn">我不看電視。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">お酒(さけ)は飲(の)まない。</div>
+          <div class="rm">Osake wa nomanai.</div>
+          <div class="cn">我不喝酒。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">今日(きょう)は勉強(べんきょう)しない。</div>
+          <div class="rm">Kyou wa benkyou shinai.</div>
+          <div class="cn">今天不讀書。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～ないでください ─ 請不要～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ここで食(た)べないでください。</div>
+          <div class="rm">Koko de tabenaide kudasai.</div>
+          <div class="cn">請不要在這裡吃。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">宿題(しゅくだい)を忘(わす)れないでください。</div>
+          <div class="rm">Shukudai o wasurenaide kudasai.</div>
+          <div class="cn">請不要忘記作業。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">ここでタバコを吸(す)わないでください。</div>
+          <div class="rm">Koko de tabako o suwanaide kudasai.</div>
+          <div class="cn">請不要在這裡抽菸。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～なくてもいい ─ 不～也可以</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">全部(ぜんぶ)食(た)べなくてもいいです。</div>
+          <div class="rm">Zenbu tabenakute mo ii desu.</div>
+          <div class="cn">不用全部吃完也可以。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">明日(あした)は早(はや)く起(お)きなくてもいいです。</div>
+          <div class="rm">Ashita wa hayaku okinakute mo ii desu.</div>
+          <div class="cn">明天不用早起也可以。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">明日(あした)は学校(がっこう)へ行(い)かなくてもいいです。</div>
+          <div class="rm">Ashita wa gakkou e ikanakute mo ii desu.</div>
+          <div class="cn">明天不用去學校也可以。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">予約(よやく)しなくてもいいです。</div>
+          <div class="rm">Yoyaku shinakute mo ii desu.</div>
+          <div class="cn">不用預約也可以。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～なければならない ─ 必須～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">野菜(やさい)を食(た)べなければなりません。</div>
+          <div class="rm">Yasai o tabenakereba narimasen.</div>
+          <div class="cn">必須吃蔬菜。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">毎朝(まいあさ)六時(ろくじ)に起(お)きなければなりません。</div>
+          <div class="rm">Maiasa rokuji ni okinakereba narimasen.</div>
+          <div class="cn">每天早上必須六點起床。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">薬(くすり)を飲(の)まなければなりません。</div>
+          <div class="rm">Kusuri o nomanakereba narimasen.</div>
+          <div class="cn">必須吃藥。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">毎日(まいにち)日本語(にほんご)を勉強(べんきょう)しなければなりません。</div>
+          <div class="rm">Mainichi nihongo o benkyou shinakereba narimasen.</div>
+          <div class="cn">每天必須讀日文。</div>
+        </div>
+        <h3 class="grp">④ 辭書形＋其他形式（食(た)べます → 食べる）</h3>
+        <h4 class="sub">動詞變化如：～ことができる ─ 會～、能夠～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)は生(なま)の魚(さかな)を食(た)べることができます。</div>
+          <div class="rm">Watashi wa nama no sakana o taberu koto ga dekimasu.</div>
+          <div class="cn">我敢吃生魚。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ここで富士山(ふじさん)を見(み)ることができます。</div>
+          <div class="rm">Koko de Fujisan o miru koto ga dekimasu.</div>
+          <div class="cn">在這裡可以看到富士山。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">日本語(にほんご)を話(はな)すことができます。</div>
+          <div class="rm">Nihongo o hanasu koto ga dekimasu.</div>
+          <div class="cn">我會說日文。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">車(くるま)を運転(うんてん)することができます。</div>
+          <div class="rm">Kuruma o unten suru koto ga dekimasu.</div>
+          <div class="cn">我會開車。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～ことがある ─ 有時會～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">寿司(すし)を食(た)べることがあります。</div>
+          <div class="rm">Sushi o taberu koto ga arimasu.</div>
+          <div class="cn">我有時會吃壽司。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">電車(でんしゃ)が遅(おく)れることがあります。</div>
+          <div class="rm">Densha ga okureru koto ga arimasu.</div>
+          <div class="cn">電車有時會誤點。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">週末(しゅうまつ)は映画館(えいがかん)へ行(い)くことがあります。</div>
+          <div class="rm">Shuumatsu wa eigakan e iku koto ga arimasu.</div>
+          <div class="cn">週末有時會去電影院。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">たまに友達(ともだち)と外食(がいしょく)することがあります。</div>
+          <div class="rm">Tama ni tomodachi to gaishoku suru koto ga arimasu.</div>
+          <div class="cn">偶爾會和朋友外食。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～ことが好(す)き ─ 喜歡做～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)は甘(あま)い物(もの)を食(た)べることが好(す)きです。</div>
+          <div class="rm">Watashi wa amai mono o taberu koto ga suki desu.</div>
+          <div class="cn">我喜歡吃甜食。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">私(わたし)は映画(えいが)を見(み)ることが好(す)きです。</div>
+          <div class="rm">Watashi wa eiga o miru koto ga suki desu.</div>
+          <div class="cn">我喜歡看電影。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">妹(いもうと)は本(ほん)を読(よ)むことが好(す)きです。</div>
+          <div class="rm">Imouto wa hon o yomu koto ga suki desu.</div>
+          <div class="cn">妹妹喜歡看書。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-suru">SURU</span>
+          <div class="jp">日本語(にほんご)を勉強(べんきょう)することが好(す)きです。</div>
+          <div class="rm">Nihongo o benkyou suru koto ga suki desu.</div>
+          <div class="cn">我喜歡學日文。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～前(まえ)に ─ 在～之前</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">食(た)べる前(まえ)に手(て)を洗(あら)います。</div>
+          <div class="rm">Taberu mae ni te o araimasu.</div>
+          <div class="cn">吃飯前洗手。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">寝(ね)る前(まえ)に歯(は)を磨(みが)きます。</div>
+          <div class="rm">Neru mae ni ha o migakimasu.</div>
+          <div class="cn">睡覺前刷牙。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">日本(にほん)へ行(い)く前(まえ)に日本語(にほんご)を習(なら)いました。</div>
+          <div class="rm">Nihon e iku mae ni nihongo o naraimashita.</div>
+          <div class="cn">去日本之前學了日文。</div>
+        </div>
+        <h4 class="sub">動詞變化如：～とき ─ ～的時候</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">ご飯(はん)を食(た)べるとき、テレビを見(み)ます。</div>
+          <div class="rm">Gohan o taberu toki, terebi o mimasu.</div>
+          <div class="cn">吃飯的時候看電視。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">出(で)かけるとき、鍵(かぎ)をかけます。</div>
+          <div class="rm">Dekakeru toki, kagi o kakemasu.</div>
+          <div class="cn">出門的時候鎖門。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">この言葉(ことば)を使(つか)うとき、気(き)をつけてください。</div>
+          <div class="rm">Kono kotoba o tsukau toki, ki o tsukete kudasai.</div>
+          <div class="cn">用這個詞的時候請小心。</div>
+        </div>
+        <h3 class="grp">⑤ ～そう：看起來要～（ます形詞幹＋そう；い形容詞去い＋そう）</h3>
+        <h4 class="sub">動詞變化如：～そう ─ 看起來要～、看起來很～</h4>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">子供(こども)が全部(ぜんぶ)食(た)べそうです。</div>
+          <div class="rm">Kodomo ga zenbu tabesou desu.</div>
+          <div class="cn">小孩看起來會全部吃光。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-ru">RU</span>
+          <div class="jp">コップが落(お)ちそうです。</div>
+          <div class="rm">Koppu ga ochisou desu.</div>
+          <div class="cn">杯子看起來快掉下來了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">雨(あめ)が降(ふ)りそうです。</div>
+          <div class="rm">Ame ga furisou desu.</div>
+          <div class="cn">看起來要下雨了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-u">U</span>
+          <div class="jp">子供(こども)が泣(な)きそうです。</div>
+          <div class="rm">Kodomo ga nakisou desu.</div>
+          <div class="cn">小孩看起來快哭了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-irreg">IRREG</span>
+          <div class="jp">バスが来(き)そうです。</div>
+          <div class="rm">Basu ga kisou desu.</div>
+          <div class="cn">公車看起來快來了。</div>
+        </div>
+        <div class="card">
+          <span class="ty ty-other">い形容詞</span>
+          <div class="jp">このケーキはおいしそうです。</div>
+          <div class="rm">Kono keeki wa oishisou desu.</div>
+          <div class="cn">這個蛋糕看起來很好吃。</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="lesson" id="lesson-1" data-idx="1">
+      <div class="lesson-head">
+        <h2>17. Numbers 1-10</h2>
+        <button class="play-btn" data-target="lesson-1" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -388,10 +972,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-1" data-idx="1">
+    <section class="lesson" id="lesson-2" data-idx="2">
       <div class="lesson-head">
         <h2>18. Numbers 11-99</h2>
-        <button class="play-btn" data-target="lesson-1" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-2" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -467,10 +1051,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-2" data-idx="2">
+    <section class="lesson" id="lesson-3" data-idx="3">
       <div class="lesson-head">
         <h2>19. Numbers 100 - 9,999</h2>
-        <button class="play-btn" data-target="lesson-2" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-3" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -616,10 +1200,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-3" data-idx="3">
+    <section class="lesson" id="lesson-4" data-idx="4">
       <div class="lesson-head">
         <h2>20. Bigger numbers</h2>
-        <button class="play-btn" data-target="lesson-3" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-4" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -675,10 +1259,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-4" data-idx="4">
+    <section class="lesson" id="lesson-5" data-idx="5">
       <div class="lesson-head">
         <h2>23. Time</h2>
-        <button class="play-btn" data-target="lesson-4" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-5" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -864,10 +1448,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-5" data-idx="5">
+    <section class="lesson" id="lesson-6" data-idx="6">
       <div class="lesson-head">
         <h2>26. XはYです。(X is Y.)</h2>
-        <button class="play-btn" data-target="lesson-5" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-6" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -958,10 +1542,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-6" data-idx="6">
+    <section class="lesson" id="lesson-7" data-idx="7">
       <div class="lesson-head">
         <h2>27. Question</h2>
-        <button class="play-btn" data-target="lesson-6" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-7" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1072,10 +1656,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-7" data-idx="7">
+    <section class="lesson" id="lesson-8" data-idx="8">
       <div class="lesson-head">
         <h2>28. Question 2</h2>
-        <button class="play-btn" data-target="lesson-7" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-8" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1121,10 +1705,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-8" data-idx="8">
+    <section class="lesson" id="lesson-9" data-idx="9">
       <div class="lesson-head">
         <h2>29. Noun1 の Noun2 (Usage of particle の)</h2>
-        <button class="play-btn" data-target="lesson-8" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-9" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1160,10 +1744,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-9" data-idx="9">
+    <section class="lesson" id="lesson-10" data-idx="10">
       <div class="lesson-head">
         <h2>30. Nounも (as well, too)</h2>
-        <button class="play-btn" data-target="lesson-9" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-10" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1199,10 +1783,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-10" data-idx="10">
+    <section class="lesson" id="lesson-11" data-idx="11">
       <div class="lesson-head">
         <h2>31. Negative sentences - Present</h2>
-        <button class="play-btn" data-target="lesson-10" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-11" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1253,10 +1837,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-11" data-idx="11">
+    <section class="lesson" id="lesson-12" data-idx="12">
       <div class="lesson-head">
         <h2>32. Negative sentences - Past</h2>
-        <button class="play-btn" data-target="lesson-11" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-12" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1297,10 +1881,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-12" data-idx="12">
+    <section class="lesson" id="lesson-13" data-idx="13">
       <div class="lesson-head">
         <h2>37. これ-それ-あれ-どれ (That and this not followed by a noun)</h2>
-        <button class="play-btn" data-target="lesson-12" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-13" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1356,10 +1940,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-13" data-idx="13">
+    <section class="lesson" id="lesson-14" data-idx="14">
       <div class="lesson-head">
         <h2>38. この-その-あの-どの (That and this followed by a noun)</h2>
-        <button class="play-btn" data-target="lesson-13" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-14" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1425,10 +2009,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-14" data-idx="14">
+    <section class="lesson" id="lesson-15" data-idx="15">
       <div class="lesson-head">
         <h2>39. だれの noun (Whose noun)</h2>
-        <button class="play-btn" data-target="lesson-14" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-15" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1479,10 +2063,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-15" data-idx="15">
+    <section class="lesson" id="lesson-16" data-idx="16">
       <div class="lesson-head">
         <h2>40. ここ-そこ-あそこ-どこ (Here and there)</h2>
-        <button class="play-btn" data-target="lesson-15" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-16" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1538,10 +2122,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-16" data-idx="16">
+    <section class="lesson" id="lesson-17" data-idx="17">
       <div class="lesson-head">
         <h2>41. Writing Practice</h2>
-        <button class="play-btn" data-target="lesson-16" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-17" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1607,10 +2191,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-17" data-idx="17">
+    <section class="lesson" id="lesson-18" data-idx="18">
       <div class="lesson-head">
         <h2>44. Ru-verb</h2>
-        <button class="play-btn" data-target="lesson-17" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-18" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1636,10 +2220,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-18" data-idx="18">
+    <section class="lesson" id="lesson-19" data-idx="19">
       <div class="lesson-head">
         <h2>45. U-verb</h2>
-        <button class="play-btn" data-target="lesson-18" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-19" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1705,10 +2289,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-19" data-idx="19">
+    <section class="lesson" id="lesson-20" data-idx="20">
       <div class="lesson-head">
         <h2>46. Irregular verb</h2>
-        <button class="play-btn" data-target="lesson-19" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-20" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1804,10 +2388,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-20" data-idx="20">
+    <section class="lesson" id="lesson-21" data-idx="21">
       <div class="lesson-head">
         <h2>47. Verb types and the Present Tense</h2>
-        <button class="play-btn" data-target="lesson-20" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-21" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1873,10 +2457,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-21" data-idx="21">
+    <section class="lesson" id="lesson-22" data-idx="22">
       <div class="lesson-head">
         <h2>48. Past tense</h2>
-        <button class="play-btn" data-target="lesson-21" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-22" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1957,10 +2541,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-22" data-idx="22">
+    <section class="lesson" id="lesson-23" data-idx="23">
       <div class="lesson-head">
         <h2>53. Basic particles (で、に、へ、を)</h2>
-        <button class="play-btn" data-target="lesson-22" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-23" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -1991,10 +2575,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-23" data-idx="23">
+    <section class="lesson" id="lesson-24" data-idx="24">
       <div class="lesson-head">
         <h2>54. Basic Particles Practice</h2>
-        <button class="play-btn" data-target="lesson-23" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-24" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2020,10 +2604,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-24" data-idx="24">
+    <section class="lesson" id="lesson-25" data-idx="25">
       <div class="lesson-head">
         <h2>55. Time reference</h2>
-        <button class="play-btn" data-target="lesson-24" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-25" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2124,10 +2708,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-25" data-idx="25">
+    <section class="lesson" id="lesson-26" data-idx="26">
       <div class="lesson-head">
         <h2>56. The topic particle は</h2>
-        <button class="play-btn" data-target="lesson-25" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-26" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2188,10 +2772,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-26" data-idx="26">
+    <section class="lesson" id="lesson-27" data-idx="27">
       <div class="lesson-head">
         <h2>57. Particle が</h2>
-        <button class="play-btn" data-target="lesson-26" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-27" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2267,10 +2851,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-27" data-idx="27">
+    <section class="lesson" id="lesson-28" data-idx="28">
       <div class="lesson-head">
         <h2>58. Particle も</h2>
-        <button class="play-btn" data-target="lesson-27" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-28" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2351,10 +2935,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-28" data-idx="28">
+    <section class="lesson" id="lesson-29" data-idx="29">
       <div class="lesson-head">
         <h2>59. Particle と</h2>
-        <button class="play-btn" data-target="lesson-28" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-29" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2385,10 +2969,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-29" data-idx="29">
+    <section class="lesson" id="lesson-30" data-idx="30">
       <div class="lesson-head">
         <h2>60. Particle や</h2>
-        <button class="play-btn" data-target="lesson-29" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-30" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2414,10 +2998,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-30" data-idx="30">
+    <section class="lesson" id="lesson-31" data-idx="31">
       <div class="lesson-head">
         <h2>61. Particle で</h2>
-        <button class="play-btn" data-target="lesson-30" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-31" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2463,10 +3047,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-31" data-idx="31">
+    <section class="lesson" id="lesson-32" data-idx="32">
       <div class="lesson-head">
         <h2>62. Frequency Adverbs</h2>
-        <button class="play-btn" data-target="lesson-31" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-32" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2497,10 +3081,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-32" data-idx="32">
+    <section class="lesson" id="lesson-33" data-idx="33">
       <div class="lesson-head">
         <h2>65. 〜ませんか(Shall we ...)</h2>
-        <button class="play-btn" data-target="lesson-32" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-33" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2551,10 +3135,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-33" data-idx="33">
+    <section class="lesson" id="lesson-34" data-idx="34">
       <div class="lesson-head">
         <h2>66. 〜ましょう！ (Let&#x27;s ...!)</h2>
-        <button class="play-btn" data-target="lesson-33" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-34" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2615,10 +3199,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-34" data-idx="34">
+    <section class="lesson" id="lesson-35" data-idx="35">
       <div class="lesson-head">
         <h2>68. Xがあります。(There is ...)</h2>
-        <button class="play-btn" data-target="lesson-34" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-35" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2634,10 +3218,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-35" data-idx="35">
+    <section class="lesson" id="lesson-36" data-idx="36">
       <div class="lesson-head">
         <h2>69. Xがいます。(There is ...)</h2>
-        <button class="play-btn" data-target="lesson-35" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-36" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2658,10 +3242,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-36" data-idx="36">
+    <section class="lesson" id="lesson-37" data-idx="37">
       <div class="lesson-head">
         <h2>70. Describing where things are</h2>
-        <button class="play-btn" data-target="lesson-36" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-37" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2777,10 +3361,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-37" data-idx="37">
+    <section class="lesson" id="lesson-38" data-idx="38">
       <div class="lesson-head">
         <h2>74. い Adjectives</h2>
-        <button class="play-btn" data-target="lesson-37" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-38" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2866,10 +3450,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-38" data-idx="38">
+    <section class="lesson" id="lesson-39" data-idx="39">
       <div class="lesson-head">
         <h2>75. な Adjectives</h2>
-        <button class="play-btn" data-target="lesson-38" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-39" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -2990,10 +3574,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-39" data-idx="39">
+    <section class="lesson" id="lesson-40" data-idx="40">
       <div class="lesson-head">
         <h2>76. Irregular Adjectives</h2>
-        <button class="play-btn" data-target="lesson-39" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-40" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3034,10 +3618,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-40" data-idx="40">
+    <section class="lesson" id="lesson-41" data-idx="41">
       <div class="lesson-head">
         <h2>77. すきな、きらいな</h2>
-        <button class="play-btn" data-target="lesson-40" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-41" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3053,10 +3637,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-41" data-idx="41">
+    <section class="lesson" id="lesson-42" data-idx="42">
       <div class="lesson-head">
         <h2>78. Degree Expressions</h2>
-        <button class="play-btn" data-target="lesson-41" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-42" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3102,10 +3686,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-42" data-idx="42">
+    <section class="lesson" id="lesson-43" data-idx="43">
       <div class="lesson-head">
         <h2>83. Te-form rules (Ru-verbs)</h2>
-        <button class="play-btn" data-target="lesson-42" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-43" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3121,10 +3705,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-43" data-idx="43">
+    <section class="lesson" id="lesson-44" data-idx="44">
       <div class="lesson-head">
         <h2>84. Te-form rules (U-verbs)</h2>
-        <button class="play-btn" data-target="lesson-43" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-44" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3195,10 +3779,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-44" data-idx="44">
+    <section class="lesson" id="lesson-45" data-idx="45">
       <div class="lesson-head">
         <h2>86. Te-form Usage 1 - Making request ... please</h2>
-        <button class="play-btn" data-target="lesson-44" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-45" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3234,10 +3818,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-45" data-idx="45">
+    <section class="lesson" id="lesson-46" data-idx="46">
       <div class="lesson-head">
         <h2>87. Te-form Usage 2 - Permission You may ...May I ... You must not</h2>
-        <button class="play-btn" data-target="lesson-45" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-46" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3323,10 +3907,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-46" data-idx="46">
+    <section class="lesson" id="lesson-47" data-idx="47">
       <div class="lesson-head">
         <h2>93. 〜ている (Action in progress)</h2>
-        <button class="play-btn" data-target="lesson-46" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-47" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3387,10 +3971,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-47" data-idx="47">
+    <section class="lesson" id="lesson-48" data-idx="48">
       <div class="lesson-head">
         <h2>94. 〜ている 2</h2>
-        <button class="play-btn" data-target="lesson-47" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-48" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3446,10 +4030,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-48" data-idx="48">
+    <section class="lesson" id="lesson-49" data-idx="49">
       <div class="lesson-head">
         <h2>98. Te form for joining sentences</h2>
-        <button class="play-btn" data-target="lesson-48" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-49" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3495,10 +4079,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-49" data-idx="49">
+    <section class="lesson" id="lesson-50" data-idx="50">
       <div class="lesson-head">
         <h2>99. Writing Practice</h2>
-        <button class="play-btn" data-target="lesson-49" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-50" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3554,10 +4138,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-50" data-idx="50">
+    <section class="lesson" id="lesson-51" data-idx="51">
       <div class="lesson-head">
         <h2>102. (Body part)が(adjective)です。</h2>
-        <button class="play-btn" data-target="lesson-50" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-51" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3588,10 +4172,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-51" data-idx="51">
+    <section class="lesson" id="lesson-52" data-idx="52">
       <div class="lesson-head">
         <h2>106. Verb stem + にいく</h2>
-        <button class="play-btn" data-target="lesson-51" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-52" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3622,10 +4206,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-52" data-idx="52">
+    <section class="lesson" id="lesson-53" data-idx="53">
       <div class="lesson-head">
         <h2>107. Writing Practice</h2>
-        <button class="play-btn" data-target="lesson-52" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-53" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3666,10 +4250,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-53" data-idx="53">
+    <section class="lesson" id="lesson-54" data-idx="54">
       <div class="lesson-head">
         <h2>108. Listening Practice</h2>
-        <button class="play-btn" data-target="lesson-53" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-54" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3710,10 +4294,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-54" data-idx="54">
+    <section class="lesson" id="lesson-55" data-idx="55">
       <div class="lesson-head">
         <h2>110. たくさん many</h2>
-        <button class="play-btn" data-target="lesson-54" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-55" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3759,10 +4343,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-55" data-idx="55">
+    <section class="lesson" id="lesson-56" data-idx="56">
       <div class="lesson-head">
         <h2>112. 1時間</h2>
-        <button class="play-btn" data-target="lesson-55" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-56" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3793,10 +4377,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-56" data-idx="56">
+    <section class="lesson" id="lesson-57" data-idx="57">
       <div class="lesson-head">
         <h2>115. Present tense Short form - Affirmative Conjugation</h2>
-        <button class="play-btn" data-target="lesson-56" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-57" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3842,10 +4426,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-57" data-idx="57">
+    <section class="lesson" id="lesson-58" data-idx="58">
       <div class="lesson-head">
         <h2>116. Present tense Short form - Short form Negative Conjugation</h2>
-        <button class="play-btn" data-target="lesson-57" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-58" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -3961,10 +4545,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-58" data-idx="58">
+    <section class="lesson" id="lesson-59" data-idx="59">
       <div class="lesson-head">
         <h2>117 Usage of short forms 1 - Quotation (Someone said... I think...)</h2>
-        <button class="play-btn" data-target="lesson-58" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-59" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4000,10 +4584,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-59" data-idx="59">
+    <section class="lesson" id="lesson-60" data-idx="60">
       <div class="lesson-head">
         <h2>118. Usage of short forms 2 - Casual conversation</h2>
-        <button class="play-btn" data-target="lesson-59" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-60" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4084,10 +4668,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-60" data-idx="60">
+    <section class="lesson" id="lesson-61" data-idx="61">
       <div class="lesson-head">
         <h2>119. Usage of short forms 3 - Please don&#x27;t do</h2>
-        <button class="play-btn" data-target="lesson-60" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-61" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4143,10 +4727,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-61" data-idx="61">
+    <section class="lesson" id="lesson-62" data-idx="62">
       <div class="lesson-head">
         <h2>120. Usage of short forms 4 - I like doing</h2>
-        <button class="play-btn" data-target="lesson-61" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-62" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4187,10 +4771,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-62" data-idx="62">
+    <section class="lesson" id="lesson-63" data-idx="63">
       <div class="lesson-head">
         <h2>124. Past tense short forms - Affirmative Conjugation</h2>
-        <button class="play-btn" data-target="lesson-62" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-63" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4271,10 +4855,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-63" data-idx="63">
+    <section class="lesson" id="lesson-64" data-idx="64">
       <div class="lesson-head">
         <h2>125. Past tense short forms - Negative Conjugation</h2>
-        <button class="play-btn" data-target="lesson-63" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-64" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4485,10 +5069,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-64" data-idx="64">
+    <section class="lesson" id="lesson-65" data-idx="65">
       <div class="lesson-head">
         <h2>126. Past tense short forms - Usage</h2>
-        <button class="play-btn" data-target="lesson-64" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-65" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4519,10 +5103,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-65" data-idx="65">
+    <section class="lesson" id="lesson-66" data-idx="66">
       <div class="lesson-head">
         <h2>130. Something and Anything</h2>
-        <button class="play-btn" data-target="lesson-65" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-66" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4558,10 +5142,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-66" data-idx="66">
+    <section class="lesson" id="lesson-67" data-idx="67">
       <div class="lesson-head">
         <h2>131. Some and Any for places, person and things</h2>
-        <button class="play-btn" data-target="lesson-66" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-67" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4657,10 +5241,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-67" data-idx="67">
+    <section class="lesson" id="lesson-68" data-idx="68">
       <div class="lesson-head">
         <h2>135. Qualifying Nouns with Verbs and Adjectives</h2>
-        <button class="play-btn" data-target="lesson-67" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-68" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4731,10 +5315,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-68" data-idx="68">
+    <section class="lesson" id="lesson-69" data-idx="69">
       <div class="lesson-head">
         <h2>138. まだ〜ていません</h2>
-        <button class="play-btn" data-target="lesson-68" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-69" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4795,10 +5379,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-69" data-idx="69">
+    <section class="lesson" id="lesson-70" data-idx="70">
       <div class="lesson-head">
         <h2>143. Because 1 〜から</h2>
-        <button class="play-btn" data-target="lesson-69" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-70" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4844,10 +5428,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-70" data-idx="70">
+    <section class="lesson" id="lesson-71" data-idx="71">
       <div class="lesson-head">
         <h2>144. Because 2 〜ので</h2>
-        <button class="play-btn" data-target="lesson-70" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-71" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4898,10 +5482,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-71" data-idx="71">
+    <section class="lesson" id="lesson-72" data-idx="72">
       <div class="lesson-head">
         <h2>146. Comparison 1 - A is more (property) than B</h2>
-        <button class="play-btn" data-target="lesson-71" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-72" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4927,10 +5511,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-72" data-idx="72">
+    <section class="lesson" id="lesson-73" data-idx="73">
       <div class="lesson-head">
         <h2>147. Comparison 2 - Between A and B, which is more (property)</h2>
-        <button class="play-btn" data-target="lesson-72" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-73" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -4966,10 +5550,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-73" data-idx="73">
+    <section class="lesson" id="lesson-74" data-idx="74">
       <div class="lesson-head">
         <h2>148. Comparison 3 - A is the most (property) among (category)</h2>
-        <button class="play-btn" data-target="lesson-73" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-74" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5005,10 +5589,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-74" data-idx="74">
+    <section class="lesson" id="lesson-75" data-idx="75">
       <div class="lesson-head">
         <h2>149. Comparison 4 - Among (Category), what is the most (Property)</h2>
-        <button class="play-btn" data-target="lesson-74" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-75" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5079,10 +5663,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-75" data-idx="75">
+    <section class="lesson" id="lesson-76" data-idx="76">
       <div class="lesson-head">
         <h2>154. Pronoun の</h2>
-        <button class="play-btn" data-target="lesson-75" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-76" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5128,10 +5712,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-76" data-idx="76">
+    <section class="lesson" id="lesson-77" data-idx="77">
       <div class="lesson-head">
         <h2>156. つもりだ</h2>
-        <button class="play-btn" data-target="lesson-76" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-77" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5157,10 +5741,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-77" data-idx="77">
+    <section class="lesson" id="lesson-78" data-idx="78">
       <div class="lesson-head">
         <h2>159. Adjective + なる</h2>
-        <button class="play-btn" data-target="lesson-77" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-78" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5256,10 +5840,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-78" data-idx="78">
+    <section class="lesson" id="lesson-79" data-idx="79">
       <div class="lesson-head">
         <h2>184. 〜なくちゃいけません</h2>
-        <button class="play-btn" data-target="lesson-78" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-79" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5320,10 +5904,10 @@
       </div>
     </section>
 
-    <section class="lesson" id="lesson-79" data-idx="79">
+    <section class="lesson" id="lesson-80" data-idx="80">
       <div class="lesson-head">
         <h2>186. 〜でしょう</h2>
-        <button class="play-btn" data-target="lesson-79" aria-label="播放本課日文例句">▶ 播放日文</button>
+        <button class="play-btn" data-target="lesson-80" aria-label="播放本課日文例句">▶ 播放日文</button>
       </div>
       <div class="cards">
         <div class="card">
@@ -5440,7 +6024,7 @@
 
   lessonSections.forEach(function (sec) { observer.observe(sec); });
 
-  var LESSON_DATA = [{"id": "lesson-0", "sentences": ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]}, {"id": "lesson-1", "sentences": ["二十", "三十", "四十", "七十", "八十", "九十", "二十一", "三十七", "八十二", "四十九", "七十七", "三十九", "十五", "二十四"]}, {"id": "lesson-2", "sentences": ["百", "二百", "四百", "三百", "六百", "八百", "九百", "百二十三", "三百五十七", "四百九", "八百十二", "二百四十九", "六百七", "五百十", "百二", "三百二十四", "千", "二千", "四千", "三千", "八千", "九千", "二千三百五十七", "八千三百七", "三千八百十二", "二千四十九", "千六百七", "八千三百二十四"]}, {"id": "lesson-3", "sentences": ["一", "十", "百", "千", "一万", "十万", "百万", "千万", "一億", "十億"]}, {"id": "lesson-4", "sentences": ["午前", "午後", "正午", "深夜", "1時", "2時", "午前4時", "午前7時", "午前9時", "2分", "12分", "22分", "5分", "15分", "25分", "7分", "17分", "3分", "13分", "23分", "4分", "14分", "24分", "1分", "11分", "21分", "6分", "16分", "26分", "8分", "18分", "28分", "30分", "半", "午後1時30分", "午後1時半"]}, {"id": "lesson-5", "sentences": ["私", "私達", "あなた", "あなた達", "彼", "彼達", "彼ら", "彼女", "彼女達", "彼女ら", "私は日本人です。", "あなたは学生です。", "昨日は日曜日でした。", "夜ご飯は寿司でした。", "私の誕生日は昨日でした。", "私のお母さんは医者でした。", "今日は月曜日です。"]}, {"id": "lesson-6", "sentences": ["誕生日", "今日", "昨日", "明日", "11日", "12日", "1日", "2日", "3日", "4日", "5日", "6日", "7日", "8日", "9日", "10日", "20日", "1月", "2月", "○○○はいつですか?", "○○○は何月何日ですか?"]}, {"id": "lesson-7", "sentences": ["あなたの名前はなんですか?", "あなたの家はどこですか?", "あなたの先生は誰ですか?", "あなたの誕生日はいつですか?", "あなたの好きな食べ物はなんですか?", "あなたの学校はどこですか?", "パーティーはいつですか?", "あなたの好きな歌手は誰ですか?"]}, {"id": "lesson-8", "sentences": ["私のお母さん", "アメリカ人の学生", "たけしの弟", "あなたの電話番号", "スペイン語の先生", "私の夏休みの予定"]}, {"id": "lesson-9", "sentences": ["私は日本人です。", "私も日本人です。", "さとしも学生です。", "さとしも学生でした。", "さとしも学生ですか？", "さとしも学生でしたか？"]}, {"id": "lesson-10", "sentences": ["私は日本人です。", "私は日本人じゃありません。", "たけしは15歳じゃありません。", "明日は土曜日じゃありません。", "わたしは学生じゃありません。", "たけしは19歳です。", "たけしは19歳じゃありません。", "わたしのお父さんは警察官です。", "わたしのお父さんは警察官じゃありません。"]}, {"id": "lesson-11", "sentences": ["セール", "夢", "歌手", "Xは Yじゃありませんでした。", "Xは Yじゃなかったです。", "私は学生でした。", "私は学生じゃありませんでした。"]}, {"id": "lesson-12", "sentences": ["これは本です。", "あれは私の家です。", "これはりんごですか?", "あれはあなたの弟ですか?", "あなたのペンはどれですか?", "好きな映画はどれですか?", "これはわたしの水筒です。", "それはあなたの携帯電話ですか?", "あなたの車はどれですか?", "あれは何ですか?"]}, {"id": "lesson-13", "sentences": ["この本はわたしのです。", "あの家はわたしのです。", "あの人はあなたの友達ですか？", "この車はあなたのですか？", "どのペンはあなたのですか？", "どの映画は人気ですか？", "この水筒はわたしのです。", "どの携帯電話はあなたのですか？", "その携帯電話はわたしのです。", "あの女性はみきこですか？", "あの女性はみきこじゃないです。", "あの女性はみきこじゃありません。"]}, {"id": "lesson-14", "sentences": ["メアリーの電話番号", "たけしのお母さん", "誰の", "これはだれのかばんですか？", "これはスーのかばんです。", "これはだれの車ですか？", "彼女はだれのお母さんですか？", "あれはだれの家ですか？", "これはだれの財布ですか？"]}, {"id": "lesson-15", "sentences": ["ここは図書館です。", "あそこは私の家です。", "東京タワーはここです。", "あなたの携帯はあそこです。", "あなたの車はどこですか？", "待ち合わせ場所はどこですか？", "ここは私の故郷です。", "あそこは私の職場です。", "病院はどこですか？", "ここはどこですか？"]}, {"id": "lesson-16", "sentences": ["これは私の車です。", "それはあなたの携帯電話ですか?", "この携帯電話は私のじゃないです。", "この携帯電話は私のじゃありません。", "あなたの携帯電話はここです!", "これは誰のTシャツですか?", "あなたの家はどこですか?", "あれは私の家です。", "あなたの学校はあそこですか?", "あそこは私の学校じゃないです。", "あそこは私の学校じゃありません。", "あの家は誰の家ですか?"]}, {"id": "lesson-17", "sentences": ["食べる", "寝る", "起きる", "見る"]}, {"id": "lesson-18", "sentences": ["飲む", "読む", "話す", "聞く", "行く", "帰る", "飲みます", "飲みません", "読みます", "読みません", "話します", "話しません"]}, {"id": "lesson-19", "sentences": ["来る", "する", "勉強する", "料理する", "散歩する", "旅行する", "来ます", "来ません", "します", "しません", "勉強します", "勉強しません", "料理します", "料理しません", "散歩します", "散歩しません", "旅行します", "旅行しません"]}, {"id": "lesson-20", "sentences": ["私はよくテレビを見ます。", "メアリーさんはときどき朝ごはんを食べません。", "私はあした京都に行きます。", "スーさんは今日うちに帰りません。", "学生じゃないです。", "学生じゃなかったです。", "日本の映画です。", "日本の映画でした。", "日本の映画じゃないです。", "日本の映画じゃなかったです。", "私のお父さんは先生でした。", "私のお父さんは先生じゃなかったです。"]}, {"id": "lesson-21", "sentences": ["食べます。", "食べました。", "食べません。", "食べませんでした。", "私は9時に帰ります。", "私は9時に帰りました。", "私は9時に帰りません。", "私は9時に帰りませんでした。", "私は昨日の夜すしを食べました。", "私は昨日の夜すしを食べませんでした。", "昨日何をしましたか?", "学生です。", "学生でした。", "学生じゃないです。", "学生じゃなかったです。"]}, {"id": "lesson-22", "sentences": ["図書館で本を読みます。", "私は学校に行きません。", "私は11時に寝ます。", "私は学校へ行きません。", "私はコーヒーを飲みます。"]}, {"id": "lesson-23", "sentences": ["うちでテレビを見ます。", "日曜日に京都へ行きます。", "私は音楽を聞きます。", "メアリーさんはなんじにかふぇにいきますか。"]}, {"id": "lesson-24", "sentences": ["毎日", "いつ", "朝", "夜", "週末", "平日", "日曜日に", "10時42分に", "9月に", "今日", "明日", "朝に", "夜に", "週末に", "いつ図書館に行きますか？", "日曜日に行きます。", "毎日行きます。", "朝に行きます。", "朝行きます。"]}, {"id": "lesson-25", "sentences": ["メアリー、週末は何をしますか?", "今日は京都に行きます。", "晩ごはんは?", "今週末は何をしますか?", "映画は?", "明日は何をしますか?", "日本語を勉強します。", "あなたは?", "金曜日は何をしますか?", "金曜日は、映画をみます。", "映画は、好きな映画は何ですか?"]}, {"id": "lesson-26", "sentences": ["ロバートさんは沖縄に行きました。", "ロバートさんが沖縄に行きました。", "誰が沖縄に行きましたか。", "誰は沖縄に行きましたか。", "どのクラスがおもしろいですか。", "日本語のクラスがおもしろいです。", "誰がめがねをかけていますか。", "山下さんがめがねをかけています。", "誰がイギリス人ですか。", "ロバートがイギリス人です。", "誰が泳ぐのが上手ですか。", "たけしが泳ぐのが上手です。", "誰が先週末デートに行きましたか。", "メアリーとたけしが先週末デートに行きました。"]}, {"id": "lesson-27", "sentences": ["昨日京都に行きました。", "たかも昨日京都に行きました。", "メアリーはくつを買いました。", "メアリーはかばんも買いました。", "先週京都に行きました。", "大阪にも行きました。", "みきは土曜日にパーティーに行きました。", "日曜日にもパーティーに行きました。", "なおこは中国に行きました。", "台湾にも行きました。", "たけしも中国に行きました。", "わたしは中国語を勉強します。", "スペイン語も勉強します。", "わたしは月曜日にカフェに行きます。", "木曜日にもあそこに行きます。"]}, {"id": "lesson-28", "sentences": ["日本語と英語を話します。", "東京と大阪に行きました。", "私はりんごとさくらんぼを食べました。", "私はメアリーと韓国に行きました。", "私はけんと日本語を勉強します。"]}, {"id": "lesson-29", "sentences": ["京都や奈良に行きました。", "たこ焼きやおにぎりが好きです。", "みそしるやおこのみやきを料理しました。", "たくは日本語やフランス語を話します。"]}, {"id": "lesson-30", "sentences": ["お箸でご飯を食べます。", "日本語で話しましょう。", "バスで学校に行きます。", "テレビで映画を見ました。", "飛行機で大阪に行きますか?", "いいえ、新幹線で大阪に行きます。", "パソコンで映画を観ます。", "家族とスペイン語で話しますか?"]}, {"id": "lesson-31", "sentences": ["週に2回", "月に3回", "年に4回", "私はぜんぜんテレビを見ません。", "たけしさんはあまり勉強しません。"]}, {"id": "lesson-32", "sentences": ["昼ごはんを食べますか", "昼ごはんを食べませんか?", "カフェに行きませんか?", "映画を見ません。", "映画を見ませんか?", "明日酒を飲みません。", "明日酒を飲みませんか?", "日本語を勉強しません。", "日本語を勉強しませんか?"]}, {"id": "lesson-33", "sentences": ["図書館で勉強しましょう。", "カフェでコーヒーを飲みましょうか？", "映画を見ます。", "映画を見ましょう！", "映画を見ましょうか？", "あした、サッカーをします。", "あした、サッカーをしましょう！", "あした、サッカーをしましょうか？", "今週末、キャンプにいきます。", "今週末キャンプにいきましょう！", "今週末キャンプにいきましょうか？"]}, {"id": "lesson-34", "sentences": ["あそこにサーフボードがあります。", "時間がありますか？"]}, {"id": "lesson-35", "sentences": ["あそこに留学生がいます。", "あそこに猫がいます。", "あそこに私のスペイン語の先生がいます。"]}, {"id": "lesson-36", "sentences": ["家の前に車があります。", "車はどこですか？", "車はここです。", "車はそこです。", "車はあそこです。", "はどこですか？", "～の前", "～の後ろ", "～の隣", "～の左", "～の右", "～の中", "～の外", "～の上", "～の下", "AとBの間", "銀行は図書館のとなりです。", "傘は机の下です。", "車は自転車と家の間です。", "カフェの前で待ちます。", "私の家は学校の後ろです。", "駅の中で待ちます。"]}, {"id": "lesson-37", "sentences": ["おもしろいです。", "おもしろくないです。", "おもしろかったです。", "おもしろくなかったです。", "こわいです。", "こわくないです。", "こわかったです。", "こわくなかったです。", "おおきいです。", "おおきくないです。", "おおきかったです。", "おおきくなかったです。", "このケーキは美味しいです。", "今日は寒くないです。", "このTシャツは小さかったです。", "昨日は暑くなかったです。"]}, {"id": "lesson-38", "sentences": ["元気な", "有名な", "綺麗な", "静かな", "人気な", "危険な", "便利な", "元気です。", "元気じゃないです。", "元気でした。", "元気じゃなかったです。", "有名です。", "有名じゃないです。", "有名でした。", "有名じゃなかったです。", "綺麗です。", "綺麗じゃないです。", "綺麗でした。", "綺麗じゃなかったです。", "図書館は静かです。", "このレストランは人気じゃないです。", "この家は危険でした。", "道具は便利じゃなかったです。"]}, {"id": "lesson-39", "sentences": ["良い", "かっこいい", "心地いい", "いいです。", "よくないです。", "よかったです。", "よくなかったです。"]}, {"id": "lesson-40", "sentences": ["これはわたしのすきなテレビです。", "好きでも嫌いでもありません。"]}, {"id": "lesson-41", "sentences": ["とても", "ちょっと", "沖縄", "海", "暑い", "熱", "大好き", "大嫌い"]}, {"id": "lesson-42", "sentences": ["食べる", "食べて"]}, {"id": "lesson-43", "sentences": ["会う", "取る", "遊ぶ", "死ぬ", "書く", "泳ぐ", "会って", "たべて", "たべます", "会いて", "読みて", "かきます", "かいて"]}, {"id": "lesson-44", "sentences": ["名前を書いてください。", "すみません、助けてください。", "駅の前で待ってください。", "この本を読んでください。", "毎日朝ごはんを食べてください。", "10時に寝てください。"]}, {"id": "lesson-45", "sentences": ["水", "窓", "開ける", "写真", "教科書を見てもいいですか?", "はい。見てもいいです。", "いいえ。見てはいけません。", "この水を飲んでもいいですか?", "この水を飲んでもいいです。", "この水を飲んではいけません。", "あなたの写真をとってもいいですか?", "私の写真をとってもいいです。", "私の写真をとってはいけません。", "窓を開けてもいいですか?", "窓を開けてもいいです。", "窓を開けてはいけません。"]}, {"id": "lesson-46", "sentences": ["料理する", "プール", "手紙", "パンケーキ", "います", "いません", "いました", "いませんでした", "食べる", "読む", "待つ"]}, {"id": "lesson-47", "sentences": ["みのりは結婚しています。", "みのりは結婚します。", "みちこはTシャツを着ています。", "みちこはTシャツを着ます。", "私は起きています。", "さちこはユニクロで勤めています。", "中国に行っています。", "私の家にきています。", "中国に向かっています。", "私の家に向かっています。"]}, {"id": "lesson-48", "sentences": ["安くて美味しいです。", "綺麗で広いです。", "けんは日本人で学生です。", "えりは元気で面白いです。", "あんなは韓国人で22歳です。", "このパンは安くて美味しいです。", "たろうは背が高くて静かです。", "なおみは親切で面白くて頭がいいです。"]}, {"id": "lesson-49", "sentences": ["可愛くて", "綺麗で", "学生で", "よくて", "けんは日本人で学生です。", "このレストランは安くて美味しいです。", "あなたの家は綺麗で広いです。", "たけしは頭がよくて背が高いです。", "けんとの犬はオスで元気です。", "みかは動物が好きで親切です。"]}, {"id": "lesson-50", "sentences": ["とむの髪は長いです。", "とむは髪が長いです。", "背が高い", "背が低い", "頭が良い"]}, {"id": "lesson-51", "sentences": ["デパートにバッグを買いに行きました。", "メアリーは日本に日本語を勉強しにきました。", "私はかいの家に本を借りに行きました。", "あかりは街におばさんに会いに行きました。", "ななはビーチにサーフィンしに行きました。"]}, {"id": "lesson-52", "sentences": ["メアリーは日本に日本語を勉強しにきました。", "私はかいの家に本を借りに行きます。", "私は東京にお父さんに会いに行きました。", "私は学校にバスケットボールをしに行きません。", "図書館に勉強しにきましたか。", "きこは本を返しにきませんでした。", "とうまは家に夜ごはんを料理しにきます。"]}, {"id": "lesson-53", "sentences": ["たえはご飯を食べに行きましたか?", "りのは映画を観に行きません。", "きほはカフェにともに会いにきました。", "私は図書館に勉強しにきました。", "ともかはアメリカに友達に会いに行きます。", "ゆりは公園に写真を撮りに行きませんでした。", "としはコーヒーを飲みにきます。"]}, {"id": "lesson-54", "sentences": ["写真をたくさん撮りました。", "たくさん写真を撮りました。", "野菜をたくさん食べました。", "たくさん野菜を食べました。", "公園でたくさん人を見ました。", "公園で人をたくさん見ました。", "日曜日たくさん映画を見ました。", "日曜日映画をたくさん見ました。"]}, {"id": "lesson-55", "sentences": ["メアリーはたけしを1時間待ちました。", "メアリーはたけしを1時間ぐらい待ちました。", "たけしは公園で30分間走りました。", "わたしは昨晩8時間寝ました。", "土曜日本を4時間読みました。"]}, {"id": "lesson-56", "sentences": ["読みます", "読む", "かわいいです", "かわいい", "静かです", "静かだ", "学生です", "学生だ"]}, {"id": "lesson-57", "sentences": ["読みません", "読まない", "かわいくないです", "かわいくない", "静かじゃないです", "静かじゃない", "学生じゃないです", "学生じゃない", "食べる", "食べない", "書く", "書かない", "待つ", "待たない", "する", "しない", "来る", "来ない", "買う", "買わない", "ある", "ない"]}, {"id": "lesson-58", "sentences": ["と言っていました。", "と思います。", "あした、試験があります。", "メアリーは明日試験があると言っていました。", "～ないとおもいます。", "～とおもいません。"]}, {"id": "lesson-59", "sentences": ["魚をよく食べますか？", "魚をよく食べる？", "はい。よく食べます。", "うん。よく食べる。", "いいえ。食べません。", "ううん。食べない。", "今日、勉強する？", "うん。勉強する。", "ううん。勉強しない。", "あなたのお父さんは警察官？", "うん。警察官。", "ううん。警察官じゃない。", "このケーキ美味しい？", "うん。美味しい。", "ううん。美味しくない。"]}, {"id": "lesson-60", "sentences": ["ここで写真を撮らないでください。", "食べないでください。", "見ないでください。", "走らないでください。", "運転しないでください。", "来ないでください。", "家の中で走らないでください。", "図書館の中で食べないでください。", "私の車を運転しないでください。", "パーティーに来ないでください。"]}, {"id": "lesson-61", "sentences": ["～が好きです。", "～が嫌いです。", "～が上手です。", "～が下手です。", "たけしは英語を話すのが下手です。", "～が得意です。", "～が苦手です。"]}, {"id": "lesson-62", "sentences": ["読んだ", "可愛かった", "静かだった", "学生だった", "食べた", "書いた", "会った", "来た", "面白かった", "美味しかった", "怖かった", "綺麗だった", "日本人だった", "行った", "よかった"]}, {"id": "lesson-63", "sentences": ["読まない", "読まなかった", "可愛くない", "可愛くなかった", "静かじゃない", "静かじゃなかった", "学生じゃない", "学生じゃなかった", "食べる", "食べない", "食べなかった", "書く", "書かない", "書かなかった", "会う", "会わない", "会わなかった", "来る", "来ない", "来なかった", "可愛い", "面白い", "面白くない", "面白くなかった", "美味しい", "美味しくない", "美味しくなかった", "怖い", "怖くない", "怖くなかった", "静かな", "綺麗な", "綺麗じゃない", "綺麗じゃなかった", "元気な", "元気じゃない", "元気じゃなかった", "学生です", "日本人です", "日本人じゃない", "日本人じゃなかった"]}, {"id": "lesson-64", "sentences": ["すーは、お昼ご飯を食べたと言っていました。", "とむさんがしたと思います。", "夜ごはん、食べた？", "うん、食べた。", "すーはにほんごをべんきょうしているといっていました。"]}, {"id": "lesson-65", "sentences": ["猫が何か持ってきました。", "猫は何か食べましたか？", "猫は何も食べませんでした。", "パーティーで何か食べましたか？", "パーティーで何も食べませんでした。", "家で何か食べます。"]}, {"id": "lesson-66", "sentences": ["何か", "何も", "どこか", "誰か", "どこも", "誰も", "どこかへ行きましたか?", "いいえ、どこにも行きませんでした。", "誰かに会いましたか?", "いいえ、誰にも会いませんでした。", "何かしましたか?", "いいえ、何もしませんでした。", "何か買いましたか?", "いいえ、何も買いませんでした。", "イベントで誰かに会いましたか?", "誰にも会いませんでした。", "先週末どこかに行きましたか?", "どこにも行きませんでした。"]}, {"id": "lesson-67", "sentences": ["あそこで本を読んでいる学生はみちこです。", "おもしろい人", "髪が長い人", "めがねをかけている人", "あそこで写真をとっているひとはだれですか？", "毎日運動する人はげんきです。", "たばこを吸わないひとがすきです。", "去年結婚したともだちからてがみがきました。", "私と働く人", "バスケットボールをするのが好きな私の友達", "料理するのが上手な人", "綺麗な女の子", "目が大きい人"]}, {"id": "lesson-68", "sentences": ["わたしはきのう宿題をしました。", "わたしはもう宿題をしました。", "わたしはきのう宿題をしませんでした。", "わたしはまだ宿題をしていません。", "私はまだ食べていません。", "スーはまだ起きていません。", "もうコーヒーを飲みましたか？", "まだコーヒーを飲んでいません。", "もうコーヒーを飲みました。", "まだナルトをみていません。", "もうナルトを観ました。"]}, {"id": "lesson-69", "sentences": ["今晩勉強します。", "明日テストがありますから。", "バスに乗りましょう。", "タクシーは高いですから。", "あなたの家に来てもいいですか？", "私の家は遠いですから。", "たけしは学校に来ませんでした。", "たけしは病気でしたから。"]}, {"id": "lesson-70", "sentences": ["いつも日本語で話すので、日本語が上手になりました。", "宿題がたくさんあったので、きのうの夜寝ませんでした。", "彼はいじわるなので、きらいです。", "今日は日曜日なので、銀行は休みです。", "このカバンは安いので、買います。", "彼女は親切なので、とても人気です。", "日本語を勉強したかったので、日本に来ました。", "病気だったので、学校に行きませんでした。", "明日はけんの誕生日なので、ケーキを買いに行きましょう。"]}, {"id": "lesson-71", "sentences": ["緑のドレスが好きですが、黄色いのも好きです。", "ニューヨークの家賃は日本のより高いです。", "この辞書は古いから、新しいのを買います。", "私のパソコンはあなたのより遅いです。"]}, {"id": "lesson-72", "sentences": ["AとBとどっちのほうがですか？", "バスと電車とどっちのほうが安いですか？", "ねこといぬとどっちのほうが可愛いですか？", "トムとかいとどっちのほうが若いですか？", "さきとりんとどっちのほうが背が高いですか？", "サッカーと野球とどっちのほうが好きですか？"]}, {"id": "lesson-73", "sentences": ["クラスのなかで日本語のクラスがいちばんおもしろいです。", "動物のなかでライオンがいちばん強いです。", "季節のなかで夏がいちばん好きです。", "果物のなかでドリアンがいちばん臭いです。", "家族のなかでお父さんがいちばん背が高いです。", "友達のなかでたかこがいちばん若いですか?"]}, {"id": "lesson-74", "sentences": ["のなかでどれがいちばんですか?", "のなかで何がいちばんですか?", "何", "どこ", "誰", "いつ", "みかんとりんごといちごのなかで、どれがいちばん甘いですか?", "街のなかでどこがいちばん大きいですか?", "季節のなかでいつがいちばん好きですか?", "ロサンジェルスと東京とパリのなかでどれがいちばん好きですか?", "家族のなかで誰がいちばん背が高いですか?", "サッカーとテニスと野球のなかでどれがいちばん人気ですか?", "スポーツのなかで何がいちばん人気ですか?"]}, {"id": "lesson-75", "sentences": ["黒いセーターを持っています。赤いのも持っています。", "安い辞書を買いに行きました。でもいいのがありませんでした。", "いいえ、それはメアリーのです。", "アメリカのアイスクリームのほうが日本のよりおいしいです。", "緑のドレスが好きです。でも、黄色のも好きです。", "ニューヨークの家賃のほうが、日本のより高いです。", "この辞書は古いから、新しいのを買います。", "私のパソコンのほうがあなたのより遅いです。"]}, {"id": "lesson-76", "sentences": ["つもりです。", "つもりじゃないです。", "つもりでした。", "つもりじゃなかったです。"]}, {"id": "lesson-77", "sentences": ["なります。", "なりません。", "なりました。", "なりませんでした。", "あたたかい", "あたたかくなる", "静かな", "静かになる", "学生", "学生になる", "日本語の勉強がたのしくなりました。", "日本語の勉強が好きになりました。", "たけしは明日20歳になります。", "メアリーは前より日本語が上手になりました。", "部屋が綺麗になりました。", "昨日、何歳になりましたか?", "家賃が去年より高くなりました。", "かおりは前より料理するのが上手になりました。"]}, {"id": "lesson-78", "sentences": ["食べなくちゃいけません", "言わなくちゃいけません", "しなくちゃいけません", "こなくちゃいけません", "来週テストがあるから、たくさん勉強しなくちゃいけません。", "今朝6時に起きなくちゃいけませんでした。", "毎日練習しなくちゃいけないんです。", "明日テストがあるから今夜勉強しなくちゃいけません。", "学校が忙しくなったからバイトを辞めなくちゃいけません。", "昨日家を掃除しなくちゃいけませんでした。", "昨晩夜ご飯を料理しなくちゃいけませんでした。"]}, {"id": "lesson-79", "sentences": ["明日、雨が降るでしょう。", "明日、雨が降らないでしょう。", "北海道は寒いでしょう。", "北海道は寒くないでしょう。", "けんは魚が好きでしょう。", "けんは魚が好きじゃないでしょう。", "まこは学生でしょう。", "まこは学生じゃないでしょう。", "日本語と韓国語と、どっちのほうが難しいでしょうか?", "たけしは興味があるだろうと思います。", "ジョン、中国語が分かるでしょ?", "みあはお昼ご飯を食べないでしょう。", "このケーキはとても高いでしょう。", "あの人は有名でしょう。", "たかは25歳でしょう。"]}];
+  var LESSON_DATA = [{"id": "lesson-0", "sentences": ["私は寿司を食べたいです。", "今晩映画を見たいです。", "冷たい水が飲みたいです。", "日本を旅行したいです。", "このパンは食べやすいです。", "この言葉は覚えやすいです。", "この靴は歩きやすいです。", "雨が降りやすい天気が続きそうです。", "この肉は硬くて食べにくいです。", "この漢字は覚えにくいです。", "この字は小さくて読みにくいです。", "昨日、食べすぎました。", "今朝寝すぎて、遅刻しました。", "お酒を飲みすぎないでください。", "子供がご飯を食べ始めました。", "映画を見始めました。", "雨が降り始めました。", "去年から日本語を勉強し始めました。", "ご飯を食べ終わりました。", "映画を見終わりました。", "この本を読み終わりました。", "彼はずっと食べ続けています。", "三時間テレビを見続けました。", "一時間走り続けました。", "十年日本語を勉強し続けています。", "寿司の食べ方を教えてください。", "単語の覚え方を教えてください。", "この機械の使い方が分かりません。", "漢字の書き方を習いました。", "今、ご飯を食べています。", "弟はテレビを見ています。", "父は新聞を読んでいます。", "ここで食べてもいいですか。", "窓を開けてもいいですか。", "もう帰ってもいいですよ。", "明日電話してもいいですか。", "ここで食べてはいけません。", "この写真を見てはいけません。", "ここでタバコを吸ってはいけません。", "これを食べてください。", "これを見てください。", "ここで待ってください。", "もう一度説明してください。", "ご飯を食べてから勉強します。", "起きてからコーヒーを飲みます。", "手を洗ってからご飯を食べます。", "私は肉を食べない。", "私はテレビを見ない。", "お酒は飲まない。", "今日は勉強しない。", "ここで食べないでください。", "宿題を忘れないでください。", "ここでタバコを吸わないでください。", "全部食べなくてもいいです。", "明日は早く起きなくてもいいです。", "明日は学校へ行かなくてもいいです。", "予約しなくてもいいです。", "野菜を食べなければなりません。", "毎朝六時に起きなければなりません。", "薬を飲まなければなりません。", "毎日日本語を勉強しなければなりません。", "私は生の魚を食べることができます。", "ここで富士山を見ることができます。", "日本語を話すことができます。", "車を運転することができます。", "寿司を食べることがあります。", "電車が遅れることがあります。", "週末は映画館へ行くことがあります。", "たまに友達と外食することがあります。", "私は甘い物を食べることが好きです。", "私は映画を見ることが好きです。", "妹は本を読むことが好きです。", "日本語を勉強することが好きです。", "食べる前に手を洗います。", "寝る前に歯を磨きます。", "日本へ行く前に日本語を習いました。", "ご飯を食べるとき、テレビを見ます。", "出かけるとき、鍵をかけます。", "この言葉を使うとき、気をつけてください。", "子供が全部食べそうです。", "コップが落ちそうです。", "雨が降りそうです。", "子供が泣きそうです。", "バスが来そうです。", "このケーキはおいしそうです。"]}, {"id": "lesson-1", "sentences": ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]}, {"id": "lesson-2", "sentences": ["二十", "三十", "四十", "七十", "八十", "九十", "二十一", "三十七", "八十二", "四十九", "七十七", "三十九", "十五", "二十四"]}, {"id": "lesson-3", "sentences": ["百", "二百", "四百", "三百", "六百", "八百", "九百", "百二十三", "三百五十七", "四百九", "八百十二", "二百四十九", "六百七", "五百十", "百二", "三百二十四", "千", "二千", "四千", "三千", "八千", "九千", "二千三百五十七", "八千三百七", "三千八百十二", "二千四十九", "千六百七", "八千三百二十四"]}, {"id": "lesson-4", "sentences": ["一", "十", "百", "千", "一万", "十万", "百万", "千万", "一億", "十億"]}, {"id": "lesson-5", "sentences": ["午前", "午後", "正午", "深夜", "1時", "2時", "午前4時", "午前7時", "午前9時", "2分", "12分", "22分", "5分", "15分", "25分", "7分", "17分", "3分", "13分", "23分", "4分", "14分", "24分", "1分", "11分", "21分", "6分", "16分", "26分", "8分", "18分", "28分", "30分", "半", "午後1時30分", "午後1時半"]}, {"id": "lesson-6", "sentences": ["私", "私達", "あなた", "あなた達", "彼", "彼達", "彼ら", "彼女", "彼女達", "彼女ら", "私は日本人です。", "あなたは学生です。", "昨日は日曜日でした。", "夜ご飯は寿司でした。", "私の誕生日は昨日でした。", "私のお母さんは医者でした。", "今日は月曜日です。"]}, {"id": "lesson-7", "sentences": ["誕生日", "今日", "昨日", "明日", "11日", "12日", "1日", "2日", "3日", "4日", "5日", "6日", "7日", "8日", "9日", "10日", "20日", "1月", "2月", "○○○はいつですか?", "○○○は何月何日ですか?"]}, {"id": "lesson-8", "sentences": ["あなたの名前はなんですか?", "あなたの家はどこですか?", "あなたの先生は誰ですか?", "あなたの誕生日はいつですか?", "あなたの好きな食べ物はなんですか?", "あなたの学校はどこですか?", "パーティーはいつですか?", "あなたの好きな歌手は誰ですか?"]}, {"id": "lesson-9", "sentences": ["私のお母さん", "アメリカ人の学生", "たけしの弟", "あなたの電話番号", "スペイン語の先生", "私の夏休みの予定"]}, {"id": "lesson-10", "sentences": ["私は日本人です。", "私も日本人です。", "さとしも学生です。", "さとしも学生でした。", "さとしも学生ですか？", "さとしも学生でしたか？"]}, {"id": "lesson-11", "sentences": ["私は日本人です。", "私は日本人じゃありません。", "たけしは15歳じゃありません。", "明日は土曜日じゃありません。", "わたしは学生じゃありません。", "たけしは19歳です。", "たけしは19歳じゃありません。", "わたしのお父さんは警察官です。", "わたしのお父さんは警察官じゃありません。"]}, {"id": "lesson-12", "sentences": ["セール", "夢", "歌手", "Xは Yじゃありませんでした。", "Xは Yじゃなかったです。", "私は学生でした。", "私は学生じゃありませんでした。"]}, {"id": "lesson-13", "sentences": ["これは本です。", "あれは私の家です。", "これはりんごですか?", "あれはあなたの弟ですか?", "あなたのペンはどれですか?", "好きな映画はどれですか?", "これはわたしの水筒です。", "それはあなたの携帯電話ですか?", "あなたの車はどれですか?", "あれは何ですか?"]}, {"id": "lesson-14", "sentences": ["この本はわたしのです。", "あの家はわたしのです。", "あの人はあなたの友達ですか？", "この車はあなたのですか？", "どのペンはあなたのですか？", "どの映画は人気ですか？", "この水筒はわたしのです。", "どの携帯電話はあなたのですか？", "その携帯電話はわたしのです。", "あの女性はみきこですか？", "あの女性はみきこじゃないです。", "あの女性はみきこじゃありません。"]}, {"id": "lesson-15", "sentences": ["メアリーの電話番号", "たけしのお母さん", "誰の", "これはだれのかばんですか？", "これはスーのかばんです。", "これはだれの車ですか？", "彼女はだれのお母さんですか？", "あれはだれの家ですか？", "これはだれの財布ですか？"]}, {"id": "lesson-16", "sentences": ["ここは図書館です。", "あそこは私の家です。", "東京タワーはここです。", "あなたの携帯はあそこです。", "あなたの車はどこですか？", "待ち合わせ場所はどこですか？", "ここは私の故郷です。", "あそこは私の職場です。", "病院はどこですか？", "ここはどこですか？"]}, {"id": "lesson-17", "sentences": ["これは私の車です。", "それはあなたの携帯電話ですか?", "この携帯電話は私のじゃないです。", "この携帯電話は私のじゃありません。", "あなたの携帯電話はここです!", "これは誰のTシャツですか?", "あなたの家はどこですか?", "あれは私の家です。", "あなたの学校はあそこですか?", "あそこは私の学校じゃないです。", "あそこは私の学校じゃありません。", "あの家は誰の家ですか?"]}, {"id": "lesson-18", "sentences": ["食べる", "寝る", "起きる", "見る"]}, {"id": "lesson-19", "sentences": ["飲む", "読む", "話す", "聞く", "行く", "帰る", "飲みます", "飲みません", "読みます", "読みません", "話します", "話しません"]}, {"id": "lesson-20", "sentences": ["来る", "する", "勉強する", "料理する", "散歩する", "旅行する", "来ます", "来ません", "します", "しません", "勉強します", "勉強しません", "料理します", "料理しません", "散歩します", "散歩しません", "旅行します", "旅行しません"]}, {"id": "lesson-21", "sentences": ["私はよくテレビを見ます。", "メアリーさんはときどき朝ごはんを食べません。", "私はあした京都に行きます。", "スーさんは今日うちに帰りません。", "学生じゃないです。", "学生じゃなかったです。", "日本の映画です。", "日本の映画でした。", "日本の映画じゃないです。", "日本の映画じゃなかったです。", "私のお父さんは先生でした。", "私のお父さんは先生じゃなかったです。"]}, {"id": "lesson-22", "sentences": ["食べます。", "食べました。", "食べません。", "食べませんでした。", "私は9時に帰ります。", "私は9時に帰りました。", "私は9時に帰りません。", "私は9時に帰りませんでした。", "私は昨日の夜すしを食べました。", "私は昨日の夜すしを食べませんでした。", "昨日何をしましたか?", "学生です。", "学生でした。", "学生じゃないです。", "学生じゃなかったです。"]}, {"id": "lesson-23", "sentences": ["図書館で本を読みます。", "私は学校に行きません。", "私は11時に寝ます。", "私は学校へ行きません。", "私はコーヒーを飲みます。"]}, {"id": "lesson-24", "sentences": ["うちでテレビを見ます。", "日曜日に京都へ行きます。", "私は音楽を聞きます。", "メアリーさんはなんじにかふぇにいきますか。"]}, {"id": "lesson-25", "sentences": ["毎日", "いつ", "朝", "夜", "週末", "平日", "日曜日に", "10時42分に", "9月に", "今日", "明日", "朝に", "夜に", "週末に", "いつ図書館に行きますか？", "日曜日に行きます。", "毎日行きます。", "朝に行きます。", "朝行きます。"]}, {"id": "lesson-26", "sentences": ["メアリー、週末は何をしますか?", "今日は京都に行きます。", "晩ごはんは?", "今週末は何をしますか?", "映画は?", "明日は何をしますか?", "日本語を勉強します。", "あなたは?", "金曜日は何をしますか?", "金曜日は、映画をみます。", "映画は、好きな映画は何ですか?"]}, {"id": "lesson-27", "sentences": ["ロバートさんは沖縄に行きました。", "ロバートさんが沖縄に行きました。", "誰が沖縄に行きましたか。", "誰は沖縄に行きましたか。", "どのクラスがおもしろいですか。", "日本語のクラスがおもしろいです。", "誰がめがねをかけていますか。", "山下さんがめがねをかけています。", "誰がイギリス人ですか。", "ロバートがイギリス人です。", "誰が泳ぐのが上手ですか。", "たけしが泳ぐのが上手です。", "誰が先週末デートに行きましたか。", "メアリーとたけしが先週末デートに行きました。"]}, {"id": "lesson-28", "sentences": ["昨日京都に行きました。", "たかも昨日京都に行きました。", "メアリーはくつを買いました。", "メアリーはかばんも買いました。", "先週京都に行きました。", "大阪にも行きました。", "みきは土曜日にパーティーに行きました。", "日曜日にもパーティーに行きました。", "なおこは中国に行きました。", "台湾にも行きました。", "たけしも中国に行きました。", "わたしは中国語を勉強します。", "スペイン語も勉強します。", "わたしは月曜日にカフェに行きます。", "木曜日にもあそこに行きます。"]}, {"id": "lesson-29", "sentences": ["日本語と英語を話します。", "東京と大阪に行きました。", "私はりんごとさくらんぼを食べました。", "私はメアリーと韓国に行きました。", "私はけんと日本語を勉強します。"]}, {"id": "lesson-30", "sentences": ["京都や奈良に行きました。", "たこ焼きやおにぎりが好きです。", "みそしるやおこのみやきを料理しました。", "たくは日本語やフランス語を話します。"]}, {"id": "lesson-31", "sentences": ["お箸でご飯を食べます。", "日本語で話しましょう。", "バスで学校に行きます。", "テレビで映画を見ました。", "飛行機で大阪に行きますか?", "いいえ、新幹線で大阪に行きます。", "パソコンで映画を観ます。", "家族とスペイン語で話しますか?"]}, {"id": "lesson-32", "sentences": ["週に2回", "月に3回", "年に4回", "私はぜんぜんテレビを見ません。", "たけしさんはあまり勉強しません。"]}, {"id": "lesson-33", "sentences": ["昼ごはんを食べますか", "昼ごはんを食べませんか?", "カフェに行きませんか?", "映画を見ません。", "映画を見ませんか?", "明日酒を飲みません。", "明日酒を飲みませんか?", "日本語を勉強しません。", "日本語を勉強しませんか?"]}, {"id": "lesson-34", "sentences": ["図書館で勉強しましょう。", "カフェでコーヒーを飲みましょうか？", "映画を見ます。", "映画を見ましょう！", "映画を見ましょうか？", "あした、サッカーをします。", "あした、サッカーをしましょう！", "あした、サッカーをしましょうか？", "今週末、キャンプにいきます。", "今週末キャンプにいきましょう！", "今週末キャンプにいきましょうか？"]}, {"id": "lesson-35", "sentences": ["あそこにサーフボードがあります。", "時間がありますか？"]}, {"id": "lesson-36", "sentences": ["あそこに留学生がいます。", "あそこに猫がいます。", "あそこに私のスペイン語の先生がいます。"]}, {"id": "lesson-37", "sentences": ["家の前に車があります。", "車はどこですか？", "車はここです。", "車はそこです。", "車はあそこです。", "はどこですか？", "～の前", "～の後ろ", "～の隣", "～の左", "～の右", "～の中", "～の外", "～の上", "～の下", "AとBの間", "銀行は図書館のとなりです。", "傘は机の下です。", "車は自転車と家の間です。", "カフェの前で待ちます。", "私の家は学校の後ろです。", "駅の中で待ちます。"]}, {"id": "lesson-38", "sentences": ["おもしろいです。", "おもしろくないです。", "おもしろかったです。", "おもしろくなかったです。", "こわいです。", "こわくないです。", "こわかったです。", "こわくなかったです。", "おおきいです。", "おおきくないです。", "おおきかったです。", "おおきくなかったです。", "このケーキは美味しいです。", "今日は寒くないです。", "このTシャツは小さかったです。", "昨日は暑くなかったです。"]}, {"id": "lesson-39", "sentences": ["元気な", "有名な", "綺麗な", "静かな", "人気な", "危険な", "便利な", "元気です。", "元気じゃないです。", "元気でした。", "元気じゃなかったです。", "有名です。", "有名じゃないです。", "有名でした。", "有名じゃなかったです。", "綺麗です。", "綺麗じゃないです。", "綺麗でした。", "綺麗じゃなかったです。", "図書館は静かです。", "このレストランは人気じゃないです。", "この家は危険でした。", "道具は便利じゃなかったです。"]}, {"id": "lesson-40", "sentences": ["良い", "かっこいい", "心地いい", "いいです。", "よくないです。", "よかったです。", "よくなかったです。"]}, {"id": "lesson-41", "sentences": ["これはわたしのすきなテレビです。", "好きでも嫌いでもありません。"]}, {"id": "lesson-42", "sentences": ["とても", "ちょっと", "沖縄", "海", "暑い", "熱", "大好き", "大嫌い"]}, {"id": "lesson-43", "sentences": ["食べる", "食べて"]}, {"id": "lesson-44", "sentences": ["会う", "取る", "遊ぶ", "死ぬ", "書く", "泳ぐ", "会って", "たべて", "たべます", "会いて", "読みて", "かきます", "かいて"]}, {"id": "lesson-45", "sentences": ["名前を書いてください。", "すみません、助けてください。", "駅の前で待ってください。", "この本を読んでください。", "毎日朝ごはんを食べてください。", "10時に寝てください。"]}, {"id": "lesson-46", "sentences": ["水", "窓", "開ける", "写真", "教科書を見てもいいですか?", "はい。見てもいいです。", "いいえ。見てはいけません。", "この水を飲んでもいいですか?", "この水を飲んでもいいです。", "この水を飲んではいけません。", "あなたの写真をとってもいいですか?", "私の写真をとってもいいです。", "私の写真をとってはいけません。", "窓を開けてもいいですか?", "窓を開けてもいいです。", "窓を開けてはいけません。"]}, {"id": "lesson-47", "sentences": ["料理する", "プール", "手紙", "パンケーキ", "います", "いません", "いました", "いませんでした", "食べる", "読む", "待つ"]}, {"id": "lesson-48", "sentences": ["みのりは結婚しています。", "みのりは結婚します。", "みちこはTシャツを着ています。", "みちこはTシャツを着ます。", "私は起きています。", "さちこはユニクロで勤めています。", "中国に行っています。", "私の家にきています。", "中国に向かっています。", "私の家に向かっています。"]}, {"id": "lesson-49", "sentences": ["安くて美味しいです。", "綺麗で広いです。", "けんは日本人で学生です。", "えりは元気で面白いです。", "あんなは韓国人で22歳です。", "このパンは安くて美味しいです。", "たろうは背が高くて静かです。", "なおみは親切で面白くて頭がいいです。"]}, {"id": "lesson-50", "sentences": ["可愛くて", "綺麗で", "学生で", "よくて", "けんは日本人で学生です。", "このレストランは安くて美味しいです。", "あなたの家は綺麗で広いです。", "たけしは頭がよくて背が高いです。", "けんとの犬はオスで元気です。", "みかは動物が好きで親切です。"]}, {"id": "lesson-51", "sentences": ["とむの髪は長いです。", "とむは髪が長いです。", "背が高い", "背が低い", "頭が良い"]}, {"id": "lesson-52", "sentences": ["デパートにバッグを買いに行きました。", "メアリーは日本に日本語を勉強しにきました。", "私はかいの家に本を借りに行きました。", "あかりは街におばさんに会いに行きました。", "ななはビーチにサーフィンしに行きました。"]}, {"id": "lesson-53", "sentences": ["メアリーは日本に日本語を勉強しにきました。", "私はかいの家に本を借りに行きます。", "私は東京にお父さんに会いに行きました。", "私は学校にバスケットボールをしに行きません。", "図書館に勉強しにきましたか。", "きこは本を返しにきませんでした。", "とうまは家に夜ごはんを料理しにきます。"]}, {"id": "lesson-54", "sentences": ["たえはご飯を食べに行きましたか?", "りのは映画を観に行きません。", "きほはカフェにともに会いにきました。", "私は図書館に勉強しにきました。", "ともかはアメリカに友達に会いに行きます。", "ゆりは公園に写真を撮りに行きませんでした。", "としはコーヒーを飲みにきます。"]}, {"id": "lesson-55", "sentences": ["写真をたくさん撮りました。", "たくさん写真を撮りました。", "野菜をたくさん食べました。", "たくさん野菜を食べました。", "公園でたくさん人を見ました。", "公園で人をたくさん見ました。", "日曜日たくさん映画を見ました。", "日曜日映画をたくさん見ました。"]}, {"id": "lesson-56", "sentences": ["メアリーはたけしを1時間待ちました。", "メアリーはたけしを1時間ぐらい待ちました。", "たけしは公園で30分間走りました。", "わたしは昨晩8時間寝ました。", "土曜日本を4時間読みました。"]}, {"id": "lesson-57", "sentences": ["読みます", "読む", "かわいいです", "かわいい", "静かです", "静かだ", "学生です", "学生だ"]}, {"id": "lesson-58", "sentences": ["読みません", "読まない", "かわいくないです", "かわいくない", "静かじゃないです", "静かじゃない", "学生じゃないです", "学生じゃない", "食べる", "食べない", "書く", "書かない", "待つ", "待たない", "する", "しない", "来る", "来ない", "買う", "買わない", "ある", "ない"]}, {"id": "lesson-59", "sentences": ["と言っていました。", "と思います。", "あした、試験があります。", "メアリーは明日試験があると言っていました。", "～ないとおもいます。", "～とおもいません。"]}, {"id": "lesson-60", "sentences": ["魚をよく食べますか？", "魚をよく食べる？", "はい。よく食べます。", "うん。よく食べる。", "いいえ。食べません。", "ううん。食べない。", "今日、勉強する？", "うん。勉強する。", "ううん。勉強しない。", "あなたのお父さんは警察官？", "うん。警察官。", "ううん。警察官じゃない。", "このケーキ美味しい？", "うん。美味しい。", "ううん。美味しくない。"]}, {"id": "lesson-61", "sentences": ["ここで写真を撮らないでください。", "食べないでください。", "見ないでください。", "走らないでください。", "運転しないでください。", "来ないでください。", "家の中で走らないでください。", "図書館の中で食べないでください。", "私の車を運転しないでください。", "パーティーに来ないでください。"]}, {"id": "lesson-62", "sentences": ["～が好きです。", "～が嫌いです。", "～が上手です。", "～が下手です。", "たけしは英語を話すのが下手です。", "～が得意です。", "～が苦手です。"]}, {"id": "lesson-63", "sentences": ["読んだ", "可愛かった", "静かだった", "学生だった", "食べた", "書いた", "会った", "来た", "面白かった", "美味しかった", "怖かった", "綺麗だった", "日本人だった", "行った", "よかった"]}, {"id": "lesson-64", "sentences": ["読まない", "読まなかった", "可愛くない", "可愛くなかった", "静かじゃない", "静かじゃなかった", "学生じゃない", "学生じゃなかった", "食べる", "食べない", "食べなかった", "書く", "書かない", "書かなかった", "会う", "会わない", "会わなかった", "来る", "来ない", "来なかった", "可愛い", "面白い", "面白くない", "面白くなかった", "美味しい", "美味しくない", "美味しくなかった", "怖い", "怖くない", "怖くなかった", "静かな", "綺麗な", "綺麗じゃない", "綺麗じゃなかった", "元気な", "元気じゃない", "元気じゃなかった", "学生です", "日本人です", "日本人じゃない", "日本人じゃなかった"]}, {"id": "lesson-65", "sentences": ["すーは、お昼ご飯を食べたと言っていました。", "とむさんがしたと思います。", "夜ごはん、食べた？", "うん、食べた。", "すーはにほんごをべんきょうしているといっていました。"]}, {"id": "lesson-66", "sentences": ["猫が何か持ってきました。", "猫は何か食べましたか？", "猫は何も食べませんでした。", "パーティーで何か食べましたか？", "パーティーで何も食べませんでした。", "家で何か食べます。"]}, {"id": "lesson-67", "sentences": ["何か", "何も", "どこか", "誰か", "どこも", "誰も", "どこかへ行きましたか?", "いいえ、どこにも行きませんでした。", "誰かに会いましたか?", "いいえ、誰にも会いませんでした。", "何かしましたか?", "いいえ、何もしませんでした。", "何か買いましたか?", "いいえ、何も買いませんでした。", "イベントで誰かに会いましたか?", "誰にも会いませんでした。", "先週末どこかに行きましたか?", "どこにも行きませんでした。"]}, {"id": "lesson-68", "sentences": ["あそこで本を読んでいる学生はみちこです。", "おもしろい人", "髪が長い人", "めがねをかけている人", "あそこで写真をとっているひとはだれですか？", "毎日運動する人はげんきです。", "たばこを吸わないひとがすきです。", "去年結婚したともだちからてがみがきました。", "私と働く人", "バスケットボールをするのが好きな私の友達", "料理するのが上手な人", "綺麗な女の子", "目が大きい人"]}, {"id": "lesson-69", "sentences": ["わたしはきのう宿題をしました。", "わたしはもう宿題をしました。", "わたしはきのう宿題をしませんでした。", "わたしはまだ宿題をしていません。", "私はまだ食べていません。", "スーはまだ起きていません。", "もうコーヒーを飲みましたか？", "まだコーヒーを飲んでいません。", "もうコーヒーを飲みました。", "まだナルトをみていません。", "もうナルトを観ました。"]}, {"id": "lesson-70", "sentences": ["今晩勉強します。", "明日テストがありますから。", "バスに乗りましょう。", "タクシーは高いですから。", "あなたの家に来てもいいですか？", "私の家は遠いですから。", "たけしは学校に来ませんでした。", "たけしは病気でしたから。"]}, {"id": "lesson-71", "sentences": ["いつも日本語で話すので、日本語が上手になりました。", "宿題がたくさんあったので、きのうの夜寝ませんでした。", "彼はいじわるなので、きらいです。", "今日は日曜日なので、銀行は休みです。", "このカバンは安いので、買います。", "彼女は親切なので、とても人気です。", "日本語を勉強したかったので、日本に来ました。", "病気だったので、学校に行きませんでした。", "明日はけんの誕生日なので、ケーキを買いに行きましょう。"]}, {"id": "lesson-72", "sentences": ["緑のドレスが好きですが、黄色いのも好きです。", "ニューヨークの家賃は日本のより高いです。", "この辞書は古いから、新しいのを買います。", "私のパソコンはあなたのより遅いです。"]}, {"id": "lesson-73", "sentences": ["AとBとどっちのほうがですか？", "バスと電車とどっちのほうが安いですか？", "ねこといぬとどっちのほうが可愛いですか？", "トムとかいとどっちのほうが若いですか？", "さきとりんとどっちのほうが背が高いですか？", "サッカーと野球とどっちのほうが好きですか？"]}, {"id": "lesson-74", "sentences": ["クラスのなかで日本語のクラスがいちばんおもしろいです。", "動物のなかでライオンがいちばん強いです。", "季節のなかで夏がいちばん好きです。", "果物のなかでドリアンがいちばん臭いです。", "家族のなかでお父さんがいちばん背が高いです。", "友達のなかでたかこがいちばん若いですか?"]}, {"id": "lesson-75", "sentences": ["のなかでどれがいちばんですか?", "のなかで何がいちばんですか?", "何", "どこ", "誰", "いつ", "みかんとりんごといちごのなかで、どれがいちばん甘いですか?", "街のなかでどこがいちばん大きいですか?", "季節のなかでいつがいちばん好きですか?", "ロサンジェルスと東京とパリのなかでどれがいちばん好きですか?", "家族のなかで誰がいちばん背が高いですか?", "サッカーとテニスと野球のなかでどれがいちばん人気ですか?", "スポーツのなかで何がいちばん人気ですか?"]}, {"id": "lesson-76", "sentences": ["黒いセーターを持っています。赤いのも持っています。", "安い辞書を買いに行きました。でもいいのがありませんでした。", "いいえ、それはメアリーのです。", "アメリカのアイスクリームのほうが日本のよりおいしいです。", "緑のドレスが好きです。でも、黄色のも好きです。", "ニューヨークの家賃のほうが、日本のより高いです。", "この辞書は古いから、新しいのを買います。", "私のパソコンのほうがあなたのより遅いです。"]}, {"id": "lesson-77", "sentences": ["つもりです。", "つもりじゃないです。", "つもりでした。", "つもりじゃなかったです。"]}, {"id": "lesson-78", "sentences": ["なります。", "なりません。", "なりました。", "なりませんでした。", "あたたかい", "あたたかくなる", "静かな", "静かになる", "学生", "学生になる", "日本語の勉強がたのしくなりました。", "日本語の勉強が好きになりました。", "たけしは明日20歳になります。", "メアリーは前より日本語が上手になりました。", "部屋が綺麗になりました。", "昨日、何歳になりましたか?", "家賃が去年より高くなりました。", "かおりは前より料理するのが上手になりました。"]}, {"id": "lesson-79", "sentences": ["食べなくちゃいけません", "言わなくちゃいけません", "しなくちゃいけません", "こなくちゃいけません", "来週テストがあるから、たくさん勉強しなくちゃいけません。", "今朝6時に起きなくちゃいけませんでした。", "毎日練習しなくちゃいけないんです。", "明日テストがあるから今夜勉強しなくちゃいけません。", "学校が忙しくなったからバイトを辞めなくちゃいけません。", "昨日家を掃除しなくちゃいけませんでした。", "昨晩夜ご飯を料理しなくちゃいけませんでした。"]}, {"id": "lesson-80", "sentences": ["明日、雨が降るでしょう。", "明日、雨が降らないでしょう。", "北海道は寒いでしょう。", "北海道は寒くないでしょう。", "けんは魚が好きでしょう。", "けんは魚が好きじゃないでしょう。", "まこは学生でしょう。", "まこは学生じゃないでしょう。", "日本語と韓国語と、どっちのほうが難しいでしょうか?", "たけしは興味があるだろうと思います。", "ジョン、中国語が分かるでしょ?", "みあはお昼ご飯を食べないでしょう。", "このケーキはとても高いでしょう。", "あの人は有名でしょう。", "たかは25歳でしょう。"]}];
   var lessonMap = {};
   LESSON_DATA.forEach(function (l) { lessonMap[l.id] = l.sentences; });
 

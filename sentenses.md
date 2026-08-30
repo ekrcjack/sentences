@@ -1,5 +1,488 @@
 # 日文例句整理（英文 / 日文＋平假名註解 / 羅馬拼音）
 
+## 01. 五類動詞變化（動詞後接不同形式）
+
+### ① ます形詞幹＋其他字（食(た)べます → 食べ）
+
+#### 動詞變化如：～たい ─ 想要～
+
+TY: RU
+JP: 私(わたし)は寿司(すし)を食(た)べたいです。
+RM: Watashi wa sushi o tabetai desu.
+CN: 我想吃壽司。
+
+TY: RU
+JP: 今晩(こんばん)映画(えいが)を見(み)たいです。
+RM: Konban eiga o mitai desu.
+CN: 今晚想看電影。
+
+TY: U
+JP: 冷(つめ)たい水(みず)が飲(の)みたいです。
+RM: Tsumetai mizu ga nomitai desu.
+CN: 我想喝冰水。
+
+TY: SURU
+JP: 日本(にほん)を旅行(りょこう)したいです。
+RM: Nihon o ryokou shitai desu.
+CN: 我想去日本旅行。
+
+#### 動詞變化如：～やすい ─ 容易～、好～
+
+TY: RU
+JP: このパンは食(た)べやすいです。
+RM: Kono pan wa tabeyasui desu.
+CN: 這個麵包很容易入口。
+
+TY: RU
+JP: この言葉(ことば)は覚(おぼ)えやすいです。
+RM: Kono kotoba wa oboeyasui desu.
+CN: 這個詞很好記。
+
+TY: U
+JP: この靴(くつ)は歩(ある)きやすいです。
+RM: Kono kutsu wa arukiyasui desu.
+CN: 這雙鞋很好走。
+
+TY: U
+JP: 雨(あめ)が降(ふ)りやすい天気(てんき)が続(つづ)きそうです。
+RM: Ame ga furiyasui tenki ga tsuzukisou desu.
+CN: 看起來容易下雨的天氣還會持續。
+
+#### 動詞變化如：～にくい ─ 難以～、不好～
+
+TY: RU
+JP: この肉(にく)は硬(かた)くて食(た)べにくいです。
+RM: Kono niku wa katakute tabenikui desu.
+CN: 這肉很硬，很難咬。
+
+TY: RU
+JP: この漢字(かんじ)は覚(おぼ)えにくいです。
+RM: Kono kanji wa oboenikui desu.
+CN: 這個漢字很難記。
+
+TY: U
+JP: この字(じ)は小(ちい)さくて読(よ)みにくいです。
+RM: Kono ji wa chiisakute yominikui desu.
+CN: 這個字太小，很難讀。
+
+#### 動詞變化如：～すぎる ─ 太過～
+
+TY: RU
+JP: 昨日(きのう)、食(た)べすぎました。
+RM: Kinou, tabesugimashita.
+CN: 昨天吃太多了。
+
+TY: RU
+JP: 今朝(けさ)寝(ね)すぎて、遅刻(ちこく)しました。
+RM: Kesa nesugite, chikoku shimashita.
+CN: 今天早上睡過頭，遲到了。
+
+TY: U
+JP: お酒(さけ)を飲(の)みすぎないでください。
+RM: Osake o nomisuginaide kudasai.
+CN: 請不要喝太多酒。
+
+#### 動詞變化如：～始(はじ)める ─ 開始～
+
+TY: RU
+JP: 子供(こども)がご飯(はん)を食(た)べ始(はじ)めました。
+RM: Kodomo ga gohan o tabehajimemashita.
+CN: 小孩開始吃飯了。
+
+TY: RU
+JP: 映画(えいが)を見(み)始(はじ)めました。
+RM: Eiga o mihajimemashita.
+CN: 開始看電影了。
+
+TY: U
+JP: 雨(あめ)が降(ふ)り始(はじ)めました。
+RM: Ame ga furihajimemashita.
+CN: 開始下雨了。
+
+TY: SURU
+JP: 去年(きょねん)から日本語(にほんご)を勉強(べんきょう)し始(はじ)めました。
+RM: Kyonen kara nihongo o benkyou shihajimemashita.
+CN: 從去年開始學日文。
+
+#### 動詞變化如：～終(お)わる ─ ～完
+
+TY: RU
+JP: ご飯(はん)を食(た)べ終(お)わりました。
+RM: Gohan o tabeowarimashita.
+CN: 吃完飯了。
+
+TY: RU
+JP: 映画(えいが)を見(み)終(お)わりました。
+RM: Eiga o miowarimashita.
+CN: 看完電影了。
+
+TY: U
+JP: この本(ほん)を読(よ)み終(お)わりました。
+RM: Kono hon o yomiowarimashita.
+CN: 這本書讀完了。
+
+#### 動詞變化如：～続(つづ)ける ─ 持續～
+
+TY: RU
+JP: 彼(かれ)はずっと食(た)べ続(つづ)けています。
+RM: Kare wa zutto tabetsuzukete imasu.
+CN: 他一直持續在吃。
+
+TY: RU
+JP: 三時間(さんじかん)テレビを見(み)続(つづ)けました。
+RM: Sanjikan terebi o mitsuzukemashita.
+CN: 持續看了三個小時的電視。
+
+TY: U
+JP: 一時間(いちじかん)走(はし)り続(つづ)けました。
+RM: Ichijikan hashiritsuzukemashita.
+CN: 持續跑了一個小時。
+
+TY: SURU
+JP: 十年(じゅうねん)日本語(にほんご)を勉強(べんきょう)し続(つづ)けています。
+RM: Juunen nihongo o benkyou shitsuzukete imasu.
+CN: 持續學了十年日文。
+
+#### 動詞變化如：～方(かた) ─ ～的方法
+
+TY: RU
+JP: 寿司(すし)の食(た)べ方(かた)を教(おし)えてください。
+RM: Sushi no tabekata o oshiete kudasai.
+CN: 請教我壽司的吃法。
+
+TY: RU
+JP: 単語(たんご)の覚(おぼ)え方(かた)を教(おし)えてください。
+RM: Tango no oboekata o oshiete kudasai.
+CN: 請教我單字的記法。
+
+TY: U
+JP: この機械(きかい)の使(つか)い方(かた)が分(わ)かりません。
+RM: Kono kikai no tsukaikata ga wakarimasen.
+CN: 我不懂這台機器的用法。
+
+TY: U
+JP: 漢字(かんじ)の書(か)き方(かた)を習(なら)いました。
+RM: Kanji no kakikata o naraimashita.
+CN: 學了漢字的寫法。
+
+### ② て形＋其他形式（食(た)べます → 食べて）
+
+#### 動詞變化如：～ている ─ 正在～
+
+TY: RU
+JP: 今(いま)、ご飯(はん)を食(た)べています。
+RM: Ima, gohan o tabete imasu.
+CN: 現在正在吃飯。
+
+TY: RU
+JP: 弟(おとうと)はテレビを見(み)ています。
+RM: Otouto wa terebi o mite imasu.
+CN: 弟弟正在看電視。
+
+TY: U
+JP: 父(ちち)は新聞(しんぶん)を読(よ)んでいます。
+RM: Chichi wa shinbun o yonde imasu.
+CN: 爸爸正在看報紙。
+
+#### 動詞變化如：～てもいい ─ 可以～嗎
+
+TY: RU
+JP: ここで食(た)べてもいいですか。
+RM: Koko de tabete mo ii desu ka.
+CN: 可以在這裡吃嗎？
+
+TY: RU
+JP: 窓(まど)を開(あ)けてもいいですか。
+RM: Mado o akete mo ii desu ka.
+CN: 可以開窗嗎？
+
+TY: U
+JP: もう帰(かえ)ってもいいですよ。
+RM: Mou kaette mo ii desu yo.
+CN: 已經可以回去囉。
+
+TY: SURU
+JP: 明日(あした)電話(でんわ)してもいいですか。
+RM: Ashita denwa shite mo ii desu ka.
+CN: 明天可以打電話給你嗎？
+
+#### 動詞變化如：～てはいけない ─ 不可以～
+
+TY: RU
+JP: ここで食(た)べてはいけません。
+RM: Koko de tabete wa ikemasen.
+CN: 不可以在這裡吃。
+
+TY: RU
+JP: この写真(しゃしん)を見(み)てはいけません。
+RM: Kono shashin o mite wa ikemasen.
+CN: 不可以看這張照片。
+
+TY: U
+JP: ここでタバコを吸(す)ってはいけません。
+RM: Koko de tabako o sutte wa ikemasen.
+CN: 不可以在這裡抽菸。
+
+#### 動詞變化如：～てください ─ 請～
+
+TY: RU
+JP: これを食(た)べてください。
+RM: Kore o tabete kudasai.
+CN: 請吃這個。
+
+TY: RU
+JP: これを見(み)てください。
+RM: Kore o mite kudasai.
+CN: 請看這個。
+
+TY: U
+JP: ここで待(ま)ってください。
+RM: Koko de matte kudasai.
+CN: 請在這裡等。
+
+TY: SURU
+JP: もう一度(いちど)説明(せつめい)してください。
+RM: Mou ichido setsumei shite kudasai.
+CN: 請再說明一次。
+
+#### 動詞變化如：～てから ─ ～之後（做某事）
+
+TY: RU
+JP: ご飯(はん)を食(た)べてから勉強(べんきょう)します。
+RM: Gohan o tabete kara benkyou shimasu.
+CN: 吃完飯後讀書。
+
+TY: RU
+JP: 起(お)きてからコーヒーを飲(の)みます。
+RM: Okite kara koohii o nomimasu.
+CN: 起床後喝咖啡。
+
+TY: U
+JP: 手(て)を洗(あら)ってからご飯(はん)を食(た)べます。
+RM: Te o aratte kara gohan o tabemasu.
+CN: 洗完手後吃飯。
+
+### ③ ない形＋其他形式（食(た)べます → 食べない）
+
+#### 動詞變化如：～ない ─ 不～（短形否定）
+
+TY: RU
+JP: 私(わたし)は肉(にく)を食(た)べない。
+RM: Watashi wa niku o tabenai.
+CN: 我不吃肉。
+
+TY: RU
+JP: 私(わたし)はテレビを見(み)ない。
+RM: Watashi wa terebi o minai.
+CN: 我不看電視。
+
+TY: U
+JP: お酒(さけ)は飲(の)まない。
+RM: Osake wa nomanai.
+CN: 我不喝酒。
+
+TY: SURU
+JP: 今日(きょう)は勉強(べんきょう)しない。
+RM: Kyou wa benkyou shinai.
+CN: 今天不讀書。
+
+#### 動詞變化如：～ないでください ─ 請不要～
+
+TY: RU
+JP: ここで食(た)べないでください。
+RM: Koko de tabenaide kudasai.
+CN: 請不要在這裡吃。
+
+TY: RU
+JP: 宿題(しゅくだい)を忘(わす)れないでください。
+RM: Shukudai o wasurenaide kudasai.
+CN: 請不要忘記作業。
+
+TY: U
+JP: ここでタバコを吸(す)わないでください。
+RM: Koko de tabako o suwanaide kudasai.
+CN: 請不要在這裡抽菸。
+
+#### 動詞變化如：～なくてもいい ─ 不～也可以
+
+TY: RU
+JP: 全部(ぜんぶ)食(た)べなくてもいいです。
+RM: Zenbu tabenakute mo ii desu.
+CN: 不用全部吃完也可以。
+
+TY: RU
+JP: 明日(あした)は早(はや)く起(お)きなくてもいいです。
+RM: Ashita wa hayaku okinakute mo ii desu.
+CN: 明天不用早起也可以。
+
+TY: U
+JP: 明日(あした)は学校(がっこう)へ行(い)かなくてもいいです。
+RM: Ashita wa gakkou e ikanakute mo ii desu.
+CN: 明天不用去學校也可以。
+
+TY: SURU
+JP: 予約(よやく)しなくてもいいです。
+RM: Yoyaku shinakute mo ii desu.
+CN: 不用預約也可以。
+
+#### 動詞變化如：～なければならない ─ 必須～
+
+TY: RU
+JP: 野菜(やさい)を食(た)べなければなりません。
+RM: Yasai o tabenakereba narimasen.
+CN: 必須吃蔬菜。
+
+TY: RU
+JP: 毎朝(まいあさ)六時(ろくじ)に起(お)きなければなりません。
+RM: Maiasa rokuji ni okinakereba narimasen.
+CN: 每天早上必須六點起床。
+
+TY: U
+JP: 薬(くすり)を飲(の)まなければなりません。
+RM: Kusuri o nomanakereba narimasen.
+CN: 必須吃藥。
+
+TY: SURU
+JP: 毎日(まいにち)日本語(にほんご)を勉強(べんきょう)しなければなりません。
+RM: Mainichi nihongo o benkyou shinakereba narimasen.
+CN: 每天必須讀日文。
+
+### ④ 辭書形＋其他形式（食(た)べます → 食べる）
+
+#### 動詞變化如：～ことができる ─ 會～、能夠～
+
+TY: RU
+JP: 私(わたし)は生(なま)の魚(さかな)を食(た)べることができます。
+RM: Watashi wa nama no sakana o taberu koto ga dekimasu.
+CN: 我敢吃生魚。
+
+TY: RU
+JP: ここで富士山(ふじさん)を見(み)ることができます。
+RM: Koko de Fujisan o miru koto ga dekimasu.
+CN: 在這裡可以看到富士山。
+
+TY: U
+JP: 日本語(にほんご)を話(はな)すことができます。
+RM: Nihongo o hanasu koto ga dekimasu.
+CN: 我會說日文。
+
+TY: SURU
+JP: 車(くるま)を運転(うんてん)することができます。
+RM: Kuruma o unten suru koto ga dekimasu.
+CN: 我會開車。
+
+#### 動詞變化如：～ことがある ─ 有時會～
+
+TY: RU
+JP: 寿司(すし)を食(た)べることがあります。
+RM: Sushi o taberu koto ga arimasu.
+CN: 我有時會吃壽司。
+
+TY: RU
+JP: 電車(でんしゃ)が遅(おく)れることがあります。
+RM: Densha ga okureru koto ga arimasu.
+CN: 電車有時會誤點。
+
+TY: U
+JP: 週末(しゅうまつ)は映画館(えいがかん)へ行(い)くことがあります。
+RM: Shuumatsu wa eigakan e iku koto ga arimasu.
+CN: 週末有時會去電影院。
+
+TY: SURU
+JP: たまに友達(ともだち)と外食(がいしょく)することがあります。
+RM: Tama ni tomodachi to gaishoku suru koto ga arimasu.
+CN: 偶爾會和朋友外食。
+
+#### 動詞變化如：～ことが好(す)き ─ 喜歡做～
+
+TY: RU
+JP: 私(わたし)は甘(あま)い物(もの)を食(た)べることが好(す)きです。
+RM: Watashi wa amai mono o taberu koto ga suki desu.
+CN: 我喜歡吃甜食。
+
+TY: RU
+JP: 私(わたし)は映画(えいが)を見(み)ることが好(す)きです。
+RM: Watashi wa eiga o miru koto ga suki desu.
+CN: 我喜歡看電影。
+
+TY: U
+JP: 妹(いもうと)は本(ほん)を読(よ)むことが好(す)きです。
+RM: Imouto wa hon o yomu koto ga suki desu.
+CN: 妹妹喜歡看書。
+
+TY: SURU
+JP: 日本語(にほんご)を勉強(べんきょう)することが好(す)きです。
+RM: Nihongo o benkyou suru koto ga suki desu.
+CN: 我喜歡學日文。
+
+#### 動詞變化如：～前(まえ)に ─ 在～之前
+
+TY: RU
+JP: 食(た)べる前(まえ)に手(て)を洗(あら)います。
+RM: Taberu mae ni te o araimasu.
+CN: 吃飯前洗手。
+
+TY: RU
+JP: 寝(ね)る前(まえ)に歯(は)を磨(みが)きます。
+RM: Neru mae ni ha o migakimasu.
+CN: 睡覺前刷牙。
+
+TY: U
+JP: 日本(にほん)へ行(い)く前(まえ)に日本語(にほんご)を習(なら)いました。
+RM: Nihon e iku mae ni nihongo o naraimashita.
+CN: 去日本之前學了日文。
+
+#### 動詞變化如：～とき ─ ～的時候
+
+TY: RU
+JP: ご飯(はん)を食(た)べるとき、テレビを見(み)ます。
+RM: Gohan o taberu toki, terebi o mimasu.
+CN: 吃飯的時候看電視。
+
+TY: RU
+JP: 出(で)かけるとき、鍵(かぎ)をかけます。
+RM: Dekakeru toki, kagi o kakemasu.
+CN: 出門的時候鎖門。
+
+TY: U
+JP: この言葉(ことば)を使(つか)うとき、気(き)をつけてください。
+RM: Kono kotoba o tsukau toki, ki o tsukete kudasai.
+CN: 用這個詞的時候請小心。
+
+### ⑤ ～そう：看起來要～（ます形詞幹＋そう；い形容詞去い＋そう）
+
+#### 動詞變化如：～そう ─ 看起來要～、看起來很～
+
+TY: RU
+JP: 子供(こども)が全部(ぜんぶ)食(た)べそうです。
+RM: Kodomo ga zenbu tabesou desu.
+CN: 小孩看起來會全部吃光。
+
+TY: RU
+JP: コップが落(お)ちそうです。
+RM: Koppu ga ochisou desu.
+CN: 杯子看起來快掉下來了。
+
+TY: U
+JP: 雨(あめ)が降(ふ)りそうです。
+RM: Ame ga furisou desu.
+CN: 看起來要下雨了。
+
+TY: U
+JP: 子供(こども)が泣(な)きそうです。
+RM: Kodomo ga nakisou desu.
+CN: 小孩看起來快哭了。
+
+TY: IRREG
+JP: バスが来(き)そうです。
+RM: Basu ga kisou desu.
+CN: 公車看起來快來了。
+
+TY: い形容詞
+JP: このケーキはおいしそうです。
+RM: Kono keeki wa oishisou desu.
+CN: 這個蛋糕看起來很好吃。
+
 ## 17. Numbers 1-10
 
 EN: One
