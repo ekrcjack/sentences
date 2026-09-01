@@ -885,6 +885,14 @@ EN: 1:30 PM (alternative)
 JP: 午後(ごご)1時(いちじ)半(はん)
 RM: gogo ichiji han
 
+EN: What time is it now?
+JP: 今(いま)、何時(なんじ)ですか?
+RM: Ima, nanji desu ka?
+
+EN: It is 1:40 PM now.
+JP: 今(いま)、午後(ごご)1時(いちじ)40分(よんじゅっぷん)です。
+RM: Ima, gogo ichiji yonjuppun desu.
+
 ## 26. XはYです。(X is Y.)
 
 EN: I
@@ -1041,6 +1049,46 @@ EN: What date is ○○○?
 JP: ○○○は何月(なんがつ)何日(なんにち)ですか?
 RM: ○○○ wa nangatsu nannichi desu ka?
 
+EN: Is today Monday?
+JP: 今日(きょう)は月曜日(げつようび)ですか?
+RM: Kyou wa getsuyoubi desu ka?
+
+EN: You are Japanese.
+JP: あなたは日本人(にほんじん)です。
+RM: Anata wa nihonjin desu.
+
+EN: Are you Japanese?
+JP: あなたは日本人(にほんじん)ですか?
+RM: Anata wa nihonjin desu ka?
+
+EN: Was yesterday Sunday?
+JP: 昨日(きのう)は日曜日(にちようび)でしたか?
+RM: Kinou wa nichiyoubi deshita ka?
+
+EN: Was dinner sushi?
+JP: 夜(よる)ご飯(はん)は寿司(すし)でしたか?
+RM: Yorugohan wa sushi deshita ka?
+
+EN: Are you a student?
+JP: あなたは学生(がくせい)ですか?
+RM: Anata wa gakusei desu ka?
+
+EN: Is today Tuesday?
+JP: 今日(きょう)は火曜日(かようび)ですか?
+RM: Kyou wa kayoubi desu ka?
+
+EN: Is your name Miho?
+JP: あなたの名前(なまえ)はみほですか?
+RM: Anata no namae wa miho desu ka?
+
+EN: Was your birthday yesterday?
+JP: あなたの誕生日(たんじょうび)は昨日(きのう)でしたか?
+RM: Anata no tanjoubi wa kinou deshita ka?
+
+EN: Was your mother a doctor?
+JP: あなたのお母(かあ)さんは医者(いしゃ)でしたか?
+RM: Anata no okaasan wa isha deshita ka?
+
 ## 28. Question 2
 
 EN: What is your name?
@@ -1127,6 +1175,42 @@ EN: Was Satoshi also a student?
 JP: さとしも学生(がくせい)でしたか？
 RM: Satoshi mo gakusei deshita ka?
 
+EN: My mother is 42 years old too.
+JP: 私(わたし)のお母(かあ)さんも42歳(さい)です。
+RM: Watashi no okaasan mo yonjuunisai desu.
+
+EN: Miho's younger brother is a high school student too.
+JP: みほの弟(おとうと)も高校生(こうこうせい)です。
+RM: Miho no otouto mo koukousei desu.
+
+EN: Satsuki is a Japanese-language teacher too.
+JP: さつきさんも日本語(にほんご)の先生(せんせい)です。
+RM: Satsuki san mo nihongo no sensei desu.
+
+EN: I am an international student.
+JP: 私(わたし)は留学生(りゅうがくせい)です。
+RM: Watashi wa ryuugakusei desu.
+
+EN: I am an international student too.
+JP: 私(わたし)も留学生(りゅうがくせい)です。
+RM: Watashi mo ryuugakusei desu.
+
+EN: Satoshi is a student.
+JP: さとしは学生(がくせい)です。
+RM: Satoshi wa gakusei desu.
+
+EN: Satoshi was a student.
+JP: さとしは学生(がくせい)でした。
+RM: Satoshi wa gakusei deshita.
+
+EN: Is Satoshi a student?
+JP: さとしは学生(がくせい)ですか?
+RM: Satoshi wa gakusei desu ka?
+
+EN: Was Satoshi a student?
+JP: さとしは学生(がくせい)でしたか?
+RM: Satoshi wa gakusei deshita ka?
+
 ## 31. Negative sentences - Present
 
 EN: I am Japanese.
@@ -1165,6 +1249,22 @@ EN: My father is not a police officer.
 JP: わたしのお父さん(おとうさん)は警察官(けいさつかん)じゃありません。
 RM: Watashi no otousan wa keisatsukan ja arimasen.
 
+EN: I am not Japanese. (alternative form)
+JP: 私(わたし)は日本人(にほんじん)じゃないです。
+RM: Watashi wa nihonjin janai desu.
+
+EN: Takeshi is not 15 years old. (alternative form)
+JP: たけしは15歳(じゅうごさい)じゃないです。
+RM: Takeshi wa juugosai janai desu.
+
+EN: Tomorrow is not Saturday. (alternative form)
+JP: 明日(あした)は土曜日(どようび)じゃないです。
+RM: Ashita wa doyoubi janai desu.
+
+EN: I am not a student. (alternative form)
+JP: わたしは学生(がくせい)じゃないです。
+RM: Watashi wa gakusei janai desu.
+
 ## 32. Negative sentences - Past
 
 EN: Sale
@@ -1194,6 +1294,34 @@ RM: Watashi wa gakusei deshita.
 EN: I was not a student.
 JP: 私(わたし)は学生(がくせい)じゃありませんでした。
 RM: Watashi wa gakusei ja arimasen deshita.
+
+EN: Yesterday was not a sale.
+JP: 昨日(きのう)はセールじゃありませんでした。
+RM: Kinou wa seeru ja arimasen deshita.
+
+EN: My dream was not (to be) a singer.
+JP: 私(わたし)の夢(ゆめ)は歌手(かしゅ)じゃありませんでした。
+RM: Watashi no yume wa kashu ja arimasen deshita.
+
+EN: Mr. Suzuki was not a teacher.
+JP: すずきさんは先生(せんせい)じゃありませんでした。
+RM: Suzuki san wa sensei ja arimasen deshita.
+
+EN: Takeshi was 19 years old.
+JP: たけしは19歳(じゅうきゅうさい)でした。
+RM: Takeshi wa juukyuusai deshita.
+
+EN: Takeshi was not 19 years old.
+JP: たけしは19歳(じゅうきゅうさい)じゃありませんでした。
+RM: Takeshi wa juukyuusai ja arimasen deshita.
+
+EN: My father was a police officer.
+JP: わたしのお父さん(おとうさん)は警察官(けいさつかん)でした。
+RM: Watashi no otousan wa keisatsukan deshita.
+
+EN: My father was not a police officer.
+JP: わたしのお父さん(おとうさん)は警察官(けいさつかん)じゃありませんでした。
+RM: Watashi no otousan wa keisatsukan ja arimasen deshita.
 
 ## 37. これ-それ-あれ-どれ (That and this not followed by a noun)
 
@@ -1435,6 +1563,38 @@ EN: To look/watch
 JP: 見(み)る
 RM: miru
 
+EN: Eat (polite, present affirmative)
+JP: 食(た)べます
+RM: tabemasu
+
+EN: Do not eat (polite, present negative)
+JP: 食(た)べません
+RM: tabemasen
+
+EN: Sleep (polite, present affirmative)
+JP: 寝(ね)ます
+RM: nemasu
+
+EN: Do not sleep (polite, present negative)
+JP: 寝(ね)ません
+RM: nemasen
+
+EN: Wake up (polite, present affirmative)
+JP: 起(お)きます
+RM: okimasu
+
+EN: Do not wake up (polite, present negative)
+JP: 起(お)きません
+RM: okimasen
+
+EN: Look/watch (polite, present affirmative)
+JP: 見(み)ます
+RM: mimasu
+
+EN: Do not look/watch (polite, present negative)
+JP: 見(み)ません
+RM: mimasen
+
 ## 45. U-verb
 
 EN: To drink
@@ -1484,6 +1644,30 @@ RM: hanashimasu
 EN: Do not speak/talk (polite, present negative)
 JP: 話(はな)しません
 RM: hanashimasen
+
+EN: Listen/hear (polite, present affirmative)
+JP: 聞(き)きます
+RM: kikimasu
+
+EN: Do not listen/hear (polite, present negative)
+JP: 聞(き)きません
+RM: kikimasen
+
+EN: Go (polite, present affirmative)
+JP: 行(い)きます
+RM: ikimasu
+
+EN: Do not go (polite, present negative)
+JP: 行(い)きません
+RM: ikimasen
+
+EN: Go back/return (polite, present affirmative)
+JP: 帰(かえ)ります
+RM: kaerimasu
+
+EN: Do not go back/return (polite, present negative)
+JP: 帰(かえ)りません
+RM: kaerimasen
 
 ## 46. Irregular verb
 
@@ -2089,6 +2273,26 @@ EN: Will you study Japanese (with me)?
 JP: 日本語(にほんご)を勉強(べんきょう)しませんか?
 RM: Nihongo o benkyō shimasen ka?
 
+EN: Shall we eat?
+JP: 食(た)べませんか?
+RM: Tabemasen ka?
+
+EN: Shall we go?
+JP: 行(い)きませんか?
+RM: Ikimasen ka?
+
+EN: Shall we watch/see (it)?
+JP: 見(み)ませんか?
+RM: Mimasen ka?
+
+EN: Shall we drink?
+JP: 飲(の)みませんか?
+RM: Nomimasen ka?
+
+EN: Shall we study?
+JP: 勉強(べんきょう)しませんか?
+RM: Benkyoushimasen ka?
+
 ## 66. 〜ましょう！ (Let's ...!)
 
 EN: Let's study in the library.
@@ -2144,6 +2348,30 @@ RM: Asoko ni sāfubōdo ga arimasu.
 EN: Do you have time?
 JP: 時間(じかん)がありますか？
 RM: Jikan ga arimasu ka?
+
+EN: There is a McDonald's over there.
+JP: あそこにマクドナルドがあります。
+RM: Asoko ni makudonarudo ga arimasu.
+
+EN: There is a refrigerator in the house.
+JP: 家(いえ)に冷蔵庫(れいぞうこ)があります。
+RM: Ie ni reizouko ga arimasu.
+
+EN: I have a Japanese class.
+JP: 日本語(にほんご)のクラスがあります。
+RM: Nihongo no kurasu ga arimasu.
+
+EN: There is a test on Tuesday.
+JP: 火曜日(かようび)にテストがあります。
+RM: Kayoubi ni tesuto ga arimasu.
+
+EN: There is a test at school.
+JP: 学校(がっこう)でテストがあります。
+RM: Gakkou de tesuto ga arimasu.
+
+EN: There is a party on Friday.
+JP: 金曜日(きんようび)にパーティーがあります。
+RM: Kinyoubi ni paatii ga arimasu.
 
 ## 69. Xがいます。(There is ...)
 
@@ -2409,6 +2637,50 @@ EN: The tool was not convenient.
 JP: 道具(どうぐ)は便利(べんり)じゃなかったです。
 RM: Dougu wa benri janakatta desu.
 
+EN: (It) was quiet.
+JP: 静(しず)かでした。
+RM: Shizuka deshita.
+
+EN: (It) was not quiet.
+JP: 静(しず)かじゃなかったです。
+RM: Shizuka janakatta desu.
+
+EN: (It) is not popular.
+JP: 人気(にんき)じゃないです。
+RM: Ninki janai desu.
+
+EN: (It) was popular.
+JP: 人気(にんき)でした。
+RM: Ninki deshita.
+
+EN: (It) was not popular.
+JP: 人気(にんき)じゃなかったです。
+RM: Ninki janakatta desu.
+
+EN: (It) is not dangerous.
+JP: 危険(きけん)じゃないです。
+RM: Kiken janai desu.
+
+EN: (It) was dangerous.
+JP: 危険(きけん)でした。
+RM: Kiken deshita.
+
+EN: (It) was not dangerous.
+JP: 危険(きけん)じゃなかったです。
+RM: Kiken janakatta desu.
+
+EN: (It) is not convenient.
+JP: 便利(べんり)じゃないです。
+RM: Benri janai desu.
+
+EN: (It) was convenient.
+JP: 便利(べんり)でした。
+RM: Benri deshita.
+
+EN: (It) was not convenient.
+JP: 便利(べんり)じゃなかったです。
+RM: Benri janakatta desu.
+
 ## 76. Irregular Adjectives
 
 EN: Good
@@ -2439,6 +2711,38 @@ EN: It was not good.
 JP: よくなかったです。
 RM: Yokunakatta desu.
 
+EN: It is handsome/cool.
+JP: かっこいいです。
+RM: Kakkoii desu.
+
+EN: It is not handsome/cool.
+JP: かっこよくないです。
+RM: Kakkoyokunai desu.
+
+EN: It was handsome/cool.
+JP: かっこよかったです。
+RM: Kakkoyokatta desu.
+
+EN: It was not handsome/cool.
+JP: かっこよくなかったです。
+RM: Kakkoyokunakatta desu.
+
+EN: It is comfortable.
+JP: 心地(ここち)いいです。
+RM: Kokochi ii desu.
+
+EN: It is not comfortable.
+JP: 心地(ここち)よくないです。
+RM: Kokochi yokunai desu.
+
+EN: It was comfortable.
+JP: 心地(ここち)よかったです。
+RM: Kokochi yokatta desu.
+
+EN: It was not comfortable.
+JP: 心地(ここち)よくなかったです。
+RM: Kokochi yokunakatta desu.
+
 ## 77. すきな、きらいな
 
 EN: This is my favourite TV programme.
@@ -2448,6 +2752,38 @@ RM: Kore wa watashi no sukina terebi desu.
 EN: I neither like nor dislike it.
 JP: 好き(すき)でも嫌い(きらい)でもありません。
 RM: Suki demo kirai demo arimasen.
+
+EN: (I) like it very much.
+JP: 大好(だいす)きです。
+RM: Daisuki desu.
+
+EN: (I) dislike it very much.
+JP: 大嫌(だいきら)いです。
+RM: Daikirai desu.
+
+EN: Robert likes his Japanese classes.
+JP: ロバートは日本語(にほんご)のクラスが好(す)きです。
+RM: Robaato wa nihongo no kurasu ga suki desu.
+
+EN: I dislike fish.
+JP: 私(わたし)は魚(さかな)が嫌(きら)いです。
+RM: Watashi wa sakana ga kirai desu.
+
+EN: My younger sister likes summer.
+JP: 私(わたし)の妹(いもうと)は夏(なつ)が好(す)きです。
+RM: Watashi no imouto wa natsu ga suki desu.
+
+EN: Do you like winter?
+JP: あなたは冬(ふゆ)が好(す)きですか?
+RM: Anata wa fuyu ga suki desu ka?
+
+EN: I like spring very much.
+JP: 私(わたし)は春(はる)が大好(だいす)きです。
+RM: Watashi wa haru ga daisuki desu.
+
+EN: I also like autumn very much.
+JP: 私(わたし)は秋(あき)も大好(だいす)きです。
+RM: Watashi wa aki mo daisuki desu.
 
 ## 78. Degree Expressions
 
@@ -2482,6 +2818,22 @@ RM: daisuki (na)
 EN: Hate
 JP: 大嫌(だいきら)い(な)
 RM: daikirai (na)
+
+EN: The sea in Okinawa was very beautiful.
+JP: 沖縄(おきなわ)の海(うみ)はとても綺麗(きれい)でした。
+RM: Okinawa no umi wa totemo kirei deshita.
+
+EN: This room is a little bit hot.
+JP: この部屋(へや)はちょっと暑(あつ)いです。
+RM: Kono heya wa chotto atsui desu.
+
+EN: Takeshi likes coffee very much.
+JP: たけしさんはコーヒーが大好(だいす)きです。
+RM: Takeshi san wa koohii ga daisuki desu.
+
+EN: Takeshi likes coffee very much. (using とても)
+JP: たけしさんはコーヒーがとても好(す)きです。
+RM: Takeshi san wa koohii ga totemo suki desu.
 
 ## 83. Te-form rules (Ru-verbs)
 
@@ -2685,6 +3037,42 @@ EN: To wait
 JP: 待(ま)つ
 RM: matsu
 
+EN: Sue is studying now.
+JP: スーは今(いま)勉強(べんきょう)しています。
+RM: Suu wa ima benkyoushite imasu.
+
+EN: Sue will study.
+JP: スーは勉強(べんきょう)します。
+RM: Suu wa benkyoushimasu.
+
+EN: Takeshi is reading a book.
+JP: たけしは本(ほん)を読(よ)んでいます。
+RM: Takeshi wa hon o yonde imasu.
+
+EN: Takeshi will read a book.
+JP: たけしは本(ほん)を読(よ)みます。
+RM: Takeshi wa hon o yomimasu.
+
+EN: My mother is cooking now.
+JP: 私(わたし)のお母(かあ)さんは今(いま)料理(りょうり)しています。
+RM: Watashi no okaasan wa ima ryourishite imasu.
+
+EN: Mary is eating pancakes.
+JP: メアリーはパンケーキを食(た)べています。
+RM: Mearii wa pankeeki o tabete imasu.
+
+EN: Kanade is swimming in the pool.
+JP: かなではプールで泳(およ)いでいます。
+RM: Kanade wa puuru de oyoide imasu.
+
+EN: I am playing with Mary.
+JP: 私(わたし)はメアリーと遊(あそ)んでいます。
+RM: Watashi wa Mearii to asonde imasu.
+
+EN: Ken is writing a letter.
+JP: けんは手紙(てがみ)を書(か)いています。
+RM: Ken wa tegami o kaite imasu.
+
 ## 94. 〜ている 2
 
 EN: Minori is married.
@@ -2824,6 +3212,42 @@ RM: Se ga hikui.
 EN: (Someone) is bright/smart.
 JP: 頭(あたま)が良(い)い
 RM: Atama ga ii.
+
+EN: Kenta has long legs.
+JP: けんたは足(あし)が長(なが)いです。
+RM: Kenta wa ashi ga nagai desu.
+
+EN: Akiko has a small nose.
+JP: あきこは鼻(はな)が小(ちい)さいです。
+RM: Akiko wa hana ga chiisai desu.
+
+EN: Mickey Mouse has huge hands.
+JP: ミッキーマウスは手(て)が大(おお)きいです。
+RM: Mikkiimausu wa te ga ookii desu.
+
+EN: Yoko is tall.
+JP: ようこは背(せ)が高(たか)いです。
+RM: Youko wa se ga takai desu.
+
+EN: My mother is short.
+JP: 私(わたし)のお母(かあ)さんは背(せ)が低(ひく)いです。
+RM: Watashi no okaasan wa se ga hikui desu.
+
+EN: Mary has small eyes.
+JP: メアリーは目(め)が小(ちい)さいです。
+RM: Mearii wa me ga chiisai desu.
+
+EN: Taro is smart.
+JP: たろうは頭(あたま)が良(い)いです。
+RM: Tarou wa atama ga ii desu.
+
+EN: Is Kiyoshi tall?
+JP: きよしは背(せ)が高(たか)いですか?
+RM: Kiyoshi wa se ga takai desu ka?
+
+EN: Akane does not have small eyes.
+JP: あかねは目(め)が小(ちい)さくないです。
+RM: Akane wa me ga chiisakunai desu.
 
 ## 106. Verb stem + にいく
 
@@ -2997,6 +3421,22 @@ EN: is a student
 JP: 学生(がくせい)だ
 RM: gakuseida
 
+EN: I eat steak. (short form)
+JP: ステーキを食(た)べる。
+RM: Suteeki o taberu.
+
+EN: This house is big. (short form)
+JP: この家(いえ)は大(おお)きい。
+RM: Kono ie wa ookii.
+
+EN: The library is quiet. (short form)
+JP: 図書館(としょかん)は静(しず)かだ。
+RM: Toshokan wa shizuka da.
+
+EN: I am a student. (short form)
+JP: 私(わたし)は学生(がくせい)だ。
+RM: Watashi wa gakusei da.
+
 ## 116. Present tense Short form - Short form Negative Conjugation
 
 EN: I don't read (polite/long form)
@@ -3087,6 +3527,30 @@ EN: Does not exist / there isn't
 JP: ない
 RM: nai
 
+EN: This house is not small. (short form)
+JP: この家(いえ)は小(ちい)さくない。
+RM: Kono ie wa chiisakunai.
+
+EN: The library is not quiet. (short form)
+JP: 図書館(としょかん)は静(しず)かじゃない。
+RM: Toshokan wa shizuka janai.
+
+EN: I am not a student. (short form)
+JP: 私(わたし)は学生(がくせい)じゃない。
+RM: Watashi wa gakusei janai.
+
+EN: I do not eat steak. (short form)
+JP: ステーキを食(た)べない。
+RM: Suteeki o tabenai.
+
+EN: I do not drink beer. (short form)
+JP: ビールを飲(の)まない。
+RM: Biiru o nomanai.
+
+EN: I will not study tonight. (short form)
+JP: 今晩(こんばん)勉強(べんきょう)しない。
+RM: Konban benkyoushinai.
+
 ## 117 Usage of short forms 1 - Quotation (Someone said... I think...)
 
 EN: They said that...
@@ -3112,6 +3576,30 @@ RM: ~Nai to omoimasu.
 EN: I do not think (that it is the case).
 JP: ～とおもいません。
 RM: ~To omoimasen.
+
+EN: Takeshi said that he would watch a movie tonight.
+JP: たけしは今晩(こんばん)映画(えいが)を見(み)ると言(い)っていました。
+RM: Takeshi wa konban eiga o miru to itte imashita.
+
+EN: I think Takeshi likes Mary.
+JP: たけしはメアリーが好(す)きだと思(おも)います。
+RM: Takeshi wa Mearii ga suki da to omoimasu.
+
+EN: I think Takeshi does not like Mary.
+JP: たけしはメアリーが好(す)きじゃないと思(おも)います。
+RM: Takeshi wa Mearii ga suki janai to omoimasu.
+
+EN: I think Mary cooks often.
+JP: メアリーはよく料理(りょうり)すると思(おも)います。
+RM: Mearii wa yoku ryouri suru to omoimasu.
+
+EN: I think Satoshi is not a student.
+JP: さとしは学生(がくせい)じゃないと思(おも)います。
+RM: Satoshi wa gakusei janai to omoimasu.
+
+EN: Nana said that she would go to Japan.
+JP: ななは日本(にほん)に行(い)くと言(い)っていました。
+RM: Nana wa nihon ni iku to itte imashita.
 
 ## 118. Usage of short forms 2 - Casual conversation
 
@@ -3247,6 +3735,46 @@ EN: I am uncomfortable with / bad at (doing) ~ (used when talking about yourself
 JP: ～が苦手(にがて)です。
 RM: ~ ga nigate desu.
 
+EN: I like studying Japanese.
+JP: 日本語(にほんご)を勉強(べんきょう)するのが好(す)きです。
+RM: Nihongo o benkyousuru no ga suki desu.
+
+EN: I dislike cleaning my room.
+JP: 部屋(へや)を掃除(そうじ)するのが嫌(きら)いです。
+RM: Heya o soujisuru no ga kirai desu.
+
+EN: Robert is good at cooking.
+JP: ロバートは料理(りょうり)するのが上手(じょうず)です。
+RM: Robaato wa ryourisuru no ga jouzu desu.
+
+EN: I am good at speaking English.
+JP: わたしは英語(えいご)を話(はな)すのが得意(とくい)です。
+RM: Watashi wa eigo o hanasu no ga tokui desu.
+
+EN: Marie is good at making Spanish food.
+JP: マリーはスペイン料理(りょうり)を作(つく)るのが上手(じょうず)です。
+RM: Marii wa supein ryouri o tsukuru no ga jouzu desu.
+
+EN: I like playing basketball.
+JP: バスケットボールをするのが好(す)きです。
+RM: Basukettobooru o suru no ga suki desu.
+
+EN: I am good at drawing pictures.
+JP: 絵(え)を描(か)くのが得意(とくい)です。
+RM: E o kaku no ga tokui desu.
+
+EN: My younger sister is bad at dancing.
+JP: 私(わたし)の妹(いもうと)は踊(おど)るのが下手(へた)です。
+RM: Watashi no imouto wa odoru no ga heta desu.
+
+EN: Misa dislikes studying math.
+JP: みさは数学(すうがく)を勉強(べんきょう)するのが嫌(きら)いです。
+RM: Misa wa suugaku o benkyousuru no ga kirai desu.
+
+EN: I am not good at taking photos.
+JP: 写真(しゃしん)を撮(と)るのが苦手(にがて)です。
+RM: Shashin o toru no ga nigate desu.
+
 ## 124. Past tense short forms - Affirmative Conjugation
 
 EN: read
@@ -3308,6 +3836,30 @@ RM: itta
 EN: was good
 JP: よかった
 RM: yokatta
+
+EN: was a company employee
+JP: 会社員(かいしゃいん)だった
+RM: kaishain datta
+
+EN: Was the movie fun?
+JP: 映画(えいが)は楽(たの)しかった?
+RM: Eiga wa tanoshikatta?
+
+EN: Yeah, (the movie) was fun.
+JP: うん、(映画(えいが)は)楽(たの)しかった。
+RM: Un, (eiga wa) tanoshikatta.
+
+EN: No, (the movie) was boring.
+JP: ううん、(映画(えいが)は)退屈(たいくつ)だった。
+RM: Uun, (eiga wa) taikutsu datta.
+
+EN: What did you do yesterday? (casual)
+JP: 昨日(きのう)何(なに)をした?
+RM: Kinou nani o shita?
+
+EN: I went to the library. (short form)
+JP: 私(わたし)は図書館(としょかん)に行(い)った。
+RM: Watashi wa toshokan ni itta.
 
 ## 125. Past tense short forms - Negative Conjugation
 
@@ -3474,6 +4026,26 @@ RM: nihonjinjanai
 EN: was not Japanese
 JP: 日本人(にほんじん)じゃなかった
 RM: nihonjinjanakatta
+
+EN: did not play
+JP: 遊(あそ)ばなかった
+RM: asobanakatta
+
+EN: was not hot
+JP: 暑(あつ)くなかった
+RM: atsukunakatta
+
+EN: was not a company employee
+JP: 会社員(かいしゃいん)じゃなかった
+RM: kaishain janakatta
+
+EN: No, (the movie) was not fun.
+JP: ううん、(映画(えいが)は)楽(たの)しくなかった。
+RM: Uun, (eiga wa) tanoshikunakatta.
+
+EN: I did not go to the library.
+JP: 私(わたし)は図書館(としょかん)に行(い)かなかった。
+RM: Watashi wa toshokan ni ikanakatta.
 
 ## 126. Past tense short forms - Usage
 
@@ -3731,6 +4303,22 @@ EN: Because he was sick.
 JP: たけしは病気(びょうき)でしたから。
 RM: Takeshi wa byouki deshita kara.
 
+EN: Because we will have an exam tomorrow, I will study this evening.
+JP: 明日(あした)テストがありますから、今晩(こんばん)勉強(べんきょう)します。
+RM: Ashita tesuto ga arimasu kara, konban benkyoushimasu.
+
+EN: Because taxis are expensive, let's go by bus.
+JP: タクシーは高(たか)いですから、バスに乗(の)りましょう。
+RM: Takushii wa takai desu kara, basu ni norimashou.
+
+EN: Because my house is far away, may I come to your house?
+JP: 私(わたし)の家(いえ)は遠(とお)いですから、あなたの家(いえ)に来(き)てもいいですか?
+RM: Watashi no ie wa tooi desu kara, anata no ie ni kite mo ii desu ka?
+
+EN: Because Takeshi was sick, he did not come to school.
+JP: たけしは病気(びょうき)でしたから、たけしは学校(がっこう)に来(き)ませんでした。
+RM: Takeshi wa byouki deshita kara, Takeshi wa gakkou ni kimasen deshita.
+
 ## 144. Because 2 〜ので
 
 EN: My Japanese has improved because I always speak Japanese.
@@ -3786,6 +4374,30 @@ RM: Kono jisho wa furui kara, atarashii no o kaimasu.
 EN: My laptop is slower than yours.
 JP: 私(わたし)のパソコンはあなたのより遅(おそ)いです。
 RM: Watashi no pasokon wa anata no yori osoi desu.
+
+EN: I have a black sweater.
+JP: 黒(くろ)いセーターを持(も)っています。
+RM: Kuroi seetaa o motte imasu.
+
+EN: I have a red one too.
+JP: 赤(あか)いのも持(も)っています。
+RM: Akai no mo motte imasu.
+
+EN: I went to buy a cheap dictionary.
+JP: 安(やす)い辞書(じしょ)を買(か)いに行(い)きました。
+RM: Yasui jisho o kai ni ikimashita.
+
+EN: But there was not a good one.
+JP: でもいいのがありませんでした。
+RM: Demo ii no ga arimasen deshita.
+
+EN: I like the green dress.
+JP: 緑(みどり)のドレスが好(す)きです。
+RM: Midori no doresu ga suki desu.
+
+EN: But I also like the yellow one.
+JP: でも、黄色(きいろ)のも好(す)きです。
+RM: Demo, kiiro no mo suki desu.
 
 ## 147. Comparison 2 - Between A and B, which is more (property)
 
