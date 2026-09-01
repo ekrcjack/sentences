@@ -965,6 +965,34 @@ RM: Kyou wa getsuyoubi desu.
 
 ## 27. Question
 
+EN: Teacher
+JP: 先生(せんせい)
+RM: sensei
+
+EN: Doctor
+JP: 医者(いしゃ)
+RM: isha
+
+EN: Dinner
+JP: 夜(よる)ご飯(はん)
+RM: yorugohan
+
+EN: Yes (formal)
+JP: はい
+RM: hai
+
+EN: No (formal)
+JP: いいえ
+RM: iie
+
+EN: Yes (casual)
+JP: うん
+RM: un
+
+EN: No (casual)
+JP: ううん
+RM: uun
+
 EN: Birthday
 JP: 誕生日(たんじょうび)
 RM: tanjoubi
@@ -1124,6 +1152,114 @@ JP: あなたの好(す)きな歌手(かしゅ)は誰(だれ)ですか?
 RM: Anata no sukina kashu wa dare desu ka?
 
 ## 29. Noun1 の Noun2 (Usage of particle の)
+
+EN: Mother
+JP: お母(かあ)さん
+RM: okaasan
+
+EN: Father
+JP: お父(とう)さん
+RM: otousan
+
+EN: Older sister
+JP: 姉(あね)
+RM: ane
+
+EN: Older sister (familiar)
+JP: お姉(ねえ)ちゃん
+RM: oneechan
+
+EN: Younger sister
+JP: 妹(いもうと)
+RM: imouto
+
+EN: Older brother
+JP: 兄(あに)
+RM: ani
+
+EN: Older brother (familiar)
+JP: お兄(にい)ちゃん
+RM: oniichan
+
+EN: Younger brother
+JP: 弟(おとうと)
+RM: otouto
+
+EN: Country + 人 = nationality
+JP: 〜人(じん)
+RM: -jin
+
+EN: Country + 語 = language
+JP: 〜語(ご)
+RM: -go
+
+EN: Japan
+JP: 日本(にほん)
+RM: nihon
+
+EN: Japanese (person)
+JP: 日本人(にほんじん)
+RM: nihonjin
+
+EN: Japanese (language)
+JP: 日本語(にほんご)
+RM: nihongo
+
+EN: Spain
+JP: スペイン
+RM: supein
+
+EN: Spaniard
+JP: スペイン人(じん)
+RM: supeinjin
+
+EN: Spanish (language)
+JP: スペイン語(ご)
+RM: supeingo
+
+EN: America
+JP: アメリカ
+RM: amerika
+
+EN: American (person)
+JP: アメリカ人(じん)
+RM: amerikajin
+
+EN: English (language) — exception, not アメリカ語
+JP: 英語(えいご)
+RM: eigo
+
+EN: China
+JP: 中国(ちゅうごく)
+RM: chuugoku
+
+EN: Chinese (person)
+JP: 中国人(ちゅうごくじん)
+RM: chuugokujin
+
+EN: Chinese (language)
+JP: 中国語(ちゅうごくご)
+RM: chuugokugo
+
+EN: Germany
+JP: ドイツ
+RM: doitsu
+
+EN: German (person)
+JP: ドイツ人(じん)
+RM: doitsujin
+
+EN: German (language)
+JP: ドイツ語(ご)
+RM: doitsugo
+
+EN: Australia
+JP: オーストラリア
+RM: oosutoraria
+
+EN: Australian (person)
+JP: オーストラリア人(じん)
+RM: oosutorariajin
 
 EN: My mother
 JP: 私(わたし)のお母(かあ)さん
@@ -1325,6 +1461,26 @@ RM: Watashi no otousan wa keisatsukan ja arimasen deshita.
 
 ## 37. これ-それ-あれ-どれ (That and this not followed by a noun)
 
+EN: House
+JP: 家(いえ)
+RM: ie
+
+EN: Apple
+JP: りんご
+RM: ringo
+
+EN: Book
+JP: 本(ほん)
+RM: hon
+
+EN: Water bottle
+JP: 水筒(すいとう)
+RM: suitou
+
+EN: Car
+JP: 車(くるま)
+RM: kuruma
+
 EN: This is a book.
 JP: これは本(ほん)です。
 RM: Kore wa hon desu.
@@ -1366,6 +1522,18 @@ JP: あれは何(なん)ですか?
 RM: Are wa nan desu ka?
 
 ## 38. この-その-あの-どの (That and this followed by a noun)
+
+EN: Friend
+JP: 友達(ともだち)
+RM: tomodachi
+
+EN: Lady, woman
+JP: 女性(じょせい)
+RM: josei
+
+EN: Popular
+JP: 人気(にんき)
+RM: ninki
 
 EN: This book is mine.
 JP: この本(ほん)はわたしのです。
@@ -1857,6 +2025,18 @@ RM: Gakusei ja nakatta desu.
 
 ## 53. Basic particles (で、に、へ、を)
 
+EN: Library
+JP: 図書館(としょかん)
+RM: toshokan
+
+EN: Book
+JP: 本(ほん)
+RM: hon
+
+EN: School
+JP: 学校(がっこう)
+RM: gakkou
+
 EN: I read a book at the library.
 JP: 図書館(としょかん)で本(ほん)を読(よ)みます。
 RM: Toshokan de hon o yomimasu.
@@ -1878,6 +2058,18 @@ JP: 私(わたし)はコーヒーを飲(の)みます。
 RM: Watashi wa kōhī o nomimasu.
 
 ## 54. Basic Particles Practice
+
+EN: Music
+JP: 音楽(おんがく)
+RM: ongaku
+
+EN: Cafe
+JP: カフェ
+RM: kafe
+
+EN: What time
+JP: 何時(なんじ)
+RM: nanji
 
 EN: I watch TV at home.
 JP: うちでテレビを見(み)ます。
@@ -1974,6 +2166,14 @@ JP: 朝(あさ)行(い)きます。
 RM: Asa ikimasu.
 
 ## 56. The topic particle は
+
+EN: This weekend
+JP: 今週末(こんしゅうまつ)
+RM: konshuumatsu
+
+EN: Friday
+JP: 金曜日(きんようび)
+RM: kinyoubi
 
 EN: Mary, what do you do on the weekend?
 JP: メアリー、週末（しゅうまつ）は何（なに）をしますか?
@@ -2141,6 +2341,14 @@ RM: Mokuyoubi nimo asoko ni ikimasu.
 
 ## 59. Particle と
 
+EN: Tokyo
+JP: 東京(とうきょう)
+RM: Toukyou
+
+EN: South Korea
+JP: 韓国(かんこく)
+RM: Kankoku
+
 EN: I speak Japanese and English.
 JP: 日本語(にほんご)と英語(えいご)を話(はな)します。
 RM: Nihongo to eigo wo hanashimasu.
@@ -2162,6 +2370,22 @@ JP: 私(わたし)はけんと日本語(にほんご)を勉強(べんきょう)�
 RM: Watashi wa Ken to nihongo wo benkyoushimasu.
 
 ## 60. Particle や
+
+EN: Miso soup
+JP: 味噌汁(みそしる)
+RM: misoshiru
+
+EN: Okonomiyaki (savoury pancake)
+JP: お好(この)み焼(や)き
+RM: okonomiyaki
+
+EN: Japanese (language)
+JP: 日本語(にほんご)
+RM: nihongo
+
+EN: French (language)
+JP: フランス語(ご)
+RM: furansugo
 
 EN: I went to Kyoto and Nara (for example).
 JP: 京都(きょうと)や奈良(なら)に行(い)きました。
@@ -2214,6 +2438,54 @@ JP: 家族(かぞく)とスペイン語(すぺいんご)で話(はな)します�
 RM: Kazoku to supeingo de hanashimasu ka?
 
 ## 62. Frequency Adverbs
+
+EN: Always (100%)
+JP: いつも
+RM: itsumo
+
+EN: Usually
+JP: たいてい
+RM: taitei
+
+EN: Often
+JP: よく
+RM: yoku
+
+EN: Sometimes
+JP: 時々(ときどき)
+RM: tokidoki
+
+EN: Sometimes, occasionally
+JP: たまに
+RM: tamani
+
+EN: Not much (needs a negative ending)
+JP: あまり
+RM: amari
+
+EN: Never, not at all (0%, needs a negative ending)
+JP: 全然(ぜんぜん)
+RM: zenzen
+
+EN: Every ~ (prefix)
+JP: 毎(まい)
+RM: mai
+
+EN: Every day
+JP: 毎日(まいにち)
+RM: mainichi
+
+EN: Every week
+JP: 毎週(まいしゅう)
+RM: maishuu
+
+EN: Every month
+JP: 毎月(まいつき)
+RM: maitsuki
+
+EN: Every year
+JP: 毎年(まいとし)
+RM: maitoshi
 
 EN: Twice a week
 JP: 週(しゅう)に2回(にかい)
@@ -2340,6 +2612,30 @@ JP: 今週末(こんしゅうまつ)キャンプにいきましょうか？
 RM: Konshūmatsu kyanpu ni ikimashou ka?
 
 ## 68. Xがあります。(There is ...)
+
+EN: McDonald's
+JP: マクドナルド
+RM: makudonarudo
+
+EN: Class
+JP: クラス
+RM: kurasu
+
+EN: Test, exam
+JP: テスト
+RM: tesuto
+
+EN: Refrigerator
+JP: 冷蔵庫(れいぞうこ)
+RM: reizouko
+
+EN: Surfboard
+JP: サーフボード
+RM: saafuboodo
+
+EN: Party
+JP: パーティー
+RM: paatii
 
 EN: There is a surfboard over there.
 JP: あそこにサーフボードがあります。
@@ -2478,6 +2774,34 @@ JP: 駅(えき)の中(なか)で待(ま)ちます。
 RM: Eki no naka de machimasu.
 
 ## 74. い Adjectives
+
+EN: Interesting, funny
+JP: 面白(おもしろ)い
+RM: omoshiroi
+
+EN: Scary
+JP: 怖(こわ)い
+RM: kowai
+
+EN: Delicious
+JP: 美味(おい)しい
+RM: oishii
+
+EN: Big, large
+JP: 大(おお)きい
+RM: ookii
+
+EN: Small
+JP: 小(ちい)さい
+RM: chiisai
+
+EN: Cold
+JP: 寒(さむ)い
+RM: samui
+
+EN: Hot
+JP: 暑(あつ)い
+RM: atsui
 
 EN: It is interesting.
 JP: おもしろいです。
@@ -2745,6 +3069,34 @@ RM: Kokochi yokunakatta desu.
 
 ## 77. すきな、きらいな
 
+EN: Spring
+JP: 春(はる)
+RM: haru
+
+EN: Summer
+JP: 夏(なつ)
+RM: natsu
+
+EN: Autumn
+JP: 秋(あき)
+RM: aki
+
+EN: Winter
+JP: 冬(ふゆ)
+RM: fuyu
+
+EN: Season
+JP: 季節(きせつ)
+RM: kisetsu
+
+EN: To like (na-adjective)
+JP: 好(す)きな
+RM: sukina
+
+EN: To dislike (na-adjective)
+JP: 嫌(きら)いな
+RM: kiraina
+
 EN: This is my favourite TV programme.
 JP: これはわたしのすきなテレビです。
 RM: Kore wa watashi no sukina terebi desu.
@@ -2900,6 +3252,18 @@ JP: かいて
 RM: kaite
 
 ## 86. Te-form Usage 1 - Making request ... please
+
+EN: Name
+JP: 名前(なまえ)
+RM: namae
+
+EN: Station
+JP: 駅(えき)
+RM: eki
+
+EN: Every day
+JP: 毎日(まいにち)
+RM: mainichi
 
 EN: Please write down your name.
 JP: 名前(なまえ)を書(か)いてください。
@@ -3075,6 +3439,46 @@ RM: Ken wa tegami o kaite imasu.
 
 ## 94. 〜ている 2
 
+EN: To marry
+JP: 結婚(けっこん)する
+RM: kekkonsuru
+
+EN: T-shirt
+JP: Tシャツ
+RM: tiishatsu
+
+EN: To live, reside
+JP: 住(す)む
+RM: sumu
+
+EN: To work for, be employed at
+JP: 勤(つと)める
+RM: tsutomeru
+
+EN: To gain weight
+JP: 太(ふと)る
+RM: futoru
+
+EN: To lose weight
+JP: 痩(や)せる
+RM: yaseru
+
+EN: To head for
+JP: 向(む)かう
+RM: mukau
+
+EN: To have, to hold
+JP: 持(も)つ
+RM: motsu
+
+EN: To know
+JP: 知(し)る
+RM: shiru
+
+EN: To wear
+JP: 着(き)る
+RM: kiru
+
 EN: Minori is married.
 JP: みのりは結婚(けっこん)しています。
 RM: Minori wa kekkon shite imasu.
@@ -3117,6 +3521,10 @@ RM: Watashi no ie ni mukatte imasu.
 
 ## 98. Te form for joining sentences
 
+EN: Kind
+JP: 親切(しんせつ)な
+RM: shinsetsuna
+
 EN: It's cheap and delicious.
 JP: 安(やす)くて美味(おい)しいです。
 RM: Yasukute oishii desu.
@@ -3150,6 +3558,38 @@ JP: なおみは親切(しんせつ)で面白(おもしろ)くて頭(あたま)�
 RM: Naomi wa shinsetsu de omoshirokute atama ga ii desu.
 
 ## 99. Writing Practice
+
+EN: Japanese (person)
+JP: 日本人(にほんじん)
+RM: nihonjin
+
+EN: Restaurant
+JP: レストラン
+RM: resutoran
+
+EN: House
+JP: 家(いえ)
+RM: ie
+
+EN: Head
+JP: 頭(あたま)
+RM: atama
+
+EN: Height (of a person)
+JP: 背(せ)
+RM: se
+
+EN: Dog
+JP: 犬(いぬ)
+RM: inu
+
+EN: Male (animal)
+JP: オス
+RM: osu
+
+EN: Animal
+JP: 動物(どうぶつ)
+RM: doubutsu
 
 EN: cute (te-form of 可愛い)
 JP: 可愛(かわい)くて
@@ -3250,6 +3690,18 @@ JP: あかねは目(め)が小(ちい)さくないです。
 RM: Akane wa me ga chiisakunai desu.
 
 ## 106. Verb stem + にいく
+
+EN: Department store
+JP: デパート
+RM: depaato
+
+EN: To surf
+JP: サーフィンする
+RM: saafinsuru
+
+EN: Beach
+JP: ビーチ
+RM: biichi
 
 EN: I went to a department store to buy a bag.
 JP: デパートにバッグを買(か)いに行(い)きました。
@@ -3602,6 +4054,10 @@ JP: ななは日本(にほん)に行(い)くと言(い)っていました。
 RM: Nana wa nihon ni iku to itte imashita.
 
 ## 118. Usage of short forms 2 - Casual conversation
+
+EN: Police officer
+JP: 警察官(けいさつかん)
+RM: keisatsukan
 
 EN: Do you often eat fish? (formal)
 JP: 魚(さかな)をよく食(た)べますか？
@@ -4071,6 +4527,10 @@ RM: Sū wa nihongo o benkyoushiteiru to itteimashita.
 
 ## 130. Something and Anything
 
+EN: Cat
+JP: 猫(ねこ)
+RM: neko
+
 EN: The cat has brought something.
 JP: 猫(ねこ)が何(なに)か持(も)ってきました。
 RM: Neko ga nanika mottekimashita.
@@ -4170,6 +4630,22 @@ JP: どこにも行(い)きませんでした。
 RM: Dokonimo ikimasendeshita.
 
 ## 135. Qualifying Nouns with Verbs and Adjectives
+
+EN: To smoke
+JP: たばこを吸(す)う
+RM: tabako o suu
+
+EN: Last year
+JP: 去年(きょねん)
+RM: kyonen
+
+EN: Eye
+JP: 目(め)
+RM: me
+
+EN: Cooking
+JP: 料理(りょうり)
+RM: ryouri
 
 EN: The student who is reading a book over there is Michiko.
 JP: あそこで本(ほん)を読(よ)んでいる学生(がくせい)はみちこです。
@@ -4271,6 +4747,18 @@ RM: Mō Naruto o mimashita.
 
 ## 143. Because 1 〜から
 
+EN: This evening
+JP: 今晩(こんばん)
+RM: konban
+
+EN: Taxi
+JP: タクシー
+RM: takushii
+
+EN: Sickness, illness
+JP: 病気(びょうき)
+RM: byouki
+
 EN: I will study this evening.
 JP: 今晩(こんばん)勉強(べんきょう)します。
 RM: Konban benkyou shimasu.
@@ -4321,6 +4809,18 @@ RM: Takeshi wa byouki deshita kara, Takeshi wa gakkou ni kimasen deshita.
 
 ## 144. Because 2 〜ので
 
+EN: Kind
+JP: 親切(しんせつ)な
+RM: shinsetsuna
+
+EN: School
+JP: 学校(がっこう)
+RM: gakkou
+
+EN: Sick (na-adjective)
+JP: 病気(びょうき)な
+RM: byoukina
+
 EN: My Japanese has improved because I always speak Japanese.
 JP: いつも日本語(にほんご)で話(はな)すので、日本語(にほんご)が上手(じょうず)になりました。
 RM: Itsumo nihongo de hanasu node, nihongo ga jouzu ni narimashita.
@@ -4358,6 +4858,34 @@ JP: 明日(あした)はけんの誕生日(たんじょうび)なので、ケー
 RM: Ashita wa Ken no tanjoubi na node, ke-ki o kai ni ikimashou.
 
 ## 146. Comparison 1 - A is more (property) than B
+
+EN: Green
+JP: 緑(みどり)
+RM: midori
+
+EN: Dress
+JP: ドレス
+RM: doresu
+
+EN: Yellow
+JP: 黄色(きいろ)
+RM: kiiro
+
+EN: Rent
+JP: 家賃(やちん)
+RM: yachin
+
+EN: New York
+JP: ニューヨーク
+RM: Nyuuyooku
+
+EN: Dictionary
+JP: 辞書(じしょ)
+RM: jisho
+
+EN: Laptop
+JP: パソコン
+RM: pasokon
 
 EN: I like the green dress but I also like the yellow one too.
 JP: 緑(みどり)のドレスが好(す)きですが、黄色(きいろ)いのも好(す)きです。
@@ -4632,6 +5160,18 @@ JP: かおりは前(まえ)より料理(りょうり)するのが上手(じょ�
 RM: Kaori wa mae yori ryouri suru no ga jouzu ni narimashita.
 
 ## 184. 〜なくちゃいけません
+
+EN: To quit, to resign
+JP: 辞(や)める
+RM: yameru
+
+EN: To practise
+JP: 練習(れんしゅう)する
+RM: renshuusuru
+
+EN: To clean up
+JP: 掃除(そうじ)する
+RM: soujisuru
 
 EN: You must eat.
 JP: 食(た)べなくちゃいけません
