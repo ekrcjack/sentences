@@ -483,6 +483,1287 @@ JP: このケーキはおいしそうです。
 RM: Kono keeki wa oishisou desu.
 CN: 這個蛋糕看起來很好吃。
 
+## 02. 動詞變化（ます形四格：現在／過去 × 肯定／否定）
+
+（丁寧體 ます形的四種基本型。核心一條線：ます → ません → ました → ませんでした）
+
+### ① 四種基本型 ─ 以 食(た)べる（吃）為例
+
+> 日文丁寧體（ます體）只有四格：現在肯定「～ます」、現在否定「～ません」、過去肯定「～ました」、過去否定「～ませんでした」。任何動詞只要先變成「ます形」，這四格就完全通用，不分動詞種類。
+> 「～ませんでした」＝「ません（否定）」＋「でした（過去）」，所以看到它就直接拆成「沒有～、沒～」。
+> 四格的差別只在語尾，動詞前面的詞幹（食べ・書き・見・し）完全不動，這是背起來最快的地方。
+
+TY: RU
+EN: 現在肯定 ～ます
+JP: 食(た)べます
+RM: tabemasu
+CN: 吃／要吃
+
+TY: RU
+EN: 現在否定 ～ません
+JP: 食(た)べません
+RM: tabemasen
+CN: 不吃
+
+TY: RU
+EN: 過去肯定 ～ました
+JP: 食(た)べました
+RM: tabemashita
+CN: 吃了
+
+TY: RU
+EN: 過去否定 ～ませんでした
+JP: 食(た)べませんでした
+RM: tabemasen deshita
+CN: 沒吃
+
+### ② 五段動詞（U-verb）：う段 → い段 ＋ ます
+
+> 五段動詞的辭書形一定以 u 音結尾（く・ぐ・す・つ・ぬ・ぶ・む・う・る）。變 ます形時，把最後一個音改成「同一行的い段音」，再接「ます」。
+> 例：か「く」→ か「き」ます／の「む」→ の「み」ます／かえ「る」→ かえ「り」ます。
+> 只要 ます形做出來，後面接 ません／ました／ませんでした 都一樣。
+
+#### 五段動詞 う段→い段 對照（辭書形 → ます形）
+
+TY: U
+EN: 会(あ)う（う → い）
+JP: 会(あ)います
+RM: aimasu
+CN: 見面
+
+TY: U
+EN: 書(か)く（く → き）
+JP: 書(か)きます
+RM: kakimasu
+CN: 寫
+
+TY: U
+EN: 泳(およ)ぐ（ぐ → ぎ）
+JP: 泳(およ)ぎます
+RM: oyogimasu
+CN: 游泳
+
+TY: U
+EN: 話(はな)す（す → し）
+JP: 話(はな)します
+RM: hanashimasu
+CN: 說
+
+TY: U
+EN: 待(ま)つ（つ → ち）
+JP: 待(ま)ちます
+RM: machimasu
+CN: 等
+
+TY: U
+EN: 死(し)ぬ（ぬ → に）
+JP: 死(し)にます
+RM: shinimasu
+CN: 死
+
+TY: U
+EN: 遊(あそ)ぶ（ぶ → び）
+JP: 遊(あそ)びます
+RM: asobimasu
+CN: 玩
+
+TY: U
+EN: 飲(の)む（む → み）
+JP: 飲(の)みます
+RM: nomimasu
+CN: 喝
+
+TY: U
+EN: 帰(かえ)る（る → り）
+JP: 帰(かえ)ります
+RM: kaerimasu
+CN: 回去
+
+#### 五段動詞四格：書(か)く（寫）
+
+TY: U
+EN: 現在肯定
+JP: 書(か)きます
+RM: kakimasu
+CN: 寫／要寫
+
+TY: U
+EN: 現在否定
+JP: 書(か)きません
+RM: kakimasen
+CN: 不寫
+
+TY: U
+EN: 過去肯定
+JP: 書(か)きました
+RM: kakimashita
+CN: 寫了
+
+TY: U
+EN: 過去否定
+JP: 書(か)きませんでした
+RM: kakimasen deshita
+CN: 沒寫
+
+#### 五段動詞四格：飲(の)む（喝）
+
+TY: U
+EN: 現在肯定
+JP: 飲(の)みます
+RM: nomimasu
+CN: 喝／要喝
+
+TY: U
+EN: 現在否定
+JP: 飲(の)みません
+RM: nomimasen
+CN: 不喝
+
+TY: U
+EN: 過去肯定
+JP: 飲(の)みました
+RM: nomimashita
+CN: 喝了
+
+TY: U
+EN: 過去否定
+JP: 飲(の)みませんでした
+RM: nomimasen deshita
+CN: 沒喝
+
+#### 五段動詞四格：帰(かえ)る（回去）
+
+> 注意：帰(かえ)る 雖然是「る」結尾，卻是五段動詞，所以是「帰ります」而不是「帰ます」。這類例外見下面第 ⑤ 段。
+
+TY: U
+EN: 現在肯定
+JP: 帰(かえ)ります
+RM: kaerimasu
+CN: 回去
+
+TY: U
+EN: 現在否定
+JP: 帰(かえ)りません
+RM: kaerimasen
+CN: 不回去
+
+TY: U
+EN: 過去肯定
+JP: 帰(かえ)りました
+RM: kaerimashita
+CN: 回去了
+
+TY: U
+EN: 過去否定
+JP: 帰(かえ)りませんでした
+RM: kaerimasen deshita
+CN: 沒回去
+
+### ③ 一段動詞（Ru-verb）：去掉る ＋ ます
+
+> 一段動詞一律是「る」結尾，而且る前面是 i 段或 e 段音（み・べ・ね・おし…）。變化最簡單：把「る」拿掉，直接加 ます／ません／ました／ませんでした。
+> 例：食(た)べる → 食べ＋ます／見(み)る → 見＋ます／寝(ね)る → 寝＋ます／教(おし)える → 教え＋ます。
+
+#### 一段動詞四格：食(た)べる（吃）
+
+TY: RU
+EN: 現在肯定
+JP: 食(た)べます
+RM: tabemasu
+CN: 吃
+
+TY: RU
+EN: 現在否定
+JP: 食(た)べません
+RM: tabemasen
+CN: 不吃
+
+TY: RU
+EN: 過去肯定
+JP: 食(た)べました
+RM: tabemashita
+CN: 吃了
+
+TY: RU
+EN: 過去否定
+JP: 食(た)べませんでした
+RM: tabemasen deshita
+CN: 沒吃
+
+#### 一段動詞四格：見(み)る（看）
+
+TY: RU
+EN: 現在肯定
+JP: 見(み)ます
+RM: mimasu
+CN: 看
+
+TY: RU
+EN: 現在否定
+JP: 見(み)ません
+RM: mimasen
+CN: 不看
+
+TY: RU
+EN: 過去肯定
+JP: 見(み)ました
+RM: mimashita
+CN: 看了
+
+TY: RU
+EN: 過去否定
+JP: 見(み)ませんでした
+RM: mimasen deshita
+CN: 沒看
+
+#### 其他常用一段動詞（辭書形 → ます形）
+
+TY: RU
+EN: 寝(ね)る
+JP: 寝(ね)ます
+RM: nemasu
+CN: 睡覺
+
+TY: RU
+EN: 起(お)きる
+JP: 起(お)きます
+RM: okimasu
+CN: 起床
+
+TY: RU
+EN: 教(おし)える
+JP: 教(おし)えます
+RM: oshiemasu
+CN: 教
+
+TY: RU
+EN: 出(で)かける
+JP: 出(で)かけます
+RM: dekakemasu
+CN: 出門
+
+### ④ 不規則動詞：する／来(く)る
+
+> N5 只有兩個不規則動詞：する（做）和 来(く)る（來）。四格語尾照舊，只是詞幹要另外背。
+> 特別注意 来(く)る 變成 ます形時讀音會改變：く → き，寫成「来ます」，讀作「きます」。
+
+#### 不規則動詞四格：する（做）
+
+TY: SURU
+EN: 現在肯定
+JP: します
+RM: shimasu
+CN: 做／要做
+
+TY: SURU
+EN: 現在否定
+JP: しません
+RM: shimasen
+CN: 不做
+
+TY: SURU
+EN: 過去肯定
+JP: しました
+RM: shimashita
+CN: 做了
+
+TY: SURU
+EN: 過去否定
+JP: しませんでした
+RM: shimasen deshita
+CN: 沒做
+
+#### 不規則動詞四格：来(く)る（來）
+
+TY: IRREG
+EN: 現在肯定
+JP: 来(き)ます
+RM: kimasu
+CN: 來
+
+TY: IRREG
+EN: 現在否定
+JP: 来(き)ません
+RM: kimasen
+CN: 不來
+
+TY: IRREG
+EN: 過去肯定
+JP: 来(き)ました
+RM: kimashita
+CN: 來了
+
+TY: IRREG
+EN: 過去否定
+JP: 来(き)ませんでした
+RM: kimasen deshita
+CN: 沒來
+
+#### 名詞＋する 也照 する 變化
+
+TY: SURU
+EN: 勉強(べんきょう)する
+JP: 勉強(べんきょう)します
+RM: benkyou shimasu
+CN: 學習
+
+TY: SURU
+EN: 買(か)い物(もの)する
+JP: 買(か)い物(もの)しました
+RM: kaimono shimashita
+CN: 買了東西
+
+TY: SURU
+EN: 掃除(そうじ)する
+JP: 掃除(そうじ)しませんでした
+RM: souji shimasen deshita
+CN: 沒有打掃
+
+### ⑤ 怎麼分辨五段／一段？（含常見例外）
+
+> 判斷順序：① 不是「る」結尾（く・ぐ・す・つ・ぬ・ぶ・む・う）→ 一定是五段動詞。② 「る」結尾但前面是 a・u・o 段音（ある・作(つく)る・乗(の)る）→ 五段動詞。③ 「る」結尾且前面是 i・e 段音（見る・食べる）→ 大多是一段動詞。
+> 但第 ③ 條有一批必背例外：外表像一段，實際是五段，所以 ます形要多一個「り」。
+> 記法：例外組全部都是「～ります」。
+
+TY: U
+EN: 帰(かえ)る（例外・五段）
+JP: 帰(かえ)ります
+RM: kaerimasu
+CN: 回去
+
+TY: U
+EN: 入(はい)る（例外・五段）
+JP: 入(はい)ります
+RM: hairimasu
+CN: 進入
+
+TY: U
+EN: 走(はし)る（例外・五段）
+JP: 走(はし)ります
+RM: hashirimasu
+CN: 跑
+
+TY: U
+EN: 切(き)る（例外・五段）
+JP: 切(き)ります
+RM: kirimasu
+CN: 切
+
+TY: U
+EN: 知(し)る（例外・五段）
+JP: 知(し)ります
+RM: shirimasu
+CN: 知道
+
+TY: U
+EN: 要(い)る（例外・五段）
+JP: 要(い)ります
+RM: irimasu
+CN: 需要
+
+### ⑥ 「現在式」其實包含未來
+
+> 日文的「現在式（～ます）」不等於中文的「正在～」。它表達的是：習慣性動作、一般事實，以及「還沒發生的未來」。
+> 想表達「正在做」要用「～ています」（第 93、94 課）。
+> 判斷靠時間詞：毎日(まいにち)／いつも → 習慣；明日(あした)／来週(らいしゅう) → 未來。
+
+TY: SURU
+EN: Every day I study Japanese.（習慣）
+JP: 毎日(まいにち)日本語(にほんご)を勉強(べんきょう)します。
+RM: Mainichi nihongo o benkyou shimasu.
+CN: 我每天學日文。
+
+TY: SURU
+EN: I will study tomorrow.（未來）
+JP: 明日(あした)勉強(べんきょう)します。
+RM: Ashita benkyou shimasu.
+CN: 明天要學。
+
+TY: RU
+EN: I am eating now.（正在進行，用ています）
+JP: 今(いま)、ご飯(はん)を食(た)べています。
+RM: Ima, gohan o tabete imasu.
+CN: 我現在正在吃飯。
+
+TY: U
+EN: I get up at six every morning.
+JP: 毎朝(まいあさ)六時(ろくじ)に起(お)きます。
+RM: Maiasa rokuji ni okimasu.
+CN: 我每天早上六點起床。
+
+### ⑦ 綜合例句（四格實際造句）
+
+> 過去否定「～ませんでした」最常和 昨日(きのう)・先週(せんしゅう)・去年(きょねん) 一起出現；現在否定「～ません」則多半在講習慣或意願。
+> 補充：口語裡過去否定也常說成「食(た)べなかったです」（短形＋です），意思相同，語感更輕鬆，屬於第 125 課的內容。
+
+TY: RU
+EN: I didn't watch TV yesterday.
+JP: 昨日(きのう)、テレビを見(み)ませんでした。
+RM: Kinou, terebi o mimasen deshita.
+CN: 昨天沒有看電視。
+
+TY: RU
+EN: I ate breakfast this morning.
+JP: 今朝(けさ)、朝(あさ)ご飯(はん)を食(た)べました。
+RM: Kesa, asagohan o tabemashita.
+CN: 今天早上吃了早餐。
+
+TY: U
+EN: I don't drink alcohol.
+JP: お酒(さけ)は飲(の)みません。
+RM: Osake wa nomimasen.
+CN: 我不喝酒。
+
+TY: U
+EN: I didn't go home yesterday.
+JP: 昨日(きのう)は家(いえ)へ帰(かえ)りませんでした。
+RM: Kinou wa ie e kaerimasen deshita.
+CN: 昨天沒有回家。
+
+TY: IRREG
+EN: A friend came last week.
+JP: 先週(せんしゅう)、友達(ともだち)が来(き)ました。
+RM: Senshuu, tomodachi ga kimashita.
+CN: 上週朋友來了。
+
+TY: U
+EN: I wrote a letter yesterday.
+JP: 昨日(きのう)、手紙(てがみ)を書(か)きました。
+RM: Kinou, tegami o kakimashita.
+CN: 昨天寫了信。
+
+TY: SURU
+EN: What will you do this weekend?
+JP: 週末(しゅうまつ)、何(なに)をしますか。
+RM: Shuumatsu, nani o shimasu ka.
+CN: 週末要做什麼？
+
+### ⑧ 四格延伸用法（ます形的家族）
+
+> 同一個「ます形詞幹」還能接出很多句型，先認得這幾個，之後第 65、66 課會再練：
+> ・～ますか＝疑問（要～嗎？）／・～ませんか＝邀約（要不要～？）／・～ましょう＝提議（一起～吧）／・～たいです＝想要～（第 01 課）。
+> 注意「～ませんか」形式上是否定疑問，意思卻是客氣的邀請，不是「你不～嗎」。
+
+TY: U
+EN: Will you drink coffee?（疑問 ～ますか）
+JP: コーヒーを飲(の)みますか。
+RM: Koohii o nomimasu ka.
+CN: 要喝咖啡嗎？
+
+TY: U
+EN: Shall we go together?（邀約 ～ませんか）
+JP: 一緒(いっしょ)に行(い)きませんか。
+RM: Isshoni ikimasen ka.
+CN: 要不要一起去？
+
+TY: U
+EN: Let's go together.（提議 ～ましょう）
+JP: 一緒(いっしょ)に行(い)きましょう。
+RM: Isshoni ikimashou.
+CN: 一起去吧。
+
+TY: RU
+EN: I want to eat something.（願望 ～たいです）
+JP: 何(なに)か食(た)べたいです。
+RM: Nanika tabetai desu.
+CN: 我想吃點東西。
+
+## 03. 形容詞變化（い形容詞／な形容詞 四格）
+
+（一句話記住：い形容詞是「い」自己變，な形容詞是後面的「だ」在變）
+
+### ① 四種基本型對照（普通形）
+
+> 形容詞先分兩類：い形容詞（辭書形以「い」結尾，如 高(たか)い）與 な形容詞（接名詞時要加「な」，如 静(しず)かな）。
+> い形容詞把語尾的「い」換掉：い → くない → かった → くなかった。
+> な形容詞本體不動，變的是後面的「だ」：だ → ではない → だった → ではなかった。
+> 下面先看普通形（常體），第 ⑤ 段再看丁寧體（です體），兩套要分開記。
+
+TY: い形容詞
+EN: 現在肯定
+JP: 高(たか)い
+RM: takai
+CN: 高／貴
+
+TY: い形容詞
+EN: 現在否定
+JP: 高(たか)くない
+RM: takakunai
+CN: 不高／不貴
+
+TY: い形容詞
+EN: 過去肯定
+JP: 高(たか)かった
+RM: takakatta
+CN: （當時）很高／很貴
+
+TY: い形容詞
+EN: 過去否定
+JP: 高(たか)くなかった
+RM: takakunakatta
+CN: （當時）不高／不貴
+
+TY: な形容詞
+EN: 現在肯定
+JP: 静(しず)かだ
+RM: shizuka da
+CN: 安靜
+
+TY: な形容詞
+EN: 現在否定
+JP: 静(しず)かではない
+RM: shizuka de wa nai
+CN: 不安靜
+
+TY: な形容詞
+EN: 過去肯定
+JP: 静(しず)かだった
+RM: shizuka datta
+CN: （當時）很安靜
+
+TY: な形容詞
+EN: 過去否定
+JP: 静(しず)かではなかった
+RM: shizuka de wa nakatta
+CN: （當時）不安靜
+
+### ② い形容詞的四格與公式
+
+> 公式：語尾「い」去掉後，接 くない／かった／くなかった。
+> 過去否定不用另外背：先做現在否定「高くない」，再把最後的「ない → なかった」就好，因為「ない」本身也是一個い形容詞。
+> 常見錯誤：❌ 高いだった ❌ 高いくない ─ 「い」一定要先拿掉。
+
+TY: い形容詞
+EN: This mountain is high.（現在肯定）
+JP: この山(やま)は高(たか)い。
+RM: Kono yama wa takai.
+CN: 這座山很高。
+
+TY: い形容詞
+EN: This car is not expensive.（現在否定 ～くない）
+JP: この車(くるま)は高(たか)くない。
+RM: Kono kuruma wa takakunai.
+CN: 這台車不貴。
+
+TY: い形容詞
+EN: Yesterday's food was delicious.（過去肯定 ～かった）
+JP: 昨日(きのう)の料理(りょうり)は美味(おい)しかった。
+RM: Kinou no ryouri wa oishikatta.
+CN: 昨天的料理很好吃。
+
+TY: い形容詞
+EN: It was not cold yesterday.（過去否定 ～くなかった）
+JP: 昨日(きのう)は寒(さむ)くなかった。
+RM: Kinou wa samukunakatta.
+CN: 昨天不冷。
+
+#### い形容詞變化練習（原形 → 現在否定 → 過去肯定 → 過去否定）
+
+TY: い形容詞
+EN: 安(やす)い（便宜）
+JP: 安(やす)い／安(やす)くない／安(やす)かった／安(やす)くなかった
+RM: yasui / yasukunai / yasukatta / yasukunakatta
+CN: 便宜／不便宜／（當時）便宜／（當時）不便宜
+
+TY: い形容詞
+EN: 大(おお)きい（大）
+JP: 大(おお)きい／大(おお)きくない／大(おお)きかった／大(おお)きくなかった
+RM: ookii / ookikunai / ookikatta / ookikunakatta
+CN: 大／不大／（當時）大／（當時）不大
+
+TY: い形容詞
+EN: 小(ちい)さい（小）
+JP: 小(ちい)さい／小(ちい)さくない／小(ちい)さかった／小(ちい)さくなかった
+RM: chiisai / chiisakunai / chiisakatta / chiisakunakatta
+CN: 小／不小／（當時）小／（當時）不小
+
+TY: い形容詞
+EN: 面白(おもしろ)い（有趣）
+JP: 面白(おもしろ)い／面白(おもしろ)くない／面白(おもしろ)かった／面白(おもしろ)くなかった
+RM: omoshiroi / omoshirokunai / omoshirokatta / omoshirokunakatta
+CN: 有趣／不有趣／（當時）有趣／（當時）不有趣
+
+TY: い形容詞
+EN: 新(あたら)しい（新）
+JP: 新(あたら)しい／新(あたら)しくない／新(あたら)しかった／新(あたら)しくなかった
+RM: atarashii / atarashikunai / atarashikatta / atarashikunakatta
+CN: 新／不新／（當時）新／（當時）不新
+
+TY: い形容詞
+EN: 暑(あつ)い（熱）
+JP: 暑(あつ)い／暑(あつ)くない／暑(あつ)かった／暑(あつ)くなかった
+RM: atsui / atsukunai / atsukatta / atsukunakatta
+CN: 熱／不熱／（當時）熱／（當時）不熱
+
+### ③ な形容詞：變的是「だ」
+
+> な形容詞的「な」不是單字的一部分，只有「接名詞」時才出現：静(しず)かな町(まち)。
+> 放在句尾時要用「だ」，不能說 ❌ 静かなだ，正確是 ✅ 静かだ。
+> 否定的「ではない」在口語中幾乎都說成「じゃない」，兩者意思相同，「では」較正式、書面。
+
+TY: な形容詞
+EN: This town is quiet.（現在肯定）
+JP: この町(まち)は静(しず)かだ。
+RM: Kono machi wa shizuka da.
+CN: 這個城鎮很安靜。
+
+TY: な形容詞
+EN: This room is not quiet.（現在否定・口語 じゃない）
+JP: この部屋(へや)は静(しず)かじゃない。
+RM: Kono heya wa shizuka ja nai.
+CN: 這個房間不安靜。
+
+TY: な形容詞
+EN: It was quiet yesterday.（過去肯定 だった）
+JP: 昨日(きのう)は静(しず)かだった。
+RM: Kinou wa shizuka datta.
+CN: 昨天很安靜。
+
+TY: な形容詞
+EN: It was not quiet yesterday.（過去否定・口語 じゃなかった）
+JP: 昨日(きのう)は静(しず)かじゃなかった。
+RM: Kinou wa shizuka ja nakatta.
+CN: 昨天不安靜。
+
+#### な形容詞變化練習：便利(べんり)（方便）
+
+TY: な形容詞
+EN: 現在肯定
+JP: 便利(べんり)だ
+RM: benri da
+CN: 很方便
+
+TY: な形容詞
+EN: 現在否定（正式／口語）
+JP: 便利(べんり)ではない／便利(べんり)じゃない
+RM: benri de wa nai / benri ja nai
+CN: 不方便
+
+TY: な形容詞
+EN: 過去肯定
+JP: 便利(べんり)だった
+RM: benri datta
+CN: 以前很方便
+
+TY: な形容詞
+EN: 過去否定（正式／口語）
+JP: 便利(べんり)ではなかった／便利(べんり)じゃなかった
+RM: benri de wa nakatta / benri ja nakatta
+CN: 以前不方便
+
+### ④ 兩類形容詞並排比較
+
+> 記住這組對比就不會混：い形容詞是「自己變」，な形容詞是「だ 在變」。
+> 唯一共通點：過去否定都以「～なかった」結尾，因為兩邊的否定「ない」本身都是い形容詞。
+> 判斷小訣竅：把單字接到名詞前面試試看 ─ 要加「な」的就是な形容詞。
+
+TY: い形容詞
+EN: い形容詞代表：高(たか)い
+JP: 高(たか)い → 高(たか)くない → 高(たか)かった → 高(たか)くなかった
+RM: takai / takakunai / takakatta / takakunakatta
+CN: 貴 → 不貴 → 以前貴 → 以前不貴
+
+TY: な形容詞
+EN: な形容詞代表：静(しず)か
+JP: 静(しず)かだ → 静(しず)かではない → 静(しず)かだった → 静(しず)かではなかった
+RM: shizuka da / shizuka de wa nai / shizuka datta / shizuka de wa nakatta
+CN: 安靜 → 不安靜 → 以前安靜 → 以前不安靜
+
+TY: い形容詞
+EN: 口語否定對照：い形容詞不變
+JP: 高(たか)くない／高(たか)くなかった
+RM: takakunai / takakunakatta
+CN: 不貴／以前不貴
+
+TY: な形容詞
+EN: 口語否定對照：な形容詞用 じゃ
+JP: 静(しず)かじゃない／静(しず)かじゃなかった
+RM: shizuka ja nai / shizuka ja nakatta
+CN: 不安靜／以前不安靜
+
+### ⑤ 丁寧體（です體）四格 ─ 會話與考試最常用
+
+> 上面是普通形（常體）。跟不熟的人講話、寫作文時要用丁寧體。
+> い形容詞：原形直接加です（高いです），否定兩種說法 ─「高くないです」（口語）＝「高くありません」（正式）。
+> な形容詞：だ 直接換成 です（静かです），過去用「でした」，不是 ❌ 静かだったです。
+> 大坑：い形容詞的過去是 ✅ 高かったです，絕對不是 ❌ 高いでした。
+
+TY: い形容詞
+EN: 現在肯定（丁寧）
+JP: 高(たか)いです
+RM: takai desu
+CN: 很貴
+
+TY: い形容詞
+EN: 現在否定（丁寧・口語／正式）
+JP: 高(たか)くないです／高(たか)くありません
+RM: takakunai desu / takaku arimasen
+CN: 不貴
+
+TY: い形容詞
+EN: 過去肯定（丁寧）
+JP: 高(たか)かったです
+RM: takakatta desu
+CN: （當時）很貴
+
+TY: い形容詞
+EN: 過去否定（丁寧・口語／正式）
+JP: 高(たか)くなかったです／高(たか)くありませんでした
+RM: takakunakatta desu / takaku arimasen deshita
+CN: （當時）不貴
+
+TY: な形容詞
+EN: 現在肯定（丁寧）
+JP: 静(しず)かです
+RM: shizuka desu
+CN: 很安靜
+
+TY: な形容詞
+EN: 現在否定（丁寧・口語／正式）
+JP: 静(しず)かじゃないです／静(しず)かではありません
+RM: shizuka ja nai desu / shizuka de wa arimasen
+CN: 不安靜
+
+TY: な形容詞
+EN: 過去肯定（丁寧）
+JP: 静(しず)かでした
+RM: shizuka deshita
+CN: （當時）很安靜
+
+TY: な形容詞
+EN: 過去否定（丁寧・口語／正式）
+JP: 静(しず)かじゃなかったです／静(しず)かではありませんでした
+RM: shizuka ja nakatta desu / shizuka de wa arimasen deshita
+CN: （當時）不安靜
+
+### ⑥ 接名詞的形狀不一樣
+
+> い形容詞直接接名詞，什麼都不加：✅ 高(たか)い車(くるま)／❌ 高いな車。
+> な形容詞接名詞一定要「な」：✅ 静(しず)かな部屋(へや)／❌ 静か部屋。
+> 這就是「な形容詞」名字的由來 ─ 只有接名詞這一種情況才看得到「な」。
+
+TY: い形容詞
+EN: an expensive car
+JP: 高(たか)い車(くるま)
+RM: takai kuruma
+CN: 很貴的車
+
+TY: い形容詞
+EN: a new car
+JP: 新(あたら)しい車(くるま)
+RM: atarashii kuruma
+CN: 新的車
+
+TY: い形容詞
+EN: I bought a cheap bag.
+JP: 安(やす)いかばんを買(か)いました。
+RM: Yasui kaban o kaimashita.
+CN: 我買了便宜的包包。
+
+TY: な形容詞
+EN: a quiet room
+JP: 静(しず)かな部屋(へや)
+RM: shizuka na heya
+CN: 安靜的房間
+
+TY: な形容詞
+EN: a beautiful woman
+JP: きれいな女性(じょせい)
+RM: kirei na josei
+CN: 漂亮的女性
+
+TY: な形容詞
+EN: a famous shop
+JP: 有名(ゆうめい)な店(みせ)
+RM: yuumei na mise
+CN: 有名的店
+
+TY: な形容詞
+EN: This is a convenient app.
+JP: これは便利(べんり)なアプリです。
+RM: Kore wa benri na apuri desu.
+CN: 這是很方便的 app。
+
+### ⑦ 不規則：いい（よい）
+
+> 「いい（好）」是唯一要特別背的い形容詞：只有現在肯定用「いい」，其他變化一律改用「よ」開頭的形式。
+> ❌ いくない ❌ いかった 都是錯的。
+> 含「いい」的複合詞同理：かっこいい → かっこよかった、頭(あたま)がいい → 頭(あたま)がよかった。
+
+TY: い形容詞
+EN: The weather is good today.（現在肯定）
+JP: 今日(きょう)は天気(てんき)がいい。
+RM: Kyou wa tenki ga ii.
+CN: 今天天氣很好。
+
+TY: い形容詞
+EN: The weather is not good today.（現在否定）
+JP: 今日(きょう)は天気(てんき)がよくない。
+RM: Kyou wa tenki ga yokunai.
+CN: 今天天氣不好。
+
+TY: い形容詞
+EN: The weather was good yesterday.（過去肯定）
+JP: 昨日(きのう)は天気(てんき)がよかった。
+RM: Kinou wa tenki ga yokatta.
+CN: 昨天天氣很好。
+
+TY: い形容詞
+EN: The weather was not good yesterday.（過去否定）
+JP: 昨日(きのう)は天気(てんき)がよくなかった。
+RM: Kinou wa tenki ga yokunakatta.
+CN: 昨天天氣不好。
+
+TY: い形容詞
+EN: That was good!（常用口語）
+JP: よかったです。
+RM: Yokatta desu.
+CN: 太好了。／幸好。
+
+### ⑧ 容易搞錯的分類與陷阱
+
+> 陷阱一：以「い」結尾卻是な形容詞 ─ きれい（漂亮／乾淨）、嫌(きら)い（討厭）。否定是「きれいじゃない」，不是 ❌ きれくない。
+> 陷阱二：好(す)き・嫌(きら)い・上手(じょうず)・下手(へた) 都是な形容詞，而且對象用「が」不是「を」（第 77 課）。
+> 陷阱三：「高くない」的「ない」是形容詞變化的一部分，跟動詞否定「食(た)べない」是兩回事，不要互相套用。
+
+TY: な形容詞
+EN: This room is not clean.（きれい 是な形容詞）
+JP: この部屋(へや)はきれいじゃないです。
+RM: Kono heya wa kirei ja nai desu.
+CN: 這個房間不乾淨。
+
+TY: な形容詞
+EN: I like Japanese.（對象用 が）
+JP: 私(わたし)は日本語(にほんご)が好(す)きです。
+RM: Watashi wa nihongo ga suki desu.
+CN: 我喜歡日文。
+
+TY: な形容詞
+EN: I don't like natto.
+JP: 納豆(なっとう)は好(す)きじゃないです。
+RM: Nattou wa suki ja nai desu.
+CN: 我不喜歡納豆。
+
+TY: な形容詞
+EN: He is good at singing.
+JP: 彼(かれ)は歌(うた)が上手(じょうず)です。
+RM: Kare wa uta ga jouzu desu.
+CN: 他很會唱歌。
+
+### ⑨ 連接與修飾動詞（～くて／～で、～く／～に）
+
+> 兩個形容詞連用：い形容詞去い＋くて（安(やす)くて美味(おい)しい），な形容詞直接＋で（静(しず)かできれい）。
+> 形容詞修飾動詞（變副詞）：い形容詞去い＋く（早(はや)く起(お)きる），な形容詞＋に（静(しず)かに話(はな)す）。
+> 這組是第 78、98 課的基礎，變化點跟四格完全一樣，順便一起記最省力。
+
+TY: い形容詞
+EN: cheap and delicious（～くて）
+JP: この店(みせ)は安(やす)くて美味(おい)しいです。
+RM: Kono mise wa yasukute oishii desu.
+CN: 這家店又便宜又好吃。
+
+TY: な形容詞
+EN: quiet and clean（～で）
+JP: この部屋(へや)は静(しず)かできれいです。
+RM: Kono heya wa shizuka de kirei desu.
+CN: 這個房間又安靜又乾淨。
+
+TY: い形容詞
+EN: get up early（～く 修飾動詞）
+JP: 毎朝(まいあさ)早(はや)く起(お)きます。
+RM: Maiasa hayaku okimasu.
+CN: 每天早上很早起床。
+
+TY: な形容詞
+EN: speak quietly（～に 修飾動詞）
+JP: 静(しず)かに話(はな)してください。
+RM: Shizuka ni hanashite kudasai.
+CN: 請小聲說話。
+
+### ⑩ 綜合例句（四格實際運用）
+
+> 講過去的感想：い形容詞用「～かったです」、な形容詞用「～でした」，這是遊記與心得最常用的兩個結尾。
+> 日常對話的否定順序：「～くないです／～じゃないです」比「～くありません／～ではありません」更常聽到。
+
+TY: い形容詞
+EN: This ramen is really delicious.
+JP: このラーメンは本当(ほんとう)に美味(おい)しいです。
+RM: Kono raamen wa hontou ni oishii desu.
+CN: 這個拉麵真的很好吃。
+
+TY: い形容詞
+EN: That movie was not interesting.
+JP: あの映画(えいが)は面白(おもしろ)くなかったです。
+RM: Ano eiga wa omoshirokunakatta desu.
+CN: 那部電影不好看。
+
+TY: い形容詞
+EN: Last summer was very hot.
+JP: 去年(きょねん)の夏(なつ)はとても暑(あつ)かったです。
+RM: Kyonen no natsu wa totemo atsukatta desu.
+CN: 去年夏天非常熱。
+
+TY: な形容詞
+EN: The test was not easy.
+JP: テストは簡単(かんたん)じゃなかったです。
+RM: Tesuto wa kantan ja nakatta desu.
+CN: 考試不簡單。
+
+TY: な形容詞
+EN: The town was very lively.
+JP: 町(まち)はとてもにぎやかでした。
+RM: Machi wa totemo nigiyaka deshita.
+CN: 那個城鎮非常熱鬧。
+
+TY: な形容詞
+EN: This station is convenient, so it is crowded.
+JP: この駅(えき)は便利(べんり)ですから、人(ひと)が多(おお)いです。
+RM: Kono eki wa benri desu kara, hito ga ooi desu.
+CN: 這個車站很方便，所以人很多。
+
+## 04. 名詞變化（名詞句四格：です／でした／ではありません）
+
+（名詞本身完全不變，變的是句尾：です → ではありません → でした → ではありませんでした）
+
+### ① 四種基本型 ─ 以 学生(がくせい)（學生）為例
+
+> 名詞句就是「Ａ は Ｂ です」這種判斷句，です 相當於中文的「是」。
+> 時態與肯否全靠句尾：現在肯定 ＋です／現在否定 ＋ではありません／過去肯定 ＋でした／過去否定 ＋ではありませんでした。
+> 記憶主線：です → でした（肯定變過去）、ではありません → ではありませんでした（否定變過去，就是後面掛一個でした）。
+> 這一課是第 26～28、31、32 課的總整理，建議跟第 03 課的な形容詞一起看。
+
+TY: 名詞
+EN: 現在肯定 N＋です
+JP: 学生(がくせい)です
+RM: gakusei desu
+CN: 是學生
+
+TY: 名詞
+EN: 現在否定 N＋ではありません
+JP: 学生(がくせい)ではありません
+RM: gakusei de wa arimasen
+CN: 不是學生
+
+TY: 名詞
+EN: 過去肯定 N＋でした
+JP: 学生(がくせい)でした
+RM: gakusei deshita
+CN: 以前是學生
+
+TY: 名詞
+EN: 過去否定 N＋ではありませんでした
+JP: 学生(がくせい)ではありませんでした
+RM: gakusei de wa arimasen deshita
+CN: 以前不是學生
+
+### ② 現在肯定：N ＋ です
+
+> 主題用「は」提示，句型是「Ａ は Ｂ です」＝ Ａ 是 Ｂ。
+> です 只是判斷與丁寧的標記，沒有「動作」的意思，所以 ❌ 学生します 這種說法不存在。
+> 句尾加「か」就變疑問句：学生ですか。（是學生嗎？）日文疑問句不需要問號。
+
+TY: 名詞
+EN: I am a student.
+JP: 私(わたし)は学生(がくせい)です。
+RM: Watashi wa gakusei desu.
+CN: 我是學生。
+
+TY: 名詞
+EN: Mr./Ms. Tanaka is a teacher.
+JP: 田中(たなか)さんは先生(せんせい)です。
+RM: Tanaka-san wa sensei desu.
+CN: 田中先生是老師。
+
+TY: 名詞
+EN: This is a book.
+JP: これは本(ほん)です。
+RM: Kore wa hon desu.
+CN: 這是書。
+
+TY: 名詞
+EN: Are you a student?（疑問 ～ですか）
+JP: あなたは学生(がくせい)ですか。
+RM: Anata wa gakusei desu ka.
+CN: 你是學生嗎？
+
+TY: 名詞
+EN: Yes, I am a student.（肯定回答）
+JP: はい、学生(がくせい)です。
+RM: Hai, gakusei desu.
+CN: 是的，我是學生。
+
+### ③ 現在否定：N ＋ ではありません（じゃありません）
+
+> 否定有一組由正式到口語的階梯，意思完全相同：
+> ではありません（最正式・書面）＞ じゃありません（丁寧口語）＞ じゃないです（日常最常用）＞ じゃない（朋友之間的常體）。
+> 「では」唸作 de wa，但寫成 じゃ 時唸 ja ─ 這是同一個東西的口語縮音。
+> 回答否定問句時常搭「いいえ」：いいえ、学生じゃありません。
+
+TY: 名詞
+EN: I am not a student.（正式）
+JP: 私(わたし)は学生(がくせい)ではありません。
+RM: Watashi wa gakusei de wa arimasen.
+CN: 我不是學生。
+
+TY: 名詞
+EN: I am not a student.（口語）
+JP: 私(わたし)は学生(がくせい)じゃありません。
+RM: Watashi wa gakusei ja arimasen.
+CN: 我不是學生。
+
+TY: 名詞
+EN: Mr./Ms. Tanaka is not a teacher.
+JP: 田中(たなか)さんは先生(せんせい)ではありません。
+RM: Tanaka-san wa sensei de wa arimasen.
+CN: 田中先生不是老師。
+
+TY: 名詞
+EN: This is not a book.
+JP: これは本(ほん)ではありません。
+RM: Kore wa hon de wa arimasen.
+CN: 這不是書。
+
+TY: 名詞
+EN: No, I am not a company employee.
+JP: いいえ、会社員(かいしゃいん)じゃありません。
+RM: Iie, kaishain ja arimasen.
+CN: 不，我不是上班族。
+
+### ④ 過去肯定：N ＋ でした
+
+> です 的過去式是 でした，不要套動詞的規則寫成 ❌ 学生ました。
+> でした 常和 昔(むかし)・去年(きょねん)・昨日(きのう)・以前(いぜん) 這類時間詞一起出現。
+> 名詞的「過去」有時是「已不是現在的狀態」，例如 学生でした 暗示現在已經不是學生了。
+
+TY: 名詞
+EN: I used to be a student.
+JP: 私(わたし)は学生(がくせい)でした。
+RM: Watashi wa gakusei deshita.
+CN: 我以前是學生。
+
+TY: 名詞
+EN: Mr./Ms. Tanaka used to be a teacher.
+JP: 田中(たなか)さんは先生(せんせい)でした。
+RM: Tanaka-san wa sensei deshita.
+CN: 田中先生以前是老師。
+
+TY: 名詞
+EN: Yesterday was a holiday.
+JP: 昨日(きのう)は休日(きゅうじつ)でした。
+RM: Kinou wa kyuujitsu deshita.
+CN: 昨天是假日。
+
+TY: 名詞
+EN: Last year I was a first-year student.
+JP: 去年(きょねん)は一年生(いちねんせい)でした。
+RM: Kyonen wa ichinensei deshita.
+CN: 去年是一年級。
+
+### ⑤ 過去否定：N ＋ ではありませんでした
+
+> 四格裡最長的一個，但結構很單純：現在否定「ではありません」後面直接加「でした」。
+> 口語同樣可換成 じゃありませんでした／じゃなかったです。
+> 一樣不要寫成 ❌ 学生ではありませんました。
+
+TY: 名詞
+EN: I was not a student back then.
+JP: 私(わたし)は学生(がくせい)ではありませんでした。
+RM: Watashi wa gakusei de wa arimasen deshita.
+CN: 我以前不是學生。
+
+TY: 名詞
+EN: Mr./Ms. Tanaka was not a teacher.
+JP: 田中(たなか)さんは先生(せんせい)ではありませんでした。
+RM: Tanaka-san wa sensei de wa arimasen deshita.
+CN: 田中先生以前不是老師。
+
+TY: 名詞
+EN: Yesterday was not a holiday.
+JP: 昨日(きのう)は休日(きゅうじつ)ではありませんでした。
+RM: Kinou wa kyuujitsu de wa arimasen deshita.
+CN: 昨天不是假日。
+
+TY: 名詞
+EN: It was not my birthday.（口語形）
+JP: 私(わたし)の誕生日(たんじょうび)じゃなかったです。
+RM: Watashi no tanjoubi ja nakatta desu.
+CN: 那天不是我的生日。
+
+### ⑥ 丁寧體 vs 普通形（常體）對照
+
+> 上面全部是丁寧體。跟朋友、家人講話或寫日記時要用普通形（第 115、116、124、125 課）。
+> 對應關係：です → だ／ではありません → じゃない／でした → だった／ではありませんでした → じゃなかった。
+> 注意常體疑問句通常省略「だ」：学生？（是學生嗎？）而不是 ❌ 学生だ？
+
+TY: 名詞
+EN: 現在肯定：丁寧 → 常體
+JP: 学生(がくせい)です → 学生(がくせい)だ
+RM: gakusei desu / gakusei da
+CN: 是學生
+
+TY: 名詞
+EN: 現在否定：丁寧 → 常體
+JP: 学生(がくせい)ではありません → 学生(がくせい)じゃない
+RM: gakusei de wa arimasen / gakusei ja nai
+CN: 不是學生
+
+TY: 名詞
+EN: 過去肯定：丁寧 → 常體
+JP: 学生(がくせい)でした → 学生(がくせい)だった
+RM: gakusei deshita / gakusei datta
+CN: 以前是學生
+
+TY: 名詞
+EN: 過去否定：丁寧 → 常體
+JP: 学生(がくせい)ではありませんでした → 学生(がくせい)じゃなかった
+RM: gakusei de wa arimasen deshita / gakusei ja nakatta
+CN: 以前不是學生
+
+TY: 名詞
+EN: He was a doctor.（常體）
+JP: 彼(かれ)は医者(いしゃ)だった。
+RM: Kare wa isha datta.
+CN: 他以前是醫生。
+
+### ⑦ 名詞 ＝ な形容詞，但 ≠ い形容詞
+
+> 好消息：な形容詞的句尾變化跟名詞一模一樣，所以這一課學會就等於學會兩類。
+> 壞消息：い形容詞完全不同 ─ ❌ 高いでした ❌ 高いではありません 都是錯的，要用 高かったです／高くないです（第 03 課）。
+> 分辨方式：能不能直接接「です／でした」而本體不動 ─ 可以的是名詞或な形容詞。
+
+TY: 名詞
+EN: 名詞：学生(がくせい)
+JP: 学生(がくせい)です／学生(がくせい)ではありません／学生(がくせい)でした／学生(がくせい)ではありませんでした
+RM: gakusei desu / de wa arimasen / deshita / de wa arimasen deshita
+CN: 是／不是／以前是／以前不是學生
+
+TY: な形容詞
+EN: な形容詞：静(しず)か（變化與名詞相同）
+JP: 静(しず)かです／静(しず)かではありません／静(しず)かでした／静(しず)かではありませんでした
+RM: shizuka desu / de wa arimasen / deshita / de wa arimasen deshita
+CN: 安靜／不安靜／以前安靜／以前不安靜
+
+TY: い形容詞
+EN: い形容詞：高(たか)い（規則完全不同）
+JP: 高(たか)いです／高(たか)くないです／高(たか)かったです／高(たか)くなかったです
+RM: takai desu / takakunai desu / takakatta desu / takakunakatta desu
+CN: 貴／不貴／以前貴／以前不貴
+
+TY: な形容詞
+EN: This town was quiet.
+JP: この町(まち)は静(しず)かでした。
+RM: Kono machi wa shizuka deshita.
+CN: 這個城鎮以前很安靜。
+
+### ⑧ 常見錯誤與注意點
+
+> 錯誤一：❌ 学生ます／❌ 学生ました ─ 名詞不接動詞語尾，過去一律用でした。
+> 錯誤二：❌ 高いでした ─ い形容詞不能接でした。
+> 錯誤三：疑問句的助詞。問「誰是老師？」用「が」：誰(だれ)が先生(せんせい)ですか。回答也用が：田中さんが先生です（第 57 課）。
+> 補充：省略常見 ─ 對方問「学生ですか」時，回答只說「はい、そうです。／いいえ、違(ちが)います。」也完全自然。
+
+TY: 名詞
+EN: Yes, that's right.（萬用肯定回答）
+JP: はい、そうです。
+RM: Hai, sou desu.
+CN: 是的，沒錯。
+
+TY: 名詞
+EN: No, that's not right.（萬用否定回答）
+JP: いいえ、違(ちが)います。
+RM: Iie, chigaimasu.
+CN: 不，不是的。
+
+TY: 名詞
+EN: Who is the teacher?（用が提問）
+JP: 誰(だれ)が先生(せんせい)ですか。
+RM: Dare ga sensei desu ka.
+CN: 誰是老師？
+
+TY: 名詞
+EN: What is this?
+JP: これは何(なん)ですか。
+RM: Kore wa nan desu ka.
+CN: 這是什麼？
+
+### ⑨ 名詞句的延伸用法
+
+> Ｎの Ｎ：用「の」把兩個名詞連起來 ─ 私(わたし)の本(ほん)＝我的書（第 29 課）。
+> Ｎも：表示「也」，取代は ─ 私も学生です（第 30 課）。
+> Ｎと Ｎ：並列「和」─ 本とペン（第 59 課）。
+> Ｎでしょう：推測「應該是～吧」（第 186 課）；Ｎだと思(おも)います：我覺得是～（第 117 課）。這兩個都建立在同一個名詞句上。
+
+TY: 名詞
+EN: This is my book.（の）
+JP: これは私(わたし)の本(ほん)です。
+RM: Kore wa watashi no hon desu.
+CN: 這是我的書。
+
+TY: 名詞
+EN: I am a student too.（も）
+JP: 私(わたし)も学生(がくせい)です。
+RM: Watashi mo gakusei desu.
+CN: 我也是學生。
+
+TY: 名詞
+EN: These are a book and a pen.（と）
+JP: これは本(ほん)とペンです。
+RM: Kore wa hon to pen desu.
+CN: 這是書和筆。
+
+TY: 名詞
+EN: He is probably a teacher.（でしょう）
+JP: 彼(かれ)は先生(せんせい)でしょう。
+RM: Kare wa sensei deshou.
+CN: 他應該是老師吧。
+
+TY: 名詞
+EN: I think he is Japanese.（だと思います）
+JP: 彼(かれ)は日本人(にほんじん)だと思(おも)います。
+RM: Kare wa nihonjin da to omoimasu.
+CN: 我覺得他是日本人。
+
+### ⑩ 綜合例句（四格實際運用）
+
+> 自我介紹是名詞句最集中的場面：はじめまして、私は〜です。どうぞよろしくお願(ねが)いします。
+> 講經歷用でした、澄清誤會用じゃありません，這兩個在會話裡出現頻率最高。
+
+TY: 名詞
+EN: Nice to meet you. I am Tanaka.
+JP: はじめまして、田中(たなか)です。
+RM: Hajimemashite, Tanaka desu.
+CN: 初次見面，我是田中。
+
+TY: 名詞
+EN: I am Taiwanese, not Japanese.
+JP: 私(わたし)は台湾人(たいわんじん)です。日本人(にほんじん)じゃありません。
+RM: Watashi wa taiwanjin desu. Nihonjin ja arimasen.
+CN: 我是台灣人，不是日本人。
+
+TY: 名詞
+EN: I was a company employee last year.
+JP: 去年(きょねん)、私(わたし)は会社員(かいしゃいん)でした。
+RM: Kyonen, watashi wa kaishain deshita.
+CN: 去年我是上班族。
+
+TY: 名詞
+EN: This was not my bag.
+JP: これは私(わたし)のかばんではありませんでした。
+RM: Kore wa watashi no kaban de wa arimasen deshita.
+CN: 這（原來）不是我的包包。
+
+TY: 名詞
+EN: What day is today?
+JP: 今日(きょう)は何曜日(なんようび)ですか。
+RM: Kyou wa nan youbi desu ka.
+CN: 今天是星期幾？
+
+TY: 名詞
+EN: Today is Monday.
+JP: 今日(きょう)は月曜日(げつようび)です。
+RM: Kyou wa getsuyoubi desu.
+CN: 今天是星期一。
+
 ## 17. Numbers 1-10
 
 EN: One
