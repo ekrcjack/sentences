@@ -328,7 +328,7 @@
   <div id="crumbbar">
     <div id="speedrow">
       <span class="speed-label">語速</span>
-      <input id="speed" type="range" min="0.5" max="2" step="0.05" value="1" aria-label="朗讀速度">
+      <input id="speed" type="range" min="0.2" max="1.2" step="0.05" value="1" aria-label="朗讀速度">
       <span id="speedval">1.00x</span>
       <button id="speedreset" type="button">重設</button>
     </div>
@@ -11190,7 +11190,7 @@
   var speechRate = 1;
   try {
     var savedRate = parseFloat(localStorage.getItem(SPEED_KEY));
-    if (savedRate >= 0.5 && savedRate <= 2) speechRate = savedRate;
+    if (savedRate >= 0.2 && savedRate <= 1.2) speechRate = savedRate;
   } catch (e) {}
 
   function renderSpeed() {
