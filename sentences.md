@@ -2409,7 +2409,7 @@ CARD: RU | 第 166 課　〜たがっている（看起來想做）飲(の)み�
 - 過去肯定 | 飲(の)みたがっていました | nomitagatte imashita | （當時）看起來想喝
 - 過去否定 | 飲(の)みたがっていませんでした | nomitagatte imasen deshita | （當時）看起來不想喝
 
-CARD: U | 第 166 課　〜たがる 本身（不加いる）飲(の)みたがる
+CARD: U | 第 166 課　〜たがる 本身（不加いる）飲(の)みたがる ─ 想喝
 - 現在肯定 | 飲(の)みたがります | nomitagarimasu | （總是）想喝
 - 現在否定 | 飲(の)みたがりません | nomitagarimasen | 不想喝
 - 過去肯定 | 飲(の)みたがりました | nomitagarimashita | （當時）想喝
