@@ -6366,6 +6366,38 @@ EN: I did not intend to do...
 JP: つもりじゃなかったです。
 RM: Tsumori janakatta desu.
 
+EN: I intend to play tennis with Takeshi on Sunday.
+JP: 日曜日(にちようび)にたけしとテニスをするつもりです。
+RM: Nichiyoubi ni takeshi to tenisu o suru tsumori desu.
+
+EN: Ken intends not to come to school tomorrow.
+JP: けんはあした大学(だいがく)にこないつもりです。
+RM: Ken wa ashita daigaku ni konai tsumori desu.
+
+EN: Ken does not intend to come to school tomorrow.
+JP: けんはあした大学(だいがく)にくるつもりじゃないです。
+RM: Ken wa ashita daigaku ni kuru tsumori janai desu.
+
+EN: We were planning to visit a temple.
+JP: お寺(てら)を見(み)にいくつもりでした。
+RM: Otera o mi ni iku tsumori deshita.
+
+EN: I am planning to go home around 8PM.
+JP: 8時(じ)に家(いえ)に帰(かえ)るつもりです。
+RM: Hachiji ni ie ni kaeru tsumori desu.
+
+EN: Takeshi is planning not to learn Russian.
+JP: たけしはロシア語(ろしあご)を勉強(べんきょう)しないつもりです。
+RM: Takeshi wa roshiago o benkyoushinai tsumori desu.
+
+EN: I was planning to meet Kana yesterday.
+JP: 昨日(きのう)、かなに会(あ)うつもりでした。
+RM: Kinou, kana ni au tsumori deshita.
+
+EN: Noriko were planning not to eat dinner.
+JP: のりこは夜(よる)ご飯(はん)を食(た)べないつもりでした。
+RM: Noriko wa yorugohan o tabenai tsumori deshita.
+
 ## 159. Adjective + なる
 
 EN: becomes / will become
