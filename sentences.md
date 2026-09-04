@@ -6440,6 +6440,140 @@ EN: Kaori became better at cooking than before.
 JP: かおりは前(まえ)より料理(りょうり)するのが上手(じょうず)になりました。
 RM: Kaori wa mae yori ryouri suru no ga jouzu ni narimashita.
 
+## 164. I want to do
+
+EN: I want to do...
+JP: たいです。
+RM: Tai desu.
+
+EN: I do not want to do...
+JP: たくありません。
+RM: Taku arimasen.
+
+EN: I wanted to do...
+JP: たかったです。
+RM: Takatta desu.
+
+EN: I did not want to do...
+JP: たくありませんでした。
+RM: Taku arimasendeshita.
+
+EN: I want to eat pasta.
+JP: パスタを食(た)べたいです。
+RM: Pasuta o tabetai desu.
+
+EN: I don't want to go watch a movie.
+JP: 映画(えいが)を見(み)たくありません。
+RM: Eiga o mitaku arimasen.
+
+EN: I wanted to buy a sweater.
+JP: セーターを買(か)いたかったです。
+RM: Seetaa o kaitakatta desu.
+
+EN: I did not want to go to school.
+JP: 学校(がっこう)に行(い)きたくありませんでした。
+RM: Gakkou ni ikitaku arimasendeshita.
+
+EN: I want to live abroad.
+JP: 外国(がいこく)に住(す)みたいです。
+RM: Gaikoku ni sumitai desu.
+
+EN: I don't want to ride the train.
+JP: 電車(でんしゃ)に乗(の)りたくありません。
+RM: Densha ni noritaku arimasen.
+
+EN: I wanted to play tennis.
+JP: テニスをしたかったです。
+RM: Tenisu o shitakatta desu.
+
+EN: I did not want to drink coffee.
+JP: コーヒーを飲(の)みたくありませんでした。
+RM: Koohii o nomitaku arimasendeshita.
+
+EN: Do you want to watch a movie?
+JP: 映画(えいが)を観(み)たいですか?
+RM: Eiga o mitai desu ka?
+
+EN: I don't want to watch a movie because I'm tired.
+JP: 疲(つか)れたから映画(えいが)を観(み)たくありません。
+RM: Tsukareta kara eiga o mitaku arimasen.
+
+## 165. Someone said he wants to do
+
+EN: (Someone) said (he/she) wants to do...
+JP: たいと言(い)っていました。
+RM: Tai to itte imashita.
+
+EN: (Someone) said (he/she) does not want to do...
+JP: たくないと言(い)っていました。
+RM: Takunai to itte imashita.
+
+EN: Mary said she wanted to go to the bathroom.
+JP: メアリーはトイレに行(い)きたいと言(い)っていました。
+RM: Mearii wa toire ni ikitai to itte imashita.
+
+EN: Taiki said he wants to be a teacher.
+JP: たいきは先生(せんせい)になりたいと言(い)っていました。
+RM: Taiki wa sensei ni naritai to itte imashita.
+
+EN: Sachi said she does not want to sleep.
+JP: さちは寝(ね)たくないと言(い)っていました。
+RM: Sachi wa netakunai to itte imashita.
+
+EN: Takeshi said he wants to live abroad.
+JP: たけしは外国(がいこく)に住(す)みたいと言(い)っていました。
+RM: Takeshi wa gaikoku ni sumitai to itte imashita.
+
+EN: Miki said she does not want to eat lunch.
+JP: みきは昼(ひる)ごはんを食(た)べたくないと言(い)っていました。
+RM: Miki wa hirugohan o tabetakunai to itte imashita.
+
+## 166. It seems someone wants to do
+
+EN: (It seems someone) wants to do...
+JP: たがっています。
+RM: Tagatte imasu.
+
+EN: (It seems someone) does not want to do...
+JP: たがっていません。
+RM: Tagatte imasen.
+
+EN: (It seemed someone) wanted to do...
+JP: たがっていました。
+RM: Tagatte imashita.
+
+EN: (It seemed someone) did not want to do...
+JP: たがっていませんでした。
+RM: Tagatte imasen deshita.
+
+EN: (It seems) Mary wants to drink coffee.
+JP: メアリーはコーヒーを飲(の)みたがっています。
+RM: Mearii wa koohii o nomitagatte imasu.
+
+EN: (It seems) Ken wants to go to the cafe.
+JP: けんはカフェに行(い)きたがっています。
+RM: Ken wa kafe ni ikitagatte imasu.
+
+EN: (It seems) Lisa does not want to eat food.
+JP: りさはご飯を食(た)べたがっていません。
+RM: Risa wa gohan o tabetagatte imasen.
+
+EN: It seems Karen wants to be a teacher.
+JP: かれんは先生(せんせい)になりたがっています。
+RM: Karen wa sensei ni naritagatte imasu.
+
+EN: It seems Mari does not want to study.
+JP: まりは勉強(べんきょう)したがっていません。
+RM: Mari wa benkyou shitagatte imasen.
+
+EN: It seemed Kai wanted to go to the party.
+JP: かいはパーティーに行(い)きたがっていました。
+RM: Kai wa paatii ni ikitagatte imashita.
+
+EN: It seemed Misa did not want to work.
+JP: みさは働(はたら)きたがっていませんでした。
+RM: Misa wa hatarakitagatte imasen deshita.
+
 ## 184. 〜なくちゃいけません
 
 EN: To quit, to resign
