@@ -8316,6 +8316,254 @@ EN: Taka is probably 25 years old.
 JP: たかは25歳(さい)でしょう。
 RM: Taka wa nijuugo sai deshou.
 
+## 189. Potential verbs
+
+EN: I can speak Japanese.
+JP: 日本語(にほんご)が話(はな)せます。
+RM: Nihongo ga hanasemasu.
+
+EN: I cannot swim.
+JP: 私(わたし)は泳(およ)げません。
+RM: Watashi wa oyogemasen.
+
+EN: We could not go to the beach.
+JP: 海(うみ)に行(い)けませんでした。
+RM: Umi ni ikemasen deshita.
+
+EN: I read kanji.
+JP: 漢字(かんじ)を読(よ)みます。
+RM: Kanji o yomimasu.
+
+EN: I can read kanji.
+JP: 漢字(かんじ)が読(よ)めます。
+RM: Kanji ga yomemasu.
+
+EN: I play baseball.
+JP: 野球(やきゅう)をします。
+RM: Yakyuu o shimasu.
+
+EN: I can play baseball.
+JP: 野球(やきゅう)ができます。
+RM: Yakyuu ga dekimasu.
+
+EN: I climb mountains.
+JP: 山(やま)に登(のぼ)ります。
+RM: Yama ni noborimasu.
+
+EN: I can climb mountains.
+JP: 山(やま)に登(のぼ)れます。
+RM: Yama ni noboremasu.
+
+EN: I can speak Chinese.
+JP: 中国語(ちゅうごくご)が話(はな)せます。
+RM: Chuugokugo ga hanasemasu.
+
+EN: Takeshi cannot swim.
+JP: たけしは泳(およ)げません。
+RM: Takeshi wa oyogemasen.
+
+EN: I could not go to school yesterday.
+JP: 学校(がっこう)に行(い)けませんでした。
+RM: Gakkou ni ikemasen deshita.
+
+EN: I could eat breakfast.
+JP: 朝(あさ)ごはんを食(た)べられました。
+RM: Asagohan o taberaremashita.
+
+## 190. The usage of Short form + し
+
+EN: Why aren't you coming to the party?
+JP: どうしてパーティーに来(こ)ないんですか？
+RM: Doushite paatii ni konai ndesu ka?
+
+EN: I have to study today, because there will be an exam tomorrow.
+JP: 明日(あした)試験(しけん)があるから、今日(きょう)は勉強(べんきょう)しなくちゃいけないんです。
+RM: Ashita shiken ga aru kara, kyou wa benkyou shinakucha ikenai ndesu.
+
+EN: I really like my Japanese class, because Japanese Language is interesting and our teacher is good.
+JP: 日本語(にほんご)はおもしろいし、先生(せんせい)はいいし、日本語(にほんご)の授業(じゅぎょう)が大好(だいす)きです。
+RM: Nihongo wa omoshiroi shi, sensei wa ii shi, nihongo no jugyou ga daisuki desu.
+
+EN: Yesterday was a great day because I met my family, and I talked with my boyfriend on the phone.
+JP: 家族(かぞく)に会(あ)ったし、彼氏(かれし)と電話(でんわ)で話(はな)したし、昨日(きのう)は素晴(すば)らしい日(ひ)でした。
+RM: Kazoku ni atta shi, kareshi to denwa de hanashita shi, kinou wa subarashii hi deshita.
+
+EN: Life in this city is an easygoing one. Things are inexpensive, for one thing.
+JP: 物価(ぶっか)が安(やす)いし、この町(まち)の生活(せいかつ)は楽(らく)です。
+RM: Bukka ga yasui shi, kono machi no seikatsu wa raku desu.
+
+EN: Mari is a great teacher. She is good at teaching, and she is kind.
+JP: まりはいい先生(せんせい)です。教(おし)えるのが上手(じょうず)だし、親切(しんせつ)だし。
+RM: Mari wa ii sensei desu. Oshieru no ga jouzu da shi, shinsetsu da shi.
+
+EN: I don't want to wake up because it is cold and I am sleepy.
+JP: 寒(さむ)いし、眠(ねむ)たいし、起(お)きたくありません。
+RM: Samui shi, nemutai shi, okitaku arimasen.
+
+EN: Tom is popular because he is smart and can play the guitar.
+JP: 頭(あたま)がいいし、ギターが弾(ひ)けるし、トムは人気(にんき)です。
+RM: Atama ga ii shi, gitaa ga hikeru shi, Tomu wa ninki desu.
+
+EN: Today is busy because I have a test tomorrow and I have to meet Taka.
+JP: 明日(あした)テストがあるし、たかに会(あ)わなくちゃいけないし、今日(きょう)は忙(いそが)しいです。
+RM: Ashita tesuto ga aru shi, Taka ni awanakucha ikenai shi, kyou wa isogashii desu.
+
+## 191. 〜そうです (It looks like 〜)
+
+EN: This apple looks delicious.
+JP: このりんごはおいしそうです。
+RM: Kono ringo wa oishisou desu.
+
+EN: It looks like the weather will be fine tomorrow.
+JP: 明日(あした)は天気(てんき)が良(よ)さそうです。
+RM: Ashita wa tenki ga yosasou desu.
+
+EN: It looked like Mary was fine.
+JP: メアリーは元気(げんき)そうでした。
+RM: Mearii wa genkisou deshita.
+
+EN: This book does not look difficult.
+JP: この本(ほん)は難(むずか)しくなさそうです。
+RM: Kono hon wa muzukashikunasasou desu.
+
+EN: It does not look like Tomoko is good at tennis.
+JP: ともこはテニスが上手(じょうず)じゃなさそうです。
+RM: Tomoko wa tenisu ga jouzu janasasou desu.
+
+EN: She wears a warm-looking sweater.
+JP: 暖(あたた)かそうなセーターを着(き)ています。
+RM: Atatakasouna seetaa o kite imasu.
+
+EN: It looks like it will rain.
+JP: 雨(あめ)がふりそうです。
+RM: Ame ga furisou desu.
+
+EN: It does not look like it will rain.
+JP: 雨(あめ)がふりそうもありません。
+RM: Ame ga furisou mo arimasen.
+
+EN: This cake looks sweet.
+JP: このケーキは甘(あま)そうです。
+RM: Kono keeki wa amasou desu.
+
+EN: Takashi looks energetic.
+JP: たけしは元気(げんき)そうです。
+RM: Takeshi wa genkisou desu.
+
+EN: This book does not look interesting.
+JP: この本(ほん)は面白(おもしろ)くなさそうです。
+RM: Kono hon wa omoshirokunasasou desu.
+
+EN: My spanish Language teacher does not look kind.
+JP: 私(わたし)のスペイン語(ご)の先生(せんせい)は親切(しんせつ)じゃなさそうです。
+RM: Watashi no supeingo no sensei wa shinsetsu janasasou desu.
+
+EN: Miki looked sad.
+JP: みきは悲(かな)しそうでした。
+RM: Miki wa kanashisou deshita.
+
+## 192. 〜てみる（To try doing 〜）
+
+EN: I did not know the kanji, so I tried asking a Japanese friend of mine.
+JP: 漢字(かんじ)がわからなかったので、日本人(にほんじん)の友達(ともだち)に聞(き)いてみました。
+RM: Kanji ga wakaranakatta node, nihonjin no tomodachi ni kiite mimashita.
+
+EN: Miki say that this cake is good, I will have a piece.
+JP: みきがこのケーキは美味(おい)しいと言(い)っていましたから、食(た)べてみます。
+RM: Miki ga kono keeki wa oishii to itte imashita kara, tabete mimasu.
+
+EN: (In response to "That game was fun!") (Then,) I will play the game.
+JP: じゃあ、そのゲームをしてみます。
+RM: Jaa, sono geemu o shite mimasu.
+
+EN: (In response to "That movie was good!") I will watch the movie.
+JP: その映画(えいが)を観(み)てみます。
+RM: Sono eiga o mite mimasu.
+
+EN: (In response to "This book was good!") I will read the book.
+JP: その本(ほん)を読(よ)んでみます。
+RM: Sono hon o yonde mimasu.
+
+EN: Taeko said the museum was good. I want to try going there.
+JP: たえこは美術館(びじゅつかん)が良(よ)かったと言(い)っていました。あそこに行(い)ってみたいです。
+RM: Taeko wa bijutsukan ga yokatta to itte imashita. Asoko ni itte mitai desu.
+
+EN: I tried reading the book. But I did not have time.
+JP: その本(ほん)を読(よ)んでみました。でも、時間(じかん)がありませんでした。
+RM: Sono hon o yonde mimashita. Demo, jikan ga arimasen deshita.
+
+## 193. The usage of なら
+
+EN: I've been to Mexico, but never been to Brazil.
+JP: メキシコなら行(い)ったことがありますが、ブラジルは行(い)ったことがありません。
+RM: Mekishiko nara itta koto ga arimasu ga, Burajiru wa itta koto ga arimasen.
+
+EN: If it is in hiragana, I understand.
+JP: ひらがなならわかります。
+RM: Hiragana nara wakarimasu.
+
+EN: I will be free on Sunday, but I am not free on Saturday.
+JP: 日曜日(にちようび)なら暇(ひま)ですが、土曜日(どようび)は暇(ひま)じゃありません。
+RM: Nichiyoubi nara hima desu ga, doyoubi wa hima ja arimasen.
+
+EN: I eat fish, but I don't eat meat.
+JP: 魚(さかな)なら食(た)べますが、肉(にく)は食(た)べません。
+RM: Sakana nara tabemasu ga, niku wa tabemasen.
+
+EN: I want to buy a car, but I don't want to buy a motorbike.
+JP: 車(くるま)なら買(か)いたいですが、バイクは買(か)いたくないです。
+RM: Kuruma nara kaitai desu ga, baiku wa kaitakunai desu.
+
+EN: I've owned a dog, but I've never owned a cat.
+JP: 犬(いぬ)なら飼(か)ったことがありますが、猫(ねこ)は飼(か)ったことがありません。
+RM: Inu nara katta koto ga arimasu ga, neko wa katta koto ga arimasen.
+
+## 195. I want (Thing)
+
+EN: I want a good kanji dictionary.
+JP: いい漢字(かんじ)の辞書(じしょ)がほしいです。
+RM: Ii kanji no jisho ga hoshii desu.
+
+EN: I wanted a toy Godzilla.
+JP: ゴジラのおもちゃがほしかったです。
+RM: Gojira no omocha ga hoshikatta desu.
+
+EN: I don't have much desire for money.
+JP: お金(かね)はあまりほしくありません。
+RM: Okane wa amari hoshiku arimasen.
+
+EN: I want a stuffed animal.
+JP: ぬいぐるみがほしいです。
+RM: Nuigurumi ga hoshii desu.
+
+EN: I don't want eggs.
+JP: 卵(たまご)はほしくありません。
+RM: Tamago wa hoshiku arimasen.
+
+EN: I wanted holidays.
+JP: 休日(きゅうじつ)がほしかったです。
+RM: Kyuujitsu ga hoshikatta desu.
+
+EN: I did not want a large dog.
+JP: 大(おお)きい犬(いぬ)はほしくありませんでした。
+RM: Ookii inu wa hoshiku arimasen deshita.
+
+EN: Probably Kyoko does not want a donut.
+JP: きょうこはドーナツがほしくないでしょう。
+RM: Kyouko wa doonatsu ga hoshikunai deshou.
+
+EN: Robert says he wants a laptop.
+JP: ロバートはパソコンがほしいと言(い)っています。
+RM: Robaato wa pasokon ga hoshii to itte imasu.
+
+EN: (I understand that) Tom wants a friend.
+JP: トムは友達(ともだち)をほしがっています。
+RM: Tomu wa tomodachi o hoshigatte imasu.
+
+EN: Mika wants icecream.
+JP: みかはアイスクリームをほしがっています。
+RM: Mika wa aisukuriimu o hoshigatte imasu.
+
 ## 196. あげる・くれる
 
 EN: I will give Maki flowers.
