@@ -3194,6 +3194,168 @@ EN: billion
 JP: 十億(じゅうおく)
 RM: juuoku
 
+## 22. Date, Month, Day
+
+EN: Date, Month, Day of the week
+JP: 日付(ひづけ)と曜日(ようび)
+RM: Hizuke to youbi
+
+EN: Birthday
+JP: 誕生日(たんじょうび)
+RM: tanjoubi
+
+EN: Today
+JP: 今日(きょう)
+RM: kyou
+
+EN: Yesterday
+JP: 昨日(きのう)
+RM: kinou
+
+EN: Tomorrow
+JP: 明日(あした)
+RM: ashita
+
+EN: 11th
+JP: 11日(じゅういちにち)
+RM: juuichinichi
+
+EN: 12th
+JP: 12日(じゅうににち)
+RM: juuninichi
+
+EN: 1st
+JP: 1日(ついたち)
+RM: tsuitachi
+
+EN: 2nd
+JP: 2日(ふつか)
+RM: futsuka
+
+EN: 3rd
+JP: 3日(みっか)
+RM: mikka
+
+EN: 4th
+JP: 4日(よっか)
+RM: yokka
+
+EN: 5th
+JP: 5日(いつか)
+RM: itsuka
+
+EN: 6th
+JP: 6日(むいか)
+RM: muika
+
+EN: 7th
+JP: 7日(なのか)
+RM: nanoka
+
+EN: 8th
+JP: 8日(ようか)
+RM: youka
+
+EN: 9th
+JP: 9日(ここのか)
+RM: kokonoka
+
+EN: 10th
+JP: 10日(とうか)
+RM: touka
+
+EN: 20th
+JP: 20日(はつか)
+RM: hatsuka
+
+EN: January
+JP: 1月(いちがつ)
+RM: ichigatsu
+
+EN: February
+JP: 2月(にがつ)
+RM: nigatsu
+
+EN: March
+JP: 3月(さんがつ)
+RM: sangatsu
+
+EN: April (note: not よんがつ/yongatsu)
+JP: 4月(しがつ)
+RM: shigatsu
+
+EN: May
+JP: 5月(ごがつ)
+RM: gogatsu
+
+EN: June
+JP: 6月(ろくがつ)
+RM: rokugatsu
+
+EN: July (note: not なながつ/nanagatsu)
+JP: 7月(しちがつ)
+RM: shichigatsu
+
+EN: August
+JP: 8月(はちがつ)
+RM: hachigatsu
+
+EN: September (note: not きゅうがつ/kyuugatsu)
+JP: 9月(くがつ)
+RM: kugatsu
+
+EN: October
+JP: 10月(じゅうがつ)
+RM: juugatsu
+
+EN: November
+JP: 11月(じゅういちがつ)
+RM: juuichigatsu
+
+EN: December
+JP: 12月(じゅうにがつ)
+RM: juunigatsu
+
+EN: Christmas is December 25th.
+JP: 12月(じゅうにがつ)25日(にじゅうごにち)
+RM: juunigatsu nijuugonichi
+
+EN: Valentine's Day is February 14th.
+JP: 2月(にがつ)14日(じゅうよんにち)
+RM: nigatsu juuyonnichi
+
+EN: April Fool's Day is April 1st.
+JP: 4月(しがつ)1日(ついたち)
+RM: shigatsu tsuitachi
+
+EN: When is ○○○?
+JP: ○○○はいつですか?
+RM: ○○○ wa itsu desuka?
+
+EN: What date is ○○○?
+JP: ○○○は何月(なんがつ)何日(なんにち)ですか?
+RM: ○○○ wa nangatsu nannichi desuka?
+
+EN: When is your birthday?
+JP: 誕生日(たんじょうび)はいつですか?
+RM: Tanjoubi wa itsu desuka?
+
+EN: It's September 20th.
+JP: 9月(くがつ)20日(はつか)です。
+RM: Kugatsu hatsuka desu.
+
+EN: Monday
+JP: 月曜日(げつようび)
+RM: getsuyoubi
+
+EN: Tuesday
+JP: 火曜日(かようび)
+RM: kayoubi
+
+EN: Sunday
+JP: 日曜日(にちようび)
+RM: nichiyoubi
+
 ## 23. Time
 
 EN: AM
@@ -7779,6 +7941,496 @@ RM: Kai wa paatii ni ikitagatte imashita.
 EN: It seemed Misa did not want to work.
 JP: みさは働(はたら)きたがっていませんでした。
 RM: Misa wa hatarakitagatte imasen deshita.
+
+## 170. 〜たり〜たりする
+
+EN: I will do some shopping and eat Korean food.
+JP: 買(か)い物(もの)をして、韓国(かんこく)料理(りょうり)を食(た)べます。
+RM: Kaimono o shite, kankoku ryōri o tabemasu.
+
+EN: I will read a book, cook and so on.
+JP: 本(ほん)を読(よ)んだり、料理(りょうり)したりします。
+RM: Hon o yondari, ryōri shitari shimasu.
+
+EN: I went to a cafe, studied and so on.
+JP: カフェに行(い)ったり、勉強(べんきょう)したりしました。
+RM: Kafe ni ittari, benkyō shitari shimashita.
+
+EN: I want to play tennis, eat pizza and etc.
+JP: テニスをしたり、ピザを食(た)べたりしたいです。
+RM: Tenisu o shitari, piza o tabetari shitai desu.
+
+EN: To study
+JP: 勉強(べんきょう)する
+RM: benkyō suru
+TY: SURU
+
+EN: To talk
+JP: 話(はな)す
+RM: hanasu
+TY: U
+
+EN: Friend(s)
+JP: 友達(ともだち)
+RM: tomodachi
+TY: 名詞
+
+EN: I studied, talked with my friends and so on weekend.
+JP: 週末(しゅうまつ)、勉強(べんきょう)したり、友達(ともだち)と話(はな)したりしました。
+RM: Shūmatsu, benkyō shitari, tomodachi to hanashitari shimashita.
+
+EN: To do laundry
+JP: 洗濯(せんたく)する
+RM: sentaku suru
+TY: SURU
+
+EN: To watch
+JP: 観(み)る
+RM: miru
+TY: RU
+
+EN: Movie
+JP: 映画(えいが)
+RM: eiga
+TY: 名詞
+
+EN: I will do laundry, watch a movie and etc. tomorrow.
+JP: 明日(あした)、洗濯(せんたく)したり、映画(えいが)をみたりします。
+RM: Ashita, sentaku shitari, eiga o mitari shimasu.
+
+EN: To go
+JP: 行(い)く
+RM: iku
+TY: U
+
+EN: To go shopping
+JP: 買(か)い物(もの)に行(い)く
+RM: kaimono ni iku
+TY: U
+
+EN: I want to go to a cafe, go shopping and etc.
+JP: カフェに行(い)ったり、買(か)い物(もの)に行(い)ったりしたいです。
+RM: Kafe ni ittari, kaimono ni ittari shitai desu.
+
+EN: To smoke
+JP: タバコを吸(す)う
+RM: tabako o suu
+TY: U
+
+EN: To drink
+JP: 飲(の)む
+RM: nomu
+TY: U
+
+EN: Beer
+JP: ビール
+RM: bīru
+TY: 名詞
+
+EN: Classroom
+JP: 教室(きょうしつ)
+RM: kyōshitsu
+TY: 名詞
+
+EN: You must not smoke, drink beer etc. in the class room.
+JP: 教室(きょうしつ)で、タバコを吸(す)ったり、ビールを飲(の)んではいけません。
+RM: Kyōshitsu de, tabako o suttari, bīru o nonde wa ikemasen.
+
+## 172. 〜ことがある
+
+EN: Europe
+JP: ヨーロッパ
+RM: Yōroppa
+TY: 名詞
+
+EN: To take a break, to be absent
+JP: 休む(やすむ)
+RM: yasumu
+TY: U
+
+EN: To be late (for ...)
+JP: 遅刻(ちこく)する
+RM: chikoku suru
+TY: SURU
+
+EN: To climb
+JP: 登る(のぼる)
+RM: noboru
+TY: U
+
+EN: Classes
+JP: 授業(じゅぎょう)
+RM: jugyō
+TY: 名詞
+
+EN: Mt. Fuji
+JP: 富士山(ふじさん)
+RM: Fujisan
+TY: 名詞
+
+EN: To live
+JP: 住む(すむ)
+RM: sumu
+TY: U
+
+EN: France
+JP: フランス
+RM: Furansu
+TY: 名詞
+
+EN: To ride
+JP: 乗る(のる)
+RM: noru
+TY: U
+
+EN: Subway
+JP: 地下鉄(ちかてつ)
+RM: chikatetsu
+TY: 名詞
+
+EN: To teach
+JP: 教える(おしえる)
+RM: oshieru
+TY: RU
+
+EN: English
+JP: 英語(えいご)
+RM: eigo
+TY: 名詞
+
+EN: Have you ever been to Europe?
+JP: ヨーロッパに行(い)ったことがありますか?
+RM: Yōroppa ni itta koto ga arimasu ka?
+
+EN: Yes, I have.
+JP: はい、行(い)ったことがあります。
+RM: Hai, itta koto ga arimasu.
+
+EN: No, I haven't.
+JP: いいえ、行(い)ったことがありません。
+RM: Iie, itta koto ga arimasen.
+
+EN: Takeshi has never been absent from classes.
+JP: たけしは授業(じゅぎょう)を休(やす)んだことがありません。
+RM: Takeshi wa jugyō o yasunda koto ga arimasen.
+
+EN: I have never been late for classes.
+JP: 授業(じゅぎょう)に遅刻(ちこく)したことがありません。
+RM: Jugyō ni chikoku shita koto ga arimasen.
+
+EN: Have you ever climbed Mt. Fuji?
+JP: 富士山(ふじさん)に登(のぼ)ったことがありますか?
+RM: Fujisan ni nobotta koto ga arimasu ka?
+
+EN: Miko has lived in France.
+JP: みこはフランスに住(す)んだことがあります。
+RM: Miko wa Furansu ni sunda koto ga arimasu.
+
+EN: Have you ever ridden a subway in Tokyo?
+JP: 東京(とうきょう)で地下鉄(ちかてつ)に乗(の)ったことがありますか?
+RM: Tōkyō de chikatetsu ni notta koto ga arimasu ka?
+
+EN: I have never taught English.
+JP: 英語(えいご)を教(おし)えたことがありません。
+RM: Eigo o oshieta koto ga arimasen.
+
+## 176. んです
+
+EN: Grades
+JP: 成績(せいせき)
+RM: seiseki
+TY: 名詞
+
+EN: To finish, complete
+JP: 終(お)わる
+RM: owaru
+TY: U
+
+EN: To break up
+JP: 別(わか)れる
+RM: wakareru
+TY: RU
+
+EN: To take a bath
+JP: 風呂(ふろ)に入(はい)る
+RM: furo ni hairu
+TY: U
+
+EN: To take a shower
+JP: シャワーを浴(あ)びる
+RM: shawā o abiru
+TY: RU
+
+EN: To receive
+JP: 貰(もら)う
+RM: morau
+TY: U
+
+EN: Throat
+JP: 喉(のど)
+RM: nodo
+TY: 名詞
+
+EN: The bus did not come.
+JP: バスが来(き)ませんでした。
+RM: basu ga kimasendeshita.
+
+EN: (As it happens,) the bus didn't come.
+JP: バスが来(こ)なかったんです。
+RM: basu ga konakattan desu.
+
+EN: (Because) my grade is not good.
+JP: 成績(せいせき)がよくないんです。
+RM: seiseki ga yokunain desu.
+
+EN: (Because) the exam is over.
+JP: 試験(しけん)が終(お)わったんです。
+RM: shiken ga owattan desu.
+
+EN: (It is) quiet.
+JP: 静(しず)かなんです。
+RM: shizuka nan desu.
+TY: な形容詞
+
+EN: (I am) a student.
+JP: 学生(がくせい)なんです。
+RM: gakusei nan desu.
+TY: 名詞
+
+EN: I have an exam tomorrow.
+JP: あしたテストがあります。
+RM: ashita tesuto ga arimasu.
+
+EN: I have an exam tomorrow. (implying a reason for something)
+JP: あしたテストがあるんです。
+RM: ashita tesuto ga arun desu.
+
+EN: I want to go to the bathroom.
+JP: トイレに行(い)きたいです。
+RM: toire ni ikitai desu.
+
+EN: I want to go to the bathroom. (implying a reason for something)
+JP: トイレに行(い)きたいんです。
+RM: toire ni ikitain desu.
+
+EN: Why did you break up with your boyfriend? (You've got to tell me.)
+JP: どうして彼(かれ)と別(わか)れたんですか?
+RM: doushite kare to wakaretan desu ka?
+
+EN: (Because) he never takes a bath.
+JP: ぜんぜんお風呂(ふろ)に入(はい)らないんです。
+RM: zenzen ofuro ni hairanain desu.
+
+EN: What happened? (You look shattered.)
+JP: どうしたんですか?
+RM: doushitan desu ka?
+
+EN: My cat died. (That should explain how I look today.)
+JP: 猫(ねこ)が死(し)んだんです。
+RM: neko ga shindan desu.
+
+EN: That's a great textbook that you are using.
+JP: とてもいい教科書(きょうかしょ)ですね。
+RM: totemo ii kyoukasho desu ne.
+
+EN: It is! My teacher wrote it (for your information).
+JP: はい。私(わたし)の先生(せんせい)が書(か)いたんです。
+RM: hai. watashi no sensei ga kaitan desu.
+
+EN: I received a present.
+JP: プレゼントをもらいました。
+RM: purezento o moraimashita.
+
+EN: (Because) I received a present.
+JP: プレゼントをもらったんです。
+RM: purezento o morattan desu.
+
+EN: Tomorrow is a day off.
+JP: 明日(あした)は休(やす)みです。
+RM: ashita wa yasumi desu.
+
+EN: (Because) tomorrow is a day off.
+JP: 明日(あした)は休(やす)みなんです。
+RM: ashita wa yasumi nan desu.
+
+EN: Yesterday was my birthday.
+JP: 昨日(きのう)は誕生日(たんじょうび)でした。
+RM: kinou wa tanjoubi deshita.
+
+EN: (Because) yesterday was my birthday.
+JP: 昨日(きのう)は誕生日(たんじょうび)だったんです。
+RM: kinou wa tanjoubi dattan desu.
+
+EN: The test was not difficult.
+JP: テストが難(むず)しくありませんでした。
+RM: tesuto ga muzukashiku arimasendeshita.
+
+EN: (Because) the test was not difficult.
+JP: テストが難(むず)しくなかったんです。
+RM: tesuto ga muzukashiku nakattan desu.
+
+EN: I have a sore throat.
+JP: 喉(のど)が痛(いた)いです。
+RM: nodo ga itai desu.
+
+EN: (Because) I have a sore throat.
+JP: 喉(のど)が痛(いた)いんです。
+RM: nodo ga itain desu.
+
+EN: I have a test tomorrow.
+JP: 明日(あした)テストがあります。
+RM: ashita tesuto ga arimasu.
+
+EN: (Because) I have a test tomorrow.
+JP: 明日(あした)テストがあるんです。
+RM: ashita tesuto ga arun desu.
+
+## 179. 〜すぎる
+
+EN: I ate too much.
+JP: 食(た)べすぎました。
+RM: Tabesugimashita.
+
+EN: I always wake up too early.
+JP: いつも早(はや)く起(お)きすぎます。
+RM: Itsumo hayaku okisugimasu.
+
+EN: This book is too expensive.
+JP: この本(ほん)は高(たか)すぎます。
+RM: Kono hon wa takasugimasu.
+
+EN: This shirt is too small.
+JP: このシャツは小(ちい)さすぎます。
+RM: Kono shatsu wa chiisasugimasu.
+
+EN: That person is too nice.
+JP: あの人(ひと)は親切(しんせつ)すぎます。
+RM: Ano hito wa shinsetsusugimasu.
+TY: な形容詞
+
+EN: Cookie
+JP: クッキー
+RM: kukkii
+TY: 名詞
+
+EN: Sweet
+JP: 甘(あま)い
+RM: amai
+TY: い形容詞
+
+EN: This cookie is too sweet.
+JP: このクッキーは甘(あま)すぎます。
+RM: Kono kukkii wa amasugimasu.
+
+EN: The test was too difficult.
+JP: テストは難(むずか)しすぎました。
+RM: Tesuto wa muzukashisugimashita.
+
+EN: To work
+JP: 働(はたら)く
+RM: hataraku
+TY: U
+
+EN: Last week
+JP: 先週(せんしゅう)
+RM: senshuu
+TY: 名詞
+
+EN: I worked too much last week.
+JP: 先週(せんしゅう)は働(はたら)きすぎました。
+RM: Senshuu wa hatarakisugimashita.
+
+EN: To watch
+JP: 観(み)る
+RM: miru
+TY: RU
+
+EN: TV
+JP: テレビ
+RM: terebi
+TY: 名詞
+
+EN: Everyday
+JP: 毎日(まいにち)
+RM: mainichi
+TY: 名詞
+
+EN: I watch TV too much everyday.
+JP: 毎日(まいにち)テレビを観(み)すぎます。
+RM: Mainichi terebi o misugimasu.
+
+EN: To go
+JP: 行(い)く
+RM: iku
+TY: U
+
+EN: School
+JP: 学校(がっこう)
+RM: gakkou
+TY: 名詞
+
+EN: Cold
+JP: 寒(さむ)い
+RM: samui
+TY: い形容詞
+
+EN: I do not want to go to school because it is too cold today.
+JP: 今日(きょう)は寒(さむ)すぎるので学校(がっこう)に行(い)きたくありません。
+RM: Kyou wa samusugiru node gakkou ni ikitakuarimasen.
+
+EN: I do not want to go to school because it is too cold today.
+JP: 今日(きょう)は寒(さむ)すぎるから学校(がっこう)に行(い)きたくありません。
+RM: Kyou wa samusugiru kara gakkou ni ikitakuarimasen.
+
+## 181. 〜ほうがいいです
+
+EN: To take a break, to skip
+JP: 休(やす)む
+RM: yasumu
+TY: U
+
+EN: To tell a lie
+JP: 嘘(うそ)をつく
+RM: uso o tsuku
+TY: U
+
+EN: To memorise
+JP: 覚(おぼ)える
+RM: oboeru
+TY: RU
+
+EN: To worry
+JP: 心配(しんぱい)する
+RM: shinpaisuru
+TY: SURU
+
+EN: You'd better eat more vegetables.
+JP: もっと野菜(やさい)を食(た)べたほうがいいです。
+RM: Motto yasai o tabeta hou ga ii desu.
+
+EN: It is better not to skip classes.
+JP: 授業(じゅぎょう)を休(やす)まないほうがいいです。
+RM: Jugyou o yasumanai hou ga ii desu.
+
+EN: You'd better go to the hospital.
+JP: 病院(びょういん)に行(い)ったほうがいいです。
+RM: Byouin ni itta hou ga ii desu.
+
+EN: You'd better not tell a lie.
+JP: 嘘(うそ)をつかないほうがいいです。
+RM: Uso o tsukanai hou ga ii desu.
+
+EN: You had better memorise kanji.
+JP: 漢字(かんじ)を覚(おぼ)えたほうがいいです。
+RM: Kanji o oboeta hou ga ii desu.
+
+EN: You'd better not worry.
+JP: 心配(しんぱい)しないほうがいいです。
+RM: Shinpai shinai hou ga ii desu.
+
+EN: You should write a letter to your mother.
+JP: お母(かあ)さんに手紙(てがみ)を書(か)いたほうがいいです。
+RM: Okaasan ni tegami o kaita hou ga ii desu.
 
 ## 184. 〜なくちゃいけません
 
