@@ -7780,6 +7780,260 @@ EN: It seemed Misa did not want to work.
 JP: みさは働(はたら)きたがっていませんでした。
 RM: Misa wa hatarakitagatte imasen deshita.
 
+## 170. 〜たり〜たりする
+
+EN: I will go shopping and eat Korean food.
+JP: 買(か)い物(もの)をして、韓国料理(かんこくりょうり)を食(た)べます。
+RM: Kaimono o shite, kankoku ryouri o tabemasu.
+
+EN: I do things like reading books and cooking.
+JP: 本(ほん)を読(よ)んだり、料理(りょうり)したりします。
+RM: Hon o yondari, ryouri shitari shimasu.
+
+EN: I did things like going to a café and studying.
+JP: カフェに行(い)ったり、勉強(べんきょう)したりしました。
+RM: Kafe ni ittari, benkyou shitari shimashita.
+
+EN: I want to do things like playing tennis and eating pizza.
+JP: テニスをしたり、ピザを食(た)べたりしたいです。
+RM: Tenisu o shitari, piza o tabetari shitai desu.
+
+EN: On the weekend, I did things like studying and talking with friends.
+JP: 週末(しゅうまつ)、勉強(べんきょう)したり、友達(ともだち)と話(はな)したりしました。
+RM: Shuumatsu, benkyou shitari, tomodachi to hanashitari shimashita.
+
+EN: Tomorrow, I will do things like doing laundry and watching a movie.
+JP: 明日(あした)、洗濯(せんたく)したり、映画(えいが)をみたりします。
+RM: Ashita, sentaku shitari, eiga o mitari shimasu.
+
+EN: I want to do things like going to a café and going shopping.
+JP: カフェに行(い)ったり、買(か)い物(もの)に行(い)ったりしたいです。
+RM: Kafe ni ittari, kaimono ni ittari shitai desu.
+
+EN: You must not do things like smoking or drinking beer in the classroom.
+JP: 教室(きょうしつ)で、タバコを吸(す)ったり、ビールを飲(の)んではいけません。
+RM: Kyoushitsu de, tabako o suttari, biiru o nonde wa ikemasen.
+
+## 172. 〜ことがある
+
+EN: Have you ever been to Europe?
+JP: ヨーロッパに行(い)ったことがありますか？
+RM: Yooroppa ni itta koto ga arimasu ka?
+
+EN: Yes, I have been there.
+JP: はい、行(い)ったことがあります。
+RM: Hai, itta koto ga arimasu.
+
+EN: No, I have not been there.
+JP: いいえ、行(い)ったことがありません。
+RM: Iie, itta koto ga arimasen.
+
+EN: Takeshi has never missed class.
+JP: たけしは授業(じゅぎょう)を休(やす)んだことがありません。
+RM: Takeshi wa jugyou o yasunda koto ga arimasen.
+
+EN: I have never been late to class.
+JP: 授業(じゅぎょう)に遅刻(ちこく)したことがありません。
+RM: Jugyou ni chikoku shita koto ga arimasen.
+
+EN: Have you ever climbed Mt. Fuji?
+JP: 富士山(ふじさん)に登(のぼ)ったことがありますか？
+RM: Fujisan ni nobotta koto ga arimasu ka?
+
+EN: Miko has lived in France before.
+JP: みこはフランスに住(す)んだことがあります。
+RM: Miko wa Furansu ni sunda koto ga arimasu.
+
+EN: Have you ever ridden the subway in Tokyo?
+JP: 東京(とうきょう)で地下鉄(ちかてつ)に乗(の)ったことがありますか？
+RM: Toukyou de chikatetsu ni notta koto ga arimasu ka?
+
+EN: I have never taught English before.
+JP: 英語(えいご)を教(おし)えたことがありません。
+RM: Eigo o oshieta koto ga arimasen.
+
+## 176. んです
+
+EN: The bus didn't come.
+JP: バスが来(き)ませんでした。
+RM: Basu ga kimasen deshita.
+
+EN: (The thing is,) the bus didn't come.
+JP: バスが来(こ)なかったんです。
+RM: Basu ga konakatta ndesu.
+
+EN: (It's because) my grades aren't good.
+JP: 成績(せいせき)がよくないんです。
+RM: Seiseki ga yokunai ndesu.
+
+EN: (It's because) the exam is over.
+JP: 試験(しけん)が終(お)わったんです。
+RM: Shiken ga owatta ndesu.
+
+EN: There's a test tomorrow.
+JP: あしたテストがあります。
+RM: Ashita tesuto ga arimasu.
+
+EN: (The thing is,) there's a test tomorrow.
+JP: あしたテストがあるんです。
+RM: Ashita tesuto ga aru ndesu.
+
+EN: I want to go to the bathroom.
+JP: トイレに行(い)きたいです。
+RM: Toire ni ikitai desu.
+
+EN: (Actually,) I want to go to the bathroom.
+JP: トイレに行(い)きたいんです。
+RM: Toire ni ikitai ndesu.
+
+EN: Why did you break up with him?
+JP: どうして彼(かれ)と別(わか)れたんですか？
+RM: Doushite kare to wakareta ndesu ka?
+
+EN: (It's because) he never takes a bath.
+JP: ぜんぜんお風呂(ふろ)に入(はい)らないんです。
+RM: Zenzen ofuro ni hairanai ndesu.
+
+EN: What's wrong?
+JP: どうしたんですか？
+RM: Doushita ndesu ka?
+
+EN: (The reason is,) my cat died.
+JP: 猫(ねこ)が死(し)んだんです。
+RM: Neko ga shinda ndesu.
+
+EN: This is a really great textbook, isn't it.
+JP: とてもいい教科書(きょうかしょ)ですね。
+RM: Totemo ii kyoukasho desu ne.
+
+EN: (Actually,) my teacher wrote it.
+JP: 私(わたし)の先生(せんせい)が書(か)いたんです。
+RM: Watashi no sensei ga kaita ndesu.
+
+EN: I received a present.
+JP: プレゼントをもらいました。
+RM: Purezento o moraimashita.
+
+EN: (Actually,) I received a present.
+JP: プレゼントをもらったんです。
+RM: Purezento o moratta ndesu.
+
+EN: Tomorrow is a holiday.
+JP: 明日(あした)は休(やす)みです。
+RM: Ashita wa yasumi desu.
+
+EN: (Actually,) tomorrow is a holiday.
+JP: 明日(あした)は休(やす)みなんです。
+RM: Ashita wa yasumi na ndesu.
+
+EN: Yesterday was my birthday.
+JP: 昨日(きのう)は誕生日(たんじょうび)でした。
+RM: Kinou wa tanjoubi deshita.
+
+EN: (Actually,) yesterday was my birthday.
+JP: 昨日(きのう)は誕生日(たんじょうび)だったんです。
+RM: Kinou wa tanjoubi datta ndesu.
+
+EN: The test wasn't difficult.
+JP: テストが難(むずか)しくありませんでした。
+RM: Tesuto ga muzukashiku arimasen deshita.
+
+EN: (Actually,) the test wasn't difficult.
+JP: テストが難(むずか)しくなかったんです。
+RM: Tesuto ga muzukashikunakatta ndesu.
+
+EN: My throat hurts.
+JP: 喉(のど)が痛(いた)いです。
+RM: Nodo ga itai desu.
+
+EN: (Actually,) my throat hurts.
+JP: 喉(のど)が痛(いた)いんです。
+RM: Nodo ga itai ndesu.
+
+EN: There's a test tomorrow.
+JP: 明日(あした)テストがあります。
+RM: Ashita tesuto ga arimasu.
+
+EN: (Actually,) there's a test tomorrow, so...
+JP: 明日(あした)テストがあるんです。
+RM: Ashita tesuto ga aru ndesu.
+
+## 179. 〜すぎる
+
+EN: I ate too much.
+JP: 食(た)べすぎました。
+RM: Tabesugimashita.
+
+EN: I always wake up too early.
+JP: いつも早(はや)く起(お)きすぎます。
+RM: Itsumo hayaku okisugimasu.
+
+EN: This book is too expensive.
+JP: この本(ほん)は高(たか)すぎます。
+RM: Kono hon wa takasugimasu.
+
+EN: This shirt is too small.
+JP: このシャツは小(ちい)さすぎます。
+RM: Kono shatsu wa chiisasugimasu.
+
+EN: That person is too kind.
+JP: あの人(ひと)は親切(しんせつ)すぎます。
+RM: Ano hito wa shinsetsu sugimasu.
+
+EN: This cookie is too sweet.
+JP: このクッキーは甘(あま)すぎます。
+RM: Kono kukkii wa amasugimasu.
+
+EN: The test was too difficult.
+JP: テストは難(むずか)しすぎました。
+RM: Tesuto wa muzukashisugimashita.
+
+EN: I worked too much last week.
+JP: 先週(せんしゅう)は働(はたら)きすぎました。
+RM: Senshuu wa hatarakisugimashita.
+
+EN: I watch too much TV every day.
+JP: 毎日(まいにち)テレビを観(み)すぎます。
+RM: Mainichi terebi o misugimasu.
+
+EN: It's too cold today, so I don't want to go to school.
+JP: 今日(きょう)は寒(さむ)すぎるので学校(がっこう)に行(い)きたくありません。
+RM: Kyou wa samusugiru node gakkou ni ikitaku arimasen.
+
+EN: It's too cold today, so I don't want to go to school.
+JP: 今日(きょう)は寒(さむ)すぎるから学校(がっこう)に行(い)きたくありません。
+RM: Kyou wa samusugiru kara gakkou ni ikitaku arimasen.
+
+## 181. 〜ほうがいいです
+
+EN: You should eat more vegetables.
+JP: もっと野菜(やさい)を食(た)べたほうがいいです。
+RM: Motto yasai o tabeta hou ga ii desu.
+
+EN: You'd better not skip class.
+JP: 授業(じゅぎょう)を休(やす)まないほうがいいです。
+RM: Jugyou o yasumanai hou ga ii desu.
+
+EN: You should go to the hospital.
+JP: 病院(びょういん)に行(い)ったほうがいいです。
+RM: Byouin ni itta hou ga ii desu.
+
+EN: You'd better not lie.
+JP: 嘘(うそ)をつかないほうがいいです。
+RM: Uso o tsukanai hou ga ii desu.
+
+EN: You should memorize kanji.
+JP: 漢字(かんじ)を覚(おぼ)えたほうがいいです。
+RM: Kanji o oboeta hou ga ii desu.
+
+EN: You'd better not worry.
+JP: 心配(しんぱい)しないほうがいいです。
+RM: Shinpai shinai hou ga ii desu.
+
+EN: You should write a letter to your mother.
+JP: お母(かあ)さんに手紙(てがみ)を書(か)いたほうがいいです。
+RM: Okaasan ni tegami o kaita hou ga ii desu.
+
 ## 184. 〜なくちゃいけません
 
 EN: To quit, to resign
