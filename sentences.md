@@ -7944,346 +7944,181 @@ RM: Misa wa hatarakitagatte imasen deshita.
 
 ## 170. 〜たり〜たりする
 
-EN: I will do some shopping and eat Korean food.
-JP: 買(か)い物(もの)をして、韓国(かんこく)料理(りょうり)を食(た)べます。
-RM: Kaimono o shite, kankoku ryōri o tabemasu.
+EN: I will go shopping and eat Korean food.
+JP: 買(か)い物(もの)をして、韓国料理(かんこくりょうり)を食(た)べます。
+RM: Kaimono o shite, kankoku ryouri o tabemasu.
 
-EN: I will read a book, cook and so on.
+EN: I do things like reading books and cooking.
 JP: 本(ほん)を読(よ)んだり、料理(りょうり)したりします。
-RM: Hon o yondari, ryōri shitari shimasu.
+RM: Hon o yondari, ryouri shitari shimasu.
 
-EN: I went to a cafe, studied and so on.
+EN: I did things like going to a café and studying.
 JP: カフェに行(い)ったり、勉強(べんきょう)したりしました。
-RM: Kafe ni ittari, benkyō shitari shimashita.
+RM: Kafe ni ittari, benkyou shitari shimashita.
 
-EN: I want to play tennis, eat pizza and etc.
+EN: I want to do things like playing tennis and eating pizza.
 JP: テニスをしたり、ピザを食(た)べたりしたいです。
 RM: Tenisu o shitari, piza o tabetari shitai desu.
 
-EN: To study
-JP: 勉強(べんきょう)する
-RM: benkyō suru
-TY: SURU
-
-EN: To talk
-JP: 話(はな)す
-RM: hanasu
-TY: U
-
-EN: Friend(s)
-JP: 友達(ともだち)
-RM: tomodachi
-TY: 名詞
-
-EN: I studied, talked with my friends and so on weekend.
+EN: On the weekend, I did things like studying and talking with friends.
 JP: 週末(しゅうまつ)、勉強(べんきょう)したり、友達(ともだち)と話(はな)したりしました。
-RM: Shūmatsu, benkyō shitari, tomodachi to hanashitari shimashita.
+RM: Shuumatsu, benkyou shitari, tomodachi to hanashitari shimashita.
 
-EN: To do laundry
-JP: 洗濯(せんたく)する
-RM: sentaku suru
-TY: SURU
-
-EN: To watch
-JP: 観(み)る
-RM: miru
-TY: RU
-
-EN: Movie
-JP: 映画(えいが)
-RM: eiga
-TY: 名詞
-
-EN: I will do laundry, watch a movie and etc. tomorrow.
+EN: Tomorrow, I will do things like doing laundry and watching a movie.
 JP: 明日(あした)、洗濯(せんたく)したり、映画(えいが)をみたりします。
 RM: Ashita, sentaku shitari, eiga o mitari shimasu.
 
-EN: To go
-JP: 行(い)く
-RM: iku
-TY: U
-
-EN: To go shopping
-JP: 買(か)い物(もの)に行(い)く
-RM: kaimono ni iku
-TY: U
-
-EN: I want to go to a cafe, go shopping and etc.
+EN: I want to do things like going to a café and going shopping.
 JP: カフェに行(い)ったり、買(か)い物(もの)に行(い)ったりしたいです。
 RM: Kafe ni ittari, kaimono ni ittari shitai desu.
 
-EN: To smoke
-JP: タバコを吸(す)う
-RM: tabako o suu
-TY: U
-
-EN: To drink
-JP: 飲(の)む
-RM: nomu
-TY: U
-
-EN: Beer
-JP: ビール
-RM: bīru
-TY: 名詞
-
-EN: Classroom
-JP: 教室(きょうしつ)
-RM: kyōshitsu
-TY: 名詞
-
-EN: You must not smoke, drink beer etc. in the class room.
+EN: You must not do things like smoking or drinking beer in the classroom.
 JP: 教室(きょうしつ)で、タバコを吸(す)ったり、ビールを飲(の)んではいけません。
-RM: Kyōshitsu de, tabako o suttari, bīru o nonde wa ikemasen.
+RM: Kyoushitsu de, tabako o suttari, biiru o nonde wa ikemasen.
 
 ## 172. 〜ことがある
 
-EN: Europe
-JP: ヨーロッパ
-RM: Yōroppa
-TY: 名詞
-
-EN: To take a break, to be absent
-JP: 休む(やすむ)
-RM: yasumu
-TY: U
-
-EN: To be late (for ...)
-JP: 遅刻(ちこく)する
-RM: chikoku suru
-TY: SURU
-
-EN: To climb
-JP: 登る(のぼる)
-RM: noboru
-TY: U
-
-EN: Classes
-JP: 授業(じゅぎょう)
-RM: jugyō
-TY: 名詞
-
-EN: Mt. Fuji
-JP: 富士山(ふじさん)
-RM: Fujisan
-TY: 名詞
-
-EN: To live
-JP: 住む(すむ)
-RM: sumu
-TY: U
-
-EN: France
-JP: フランス
-RM: Furansu
-TY: 名詞
-
-EN: To ride
-JP: 乗る(のる)
-RM: noru
-TY: U
-
-EN: Subway
-JP: 地下鉄(ちかてつ)
-RM: chikatetsu
-TY: 名詞
-
-EN: To teach
-JP: 教える(おしえる)
-RM: oshieru
-TY: RU
-
-EN: English
-JP: 英語(えいご)
-RM: eigo
-TY: 名詞
-
 EN: Have you ever been to Europe?
-JP: ヨーロッパに行(い)ったことがありますか?
-RM: Yōroppa ni itta koto ga arimasu ka?
+JP: ヨーロッパに行(い)ったことがありますか？
+RM: Yooroppa ni itta koto ga arimasu ka?
 
-EN: Yes, I have.
+EN: Yes, I have been there.
 JP: はい、行(い)ったことがあります。
 RM: Hai, itta koto ga arimasu.
 
-EN: No, I haven't.
+EN: No, I have not been there.
 JP: いいえ、行(い)ったことがありません。
 RM: Iie, itta koto ga arimasen.
 
-EN: Takeshi has never been absent from classes.
+EN: Takeshi has never missed class.
 JP: たけしは授業(じゅぎょう)を休(やす)んだことがありません。
-RM: Takeshi wa jugyō o yasunda koto ga arimasen.
+RM: Takeshi wa jugyou o yasunda koto ga arimasen.
 
-EN: I have never been late for classes.
+EN: I have never been late to class.
 JP: 授業(じゅぎょう)に遅刻(ちこく)したことがありません。
-RM: Jugyō ni chikoku shita koto ga arimasen.
+RM: Jugyou ni chikoku shita koto ga arimasen.
 
 EN: Have you ever climbed Mt. Fuji?
-JP: 富士山(ふじさん)に登(のぼ)ったことがありますか?
+JP: 富士山(ふじさん)に登(のぼ)ったことがありますか？
 RM: Fujisan ni nobotta koto ga arimasu ka?
 
-EN: Miko has lived in France.
+EN: Miko has lived in France before.
 JP: みこはフランスに住(す)んだことがあります。
 RM: Miko wa Furansu ni sunda koto ga arimasu.
 
-EN: Have you ever ridden a subway in Tokyo?
-JP: 東京(とうきょう)で地下鉄(ちかてつ)に乗(の)ったことがありますか?
-RM: Tōkyō de chikatetsu ni notta koto ga arimasu ka?
+EN: Have you ever ridden the subway in Tokyo?
+JP: 東京(とうきょう)で地下鉄(ちかてつ)に乗(の)ったことがありますか？
+RM: Toukyou de chikatetsu ni notta koto ga arimasu ka?
 
-EN: I have never taught English.
+EN: I have never taught English before.
 JP: 英語(えいご)を教(おし)えたことがありません。
 RM: Eigo o oshieta koto ga arimasen.
 
 ## 176. んです
 
-EN: Grades
-JP: 成績(せいせき)
-RM: seiseki
-TY: 名詞
-
-EN: To finish, complete
-JP: 終(お)わる
-RM: owaru
-TY: U
-
-EN: To break up
-JP: 別(わか)れる
-RM: wakareru
-TY: RU
-
-EN: To take a bath
-JP: 風呂(ふろ)に入(はい)る
-RM: furo ni hairu
-TY: U
-
-EN: To take a shower
-JP: シャワーを浴(あ)びる
-RM: shawā o abiru
-TY: RU
-
-EN: To receive
-JP: 貰(もら)う
-RM: morau
-TY: U
-
-EN: Throat
-JP: 喉(のど)
-RM: nodo
-TY: 名詞
-
-EN: The bus did not come.
+EN: The bus didn't come.
 JP: バスが来(き)ませんでした。
-RM: basu ga kimasendeshita.
+RM: Basu ga kimasen deshita.
 
-EN: (As it happens,) the bus didn't come.
+EN: (The thing is,) the bus didn't come.
 JP: バスが来(こ)なかったんです。
-RM: basu ga konakattan desu.
+RM: Basu ga konakatta ndesu.
 
-EN: (Because) my grade is not good.
+EN: (It's because) my grades aren't good.
 JP: 成績(せいせき)がよくないんです。
-RM: seiseki ga yokunain desu.
+RM: Seiseki ga yokunai ndesu.
 
-EN: (Because) the exam is over.
+EN: (It's because) the exam is over.
 JP: 試験(しけん)が終(お)わったんです。
-RM: shiken ga owattan desu.
+RM: Shiken ga owatta ndesu.
 
-EN: (It is) quiet.
-JP: 静(しず)かなんです。
-RM: shizuka nan desu.
-TY: な形容詞
-
-EN: (I am) a student.
-JP: 学生(がくせい)なんです。
-RM: gakusei nan desu.
-TY: 名詞
-
-EN: I have an exam tomorrow.
+EN: There's a test tomorrow.
 JP: あしたテストがあります。
-RM: ashita tesuto ga arimasu.
+RM: Ashita tesuto ga arimasu.
 
-EN: I have an exam tomorrow. (implying a reason for something)
+EN: (The thing is,) there's a test tomorrow.
 JP: あしたテストがあるんです。
-RM: ashita tesuto ga arun desu.
+RM: Ashita tesuto ga aru ndesu.
 
 EN: I want to go to the bathroom.
 JP: トイレに行(い)きたいです。
-RM: toire ni ikitai desu.
+RM: Toire ni ikitai desu.
 
-EN: I want to go to the bathroom. (implying a reason for something)
+EN: (Actually,) I want to go to the bathroom.
 JP: トイレに行(い)きたいんです。
-RM: toire ni ikitain desu.
+RM: Toire ni ikitai ndesu.
 
-EN: Why did you break up with your boyfriend? (You've got to tell me.)
-JP: どうして彼(かれ)と別(わか)れたんですか?
-RM: doushite kare to wakaretan desu ka?
+EN: Why did you break up with him?
+JP: どうして彼(かれ)と別(わか)れたんですか？
+RM: Doushite kare to wakareta ndesu ka?
 
-EN: (Because) he never takes a bath.
+EN: (It's because) he never takes a bath.
 JP: ぜんぜんお風呂(ふろ)に入(はい)らないんです。
-RM: zenzen ofuro ni hairanain desu.
+RM: Zenzen ofuro ni hairanai ndesu.
 
-EN: What happened? (You look shattered.)
-JP: どうしたんですか?
-RM: doushitan desu ka?
+EN: What's wrong?
+JP: どうしたんですか？
+RM: Doushita ndesu ka?
 
-EN: My cat died. (That should explain how I look today.)
+EN: (The reason is,) my cat died.
 JP: 猫(ねこ)が死(し)んだんです。
-RM: neko ga shindan desu.
+RM: Neko ga shinda ndesu.
 
-EN: That's a great textbook that you are using.
+EN: This is a really great textbook, isn't it.
 JP: とてもいい教科書(きょうかしょ)ですね。
-RM: totemo ii kyoukasho desu ne.
+RM: Totemo ii kyoukasho desu ne.
 
-EN: It is! My teacher wrote it (for your information).
-JP: はい。私(わたし)の先生(せんせい)が書(か)いたんです。
-RM: hai. watashi no sensei ga kaitan desu.
+EN: (Actually,) my teacher wrote it.
+JP: 私(わたし)の先生(せんせい)が書(か)いたんです。
+RM: Watashi no sensei ga kaita ndesu.
 
 EN: I received a present.
 JP: プレゼントをもらいました。
-RM: purezento o moraimashita.
+RM: Purezento o moraimashita.
 
-EN: (Because) I received a present.
+EN: (Actually,) I received a present.
 JP: プレゼントをもらったんです。
-RM: purezento o morattan desu.
+RM: Purezento o moratta ndesu.
 
-EN: Tomorrow is a day off.
+EN: Tomorrow is a holiday.
 JP: 明日(あした)は休(やす)みです。
-RM: ashita wa yasumi desu.
+RM: Ashita wa yasumi desu.
 
-EN: (Because) tomorrow is a day off.
+EN: (Actually,) tomorrow is a holiday.
 JP: 明日(あした)は休(やす)みなんです。
-RM: ashita wa yasumi nan desu.
+RM: Ashita wa yasumi na ndesu.
 
 EN: Yesterday was my birthday.
 JP: 昨日(きのう)は誕生日(たんじょうび)でした。
-RM: kinou wa tanjoubi deshita.
+RM: Kinou wa tanjoubi deshita.
 
-EN: (Because) yesterday was my birthday.
+EN: (Actually,) yesterday was my birthday.
 JP: 昨日(きのう)は誕生日(たんじょうび)だったんです。
-RM: kinou wa tanjoubi dattan desu.
+RM: Kinou wa tanjoubi datta ndesu.
 
-EN: The test was not difficult.
-JP: テストが難(むず)しくありませんでした。
-RM: tesuto ga muzukashiku arimasendeshita.
+EN: The test wasn't difficult.
+JP: テストが難(むずか)しくありませんでした。
+RM: Tesuto ga muzukashiku arimasen deshita.
 
-EN: (Because) the test was not difficult.
-JP: テストが難(むず)しくなかったんです。
-RM: tesuto ga muzukashiku nakattan desu.
+EN: (Actually,) the test wasn't difficult.
+JP: テストが難(むずか)しくなかったんです。
+RM: Tesuto ga muzukashikunakatta ndesu.
 
-EN: I have a sore throat.
+EN: My throat hurts.
 JP: 喉(のど)が痛(いた)いです。
-RM: nodo ga itai desu.
+RM: Nodo ga itai desu.
 
-EN: (Because) I have a sore throat.
+EN: (Actually,) my throat hurts.
 JP: 喉(のど)が痛(いた)いんです。
-RM: nodo ga itain desu.
+RM: Nodo ga itai ndesu.
 
-EN: I have a test tomorrow.
+EN: There's a test tomorrow.
 JP: 明日(あした)テストがあります。
-RM: ashita tesuto ga arimasu.
+RM: Ashita tesuto ga arimasu.
 
-EN: (Because) I have a test tomorrow.
+EN: (Actually,) there's a test tomorrow, so...
 JP: 明日(あした)テストがあるんです。
-RM: ashita tesuto ga arun desu.
+RM: Ashita tesuto ga aru ndesu.
 
 ## 179. 〜すぎる
 
@@ -8303,20 +8138,9 @@ EN: This shirt is too small.
 JP: このシャツは小(ちい)さすぎます。
 RM: Kono shatsu wa chiisasugimasu.
 
-EN: That person is too nice.
+EN: That person is too kind.
 JP: あの人(ひと)は親切(しんせつ)すぎます。
-RM: Ano hito wa shinsetsusugimasu.
-TY: な形容詞
-
-EN: Cookie
-JP: クッキー
-RM: kukkii
-TY: 名詞
-
-EN: Sweet
-JP: 甘(あま)い
-RM: amai
-TY: い形容詞
+RM: Ano hito wa shinsetsu sugimasu.
 
 EN: This cookie is too sweet.
 JP: このクッキーは甘(あま)すぎます。
@@ -8326,101 +8150,41 @@ EN: The test was too difficult.
 JP: テストは難(むずか)しすぎました。
 RM: Tesuto wa muzukashisugimashita.
 
-EN: To work
-JP: 働(はたら)く
-RM: hataraku
-TY: U
-
-EN: Last week
-JP: 先週(せんしゅう)
-RM: senshuu
-TY: 名詞
-
 EN: I worked too much last week.
 JP: 先週(せんしゅう)は働(はたら)きすぎました。
 RM: Senshuu wa hatarakisugimashita.
 
-EN: To watch
-JP: 観(み)る
-RM: miru
-TY: RU
-
-EN: TV
-JP: テレビ
-RM: terebi
-TY: 名詞
-
-EN: Everyday
-JP: 毎日(まいにち)
-RM: mainichi
-TY: 名詞
-
-EN: I watch TV too much everyday.
+EN: I watch too much TV every day.
 JP: 毎日(まいにち)テレビを観(み)すぎます。
 RM: Mainichi terebi o misugimasu.
 
-EN: To go
-JP: 行(い)く
-RM: iku
-TY: U
-
-EN: School
-JP: 学校(がっこう)
-RM: gakkou
-TY: 名詞
-
-EN: Cold
-JP: 寒(さむ)い
-RM: samui
-TY: い形容詞
-
-EN: I do not want to go to school because it is too cold today.
+EN: It's too cold today, so I don't want to go to school.
 JP: 今日(きょう)は寒(さむ)すぎるので学校(がっこう)に行(い)きたくありません。
-RM: Kyou wa samusugiru node gakkou ni ikitakuarimasen.
+RM: Kyou wa samusugiru node gakkou ni ikitaku arimasen.
 
-EN: I do not want to go to school because it is too cold today.
+EN: It's too cold today, so I don't want to go to school.
 JP: 今日(きょう)は寒(さむ)すぎるから学校(がっこう)に行(い)きたくありません。
-RM: Kyou wa samusugiru kara gakkou ni ikitakuarimasen.
+RM: Kyou wa samusugiru kara gakkou ni ikitaku arimasen.
 
 ## 181. 〜ほうがいいです
 
-EN: To take a break, to skip
-JP: 休(やす)む
-RM: yasumu
-TY: U
-
-EN: To tell a lie
-JP: 嘘(うそ)をつく
-RM: uso o tsuku
-TY: U
-
-EN: To memorise
-JP: 覚(おぼ)える
-RM: oboeru
-TY: RU
-
-EN: To worry
-JP: 心配(しんぱい)する
-RM: shinpaisuru
-TY: SURU
-
-EN: You'd better eat more vegetables.
+EN: You should eat more vegetables.
 JP: もっと野菜(やさい)を食(た)べたほうがいいです。
 RM: Motto yasai o tabeta hou ga ii desu.
 
-EN: It is better not to skip classes.
+EN: You'd better not skip class.
 JP: 授業(じゅぎょう)を休(やす)まないほうがいいです。
 RM: Jugyou o yasumanai hou ga ii desu.
 
-EN: You'd better go to the hospital.
+EN: You should go to the hospital.
 JP: 病院(びょういん)に行(い)ったほうがいいです。
 RM: Byouin ni itta hou ga ii desu.
 
-EN: You'd better not tell a lie.
+EN: You'd better not lie.
 JP: 嘘(うそ)をつかないほうがいいです。
 RM: Uso o tsukanai hou ga ii desu.
 
-EN: You had better memorise kanji.
+EN: You should memorize kanji.
 JP: 漢字(かんじ)を覚(おぼ)えたほうがいいです。
 RM: Kanji o oboeta hou ga ii desu.
 
@@ -8551,4 +8315,2316 @@ RM: Ano hito wa yuumei deshou.
 EN: Taka is probably 25 years old.
 JP: たかは25歳(さい)でしょう。
 RM: Taka wa nijuugo sai deshou.
+
+## 196. あげる・くれる
+
+EN: I will give Maki flowers.
+JP: 私(わたし)はまきに花(はな)をあげます。
+RM: Watashi wa maki ni hana o agemasu.
+
+EN: Tomo gave Saki a watch.
+JP: ともはさきに時計(とけい)をあげました。
+RM: Tomo wa saki ni tokei o agemashita.
+
+EN: My parents may give me a new car.
+JP: 両親(りょうしん)は私(わたし)に車(くるま)をくれるかもしれません。
+RM: Ryoushin wa watashi ni kuruma o kureru kamoshiremasen.
+
+EN: The President gave my little sister a letter.
+JP: 大統領(だいとうりょう)が妹(いもうと)に手紙(てがみ)をくれました。
+RM: Daitouryou ga imouto ni tegami o kuremashita.
+
+EN: I will give shoes to Kota.
+JP: 私(わたし)はこうたに靴(くつ)をあげます。
+RM: Watashi wa Kouta ni kutsu o agemasu.
+
+EN: What did you give to your mother?
+JP: あなたはお母(かあ)さんに何(なに)をあげましたか。
+RM: Anata wa okaasan ni nani o agemashita ka.
+
+EN: My older sister gave me a book.
+JP: お姉(ねえ)ちゃんは本(ほん)をくれました。
+RM: Oneechan wa hon o kuremashita.
+
+EN: Did Takako give you anything?
+JP: たかこはあなたに何(なに)かくれましたか。
+RM: Takako wa anata ni nanika kuremashita ka.
+
+EN: Michiru did not give Takashi an invitation letter.
+JP: みちるはたかしに招待状(しょうたいじょう)をあげませんでした。
+RM: Michiru wa Takashi ni shoutaijou o agemasen deshita.
+
+## 197. もらう
+
+EN: I received a dictionary from my older sister.
+JP: 私(わたし)は姉(あね)に辞書(じしょ)をもらいました。
+RM: Watashi wa ane ni jisho o moraimashita.
+
+EN: Did you receive a letter from Kei?
+JP: あなたはけいに手紙(てがみ)をもらいましたか。
+RM: Anata wa Kei ni tegami o moraimashita ka.
+
+EN: I received a chocolate from Mary.
+JP: 私(わたし)はメアリーからチョコレートをもらいました。
+RM: Watashi wa Mearii kara chokoreeto o moraimashita.
+
+EN: Tomoka received a present from her friends.
+JP: ともかは友達(ともだち)からプレゼントをもらいました。
+RM: Tomoka wa tomodachi kara purezento o moraimashita.
+
+EN: Sato did not receive sake from Tadashi.
+JP: さとはただしから酒(さけ)をもらいませんでした。
+RM: Sato wa Tadashi kara sake o moraimasen deshita.
+
+EN: Did Miki receive anything from Kai?
+JP: みきはかいから何(なに)かもらいましたか。
+RM: Miki wa Kai kara nanika moraimashita ka.
+
+## 198. 〜たらどうですか
+
+EN: Why don't you study more (harder)?
+JP: もっと勉強(べんきょう)したらどうですか？
+RM: Motto benkyou shitara dou desu ka?
+
+EN: How about taking some medicine?
+JP: 薬(くすり)を飲(の)んだらどうですか？
+RM: Kusuri o nondara dou desu ka?
+
+EN: Why don't you go to the hospital?
+JP: 病院(びょういん)に行(い)ったらどうですか？
+RM: Byouin ni ittara dou desu ka?
+
+EN: Why don't you sleep more?
+JP: もっと寝(ね)たらどうですか？
+RM: Motto netara dou desu ka?
+
+EN: Why don't you buy a new bag?
+JP: 新(あたら)しいかばんを買(か)ったらどう？
+RM: Atarashii kaban o kattara dou?
+
+EN: Why don't you save money?
+JP: 貯金(ちょきん)したらどう？
+RM: Chokin shitara dou?
+
+## 199. Number + もしか
+
+EN: There are three cats in our house.
+JP: 家(いえ)に猫(ねこ)が3匹(びき)います。
+RM: Ie ni neko ga sanbiki imasu.
+
+EN: We bought three umbrellas.
+JP: 傘(かさ)を3本(ぼん)買(か)いました。
+RM: Kasa o sanbon kaimashita.
+
+EN: There are as many as three cats in our house!
+JP: 家(いえ)に猫(ねこ)が3匹(びき)もいます。
+RM: Ie ni neko ga sanbiki mo imasu.
+
+EN: We bought as many as three umbrellas.
+JP: 傘(かさ)を3本(ぼん)も買(か)いました。
+RM: Kasa o sanbon mo kaimashita.
+
+EN: There are only three cats in our house!
+JP: 家(いえ)に猫(ねこ)が3匹(びき)しかいません。
+RM: Ie ni neko ga sanbiki shika imasen.
+
+EN: We bought only three umbrellas.
+JP: 傘(かさ)を3本(ぼん)しか買(か)いませんでした。
+RM: Kasa o sanbon shika kaimasen deshita.
+
+EN: I only have two dogs.
+JP: 犬(いぬ)が2匹(にひき)しかいません。
+RM: Inu ga nihiki shika imasen.
+
+EN: I ate as many as 5 onigiris.
+JP: おにぎりを5個(ごこ)も食(た)べました。
+RM: Onigiri o goko mo tabemashita.
+
+EN: Do you only have 1 car?
+JP: 車(くるま)が1台(いちだい)しかありませんか？
+RM: Kuruma ga ichidai shika arimasen ka?
+
+## 202. Volitional form
+
+EN: Let's go eat somewhere tonight!
+JP: 今夜(こんや)どこかに食(た)べに行(い)こう。
+RM: Kon'ya dokoka ni tabe ni ikou.
+
+EN: Let's get married!
+JP: 結婚(けっこん)しよう。
+RM: Kekkon shiyou.
+
+EN: May I help you?
+JP: 手伝(てつだ)おうか？
+RM: Tetsudaou ka?
+
+EN: Shall we watch this film?
+JP: この映画(えいが)を見(み)ようか。
+RM: Kono eiga o miyou ka.
+
+EN: When shall we meet again?
+JP: 今度(こんど)いつ会(あ)おうか？
+RM: Kondo itsu aou ka?
+
+EN: I've decided to study Japanese everyday.
+JP: 毎日(まいにち)日本語(にほんご)を勉強(べんきょう)しようと思(おも)っています。
+RM: Mainichi nihongo o benkyou shiyou to omotte imasu.
+
+EN: I've decided to have curry for dinner.
+JP: 夜(よる)ご飯(はん)にカレーを食(た)べようと思(おも)っています。
+RM: Yorugohan ni karee o tabeyou to omotte imasu.
+
+EN: I will buy a kanji dictionary.
+JP: 漢字(かんじ)の辞書(じしょ)を買(か)おうと思(おも)います。
+RM: Kanji no jisho o kaou to omoimasu.
+
+EN: Let's eat at the restaurant tonight.
+JP: 今夜(こんや)レストランで食(た)べよう。
+RM: Kon'ya resutoran de tabeyou.
+
+EN: Sounds good! Let's make a reservation, shall we?
+JP: いいね！予約(よやく)しようか？
+RM: Ii ne! Yoyaku shiyou ka?
+
+EN: Yes, Let's invite Michiko, too.
+JP: はい。みちこも招待(しょうたい)しよう。
+RM: Hai. Michiko mo shoutai shiyou.
+
+EN: Sure, How shall we go (there)?
+JP: もちろん、どうやって行(い)こうか？
+RM: Mochiron, dou yatte ikou ka?
+
+EN: I was thinking going there by taxi.
+JP: タクシーで行(い)こうと思(おも)います。
+RM: Takushii de ikou to omoimasu.
+
+EN: Okay, I think I will go by taxi too, then!
+JP: それなら、私(わたし)もタクシーで行(い)こうと思(おも)います。
+RM: Sorenara, watashi mo takushii de ikou to omoimasu.
+
+## 203. 〜ておく
+
+EN: Since there will be an exam tomorrow, I will study (for it) tonight.
+JP: 明日(あした)試験(しけん)があるので、今晩(こんばん)勉強(べんきょう)しておきます。
+RM: Ashita shiken ga aru node, konban benkyou shite okimasu.
+
+EN: I turned the heater on, because it was going to get colder.
+JP: 寒(さむ)くなるから、ストーブをつけておきました。
+RM: Samuku naru kara, sutoobu o tsukete okimashita.
+
+EN: I must make a hotel reservation in advance.
+JP: ホテルを予約(よやく)しておかなくちゃいけません。
+RM: Hoteru o yoyaku shite okanakuchaikemasen.
+
+EN: Because I will go to Hokkaido next week, I will book a hotel.
+JP: 来週(らいしゅう)北海道(ほっかいどう)に行(い)くので、ホテルを予約(よやく)しておきます。
+RM: Raishuu Hokkaidou ni iku node, hoteru o yoyaku shite okimasu.
+
+EN: Because I will go to Tokyo by train, I will check the time of the train.
+JP: 電車(でんしゃ)で東京(とうきょう)に行(い)くので、電車(でんしゃ)の時間(じかん)を確認(かくにん)しておきます。
+RM: Densha de Toukyou ni iku node, densha no jikan o kakunin shite okimasu.
+
+EN: Because I had a date, I looked for a nice restaurant.
+JP: デートがあったので、いいレストランを見(み)つけておきました。
+RM: Deeto ga atta node, ii resutoran o mitsukete okimashita.
+
+## 204. Using Sentences to Qualify Nouns
+
+EN: This is a book that my girlfriend gave me on my birthday last year.
+JP: これは去年(きょねん)の誕生日(たんじょうび)に彼女(かのじょ)がくれた本(ほん)です。
+RM: Kore wa kyonen no tanjoubi ni kanojo ga kureta hon desu.
+
+EN: My father gave me a book that Haruki Murakami wrote.
+JP: 父(ちち)が村上春樹(むらかみはるき)がかいた本(ほん)をくれました。
+RM: Chichi ga Murakami Haruki ga kaita hon o kuremashita.
+
+EN: The movie I was touched by the most is "To Live."
+JP: 私(わたし)が一番(いちばん)感動(かんどう)した映画(えいが)は「生(い)きる」です。
+RM: Watashi ga ichiban kandou shita eiga wa "Ikiru" desu.
+
+EN: This is a photo I took in Nara.
+JP: これは奈良(なら)で撮(と)った写真(しゃしん)です。
+RM: Kore wa Nara de totta shashin desu.
+
+EN: This is the bus that goes to Tokyo.
+JP: これは東京(とうきょう)に行(い)くバスです。
+RM: Kore wa Toukyou ni iku basu desu.
+
+EN: This is the hotel Ken stayed at last year.
+JP: これは去年(きょねん)けんが泊(と)まったホテルです。
+RM: Kore wa kyonen Ken ga tomatta hoteru desu.
+
+EN: This is a book I borrowed from a friend.
+JP: これは友達(ともだち)から借(か)りた本(ほん)です。
+RM: Kore wa tomodachi kara karita hon desu.
+
+EN: This is the TV show that I often watch.
+JP: これはよく観(み)るテレビ番組(ばんぐみ)です。
+RM: Kore wa yoku miru terebi bangumi desu.
+
+EN: This is a friend who lives in Osaka.
+JP: これは大阪(おおさか)に住(す)んでいる友達(ともだち)です。
+RM: Kore wa Oosaka ni sunde iru tomodachi desu.
+
+## 206. 〜してあげる
+
+EN: I (kindly) lent my sister money (on demand).
+JP: 妹(いもうと)にお金(かね)をかしてあげました。
+RM: Imouto ni okane o kashite agemashita.
+
+EN: Kyoko (kindly) took Tom to the station (as a favour).
+JP: きょうこはトムを駅(えき)に連(つ)れて行(い)ってあげました。
+RM: Kyouko wa Tomu o eki ni tsurete itte agemashita.
+
+EN: I went shopping for Tomoko.
+JP: ともこのために買(か)い物(もの)に行(い)きました。
+RM: Tomoko no tame ni kaimono ni ikimashita.
+
+EN: I (kindly) helped Ken with his homework.
+JP: けんのために宿題(しゅくだい)を手伝(てつだ)ってあげました。
+RM: Ken no tame ni shukudai o tetsudatte agemashita.
+
+EN: I (kindly) took Tomo to the hospital.
+JP: ともを病院(びょういん)に連(つ)れて行(い)ってあげました。
+RM: Tomo o byouin ni tsurete itte agemashita.
+
+EN: Takeshi (kindly) taught Japanese to Mary.
+JP: たけしはメアリーに日本語(にほんご)を教(おし)えてあげました。
+RM: Takeshi wa Mearii ni nihongo o oshiete agemashita.
+
+EN: Did you (kindly) treat Momo a coffee?
+JP: ももにコーヒーをおごってあげましたか？
+RM: Momo ni koohii o ogotte agemashita ka?
+
+## 207. 〜してくれる
+
+EN: A friend helps me with my homework (for which, I am grateful).
+JP: 友達(ともだち)が宿題(しゅくだい)を手伝(てつだ)ってくれます。
+RM: Tomodachi ga shukudai o tetsudatte kuremasu.
+
+EN: A relative (kindly) sent me cookies (and I appreciate it).
+JP: 親戚(しんせき)がクッキーを送(おく)ってくれました。
+RM: Shinseki ga kukkii o okutte kuremashita.
+
+EN: Kyoko (kindly) took me to the station.
+JP: きょうこが私(わたし)を駅(えき)に連(つ)れて行(い)ってくれました。
+RM: Kyouko ga watashi o eki ni tsurete itte kuremashita.
+
+EN: Takeshi (kindly) taught me that Kanji.
+JP: たけしが私(わたし)に漢字(かんじ)を教(おし)えてくれました。
+RM: Takeshi ga watashi ni kanji o oshiete kuremashita.
+
+EN: Ken (kindly) cleaned the room for me.
+JP: けんが私(わたし)のために掃除(そうじ)してくれました。
+RM: Ken ga watashi no tame ni souji shite kuremashita.
+
+EN: My older sister sometimes lends me her car.
+JP: 姉(あね)はたまに車(くるま)をかしてくれます。
+RM: Ane wa tamani kuruma o kashite kuremasu.
+
+EN: Taro kindly explained me the grammar.
+JP: たろうは文法(ぶんぽう)を説明(せつめい)してくれました。
+RM: Tarou wa bunpou o setsumei shite kuremashita.
+
+EN: Mary cooked dinner for us.
+JP: メアリーは私(わたし)たちのために夜(よる)ご飯(はん)を料理(りょうり)してくれました。
+RM: Mearii wa watashitachi no tame ni yorugohan o ryouri shite kuremashita.
+
+## 208. 〜してもらう
+
+EN: I got a friend of mine to help me with my homework.
+JP: 私(わたし)は友達(ともだち)に宿題(しゅくだい)を手伝(てつだ)ってもらいました。
+RM: Watashi wa tomodachi ni shukudai o tetsudatte moraimashita.
+
+EN: I am glad that a stranger read the kanji for me.
+JP: 私(わたし)は知(し)らない人(ひと)に漢字(かんじ)を読(よ)んでもらいました。
+RM: Watashi wa shiranai hito ni kanji o yonde moraimashita.
+
+EN: I had Ken teach me Japanese.
+JP: 私(わたし)はけんに日本語(にほんご)を教(おし)えてもらいました。
+RM: Watashi wa Ken ni nihongo o oshiete moraimashita.
+
+EN: I will have Mary sing a song.
+JP: 私(わたし)はメアリーに歌(うた)を歌(うた)ってもらいます。
+RM: Watashi wa Mearii ni uta o utatte moraimasu.
+
+EN: I will have Tomo take me to the post office.
+JP: 私(わたし)はともに郵便局(ゆうびんきょく)に連(つ)れて行(い)ってもらいます。
+RM: Watashi wa Tomo ni yuubinkyoku ni tsurete itte moraimasu.
+
+EN: I had Mako take a photo of me.
+JP: 私(わたし)はまこに写真(しゃしん)を撮(と)ってもらいました。
+RM: Watashi wa Mako ni shashin o totte moraimashita.
+
+## 209. 〜ていただけませんか
+
+EN: Would you lend me a hand?
+JP: 手伝(てつだ)っていただけませんか？
+RM: Tetsudatte itadakemasen ka?
+
+EN: Will you wait for a second?
+JP: ちょっと待(ま)ってくれませんか？
+RM: Chotto matte kuremasen ka?
+
+EN: Pick that thing up (and pass it to me), will you?
+JP: それとってくれない？
+RM: Sore totte kurenai?
+
+EN: Will you lend me money?
+JP: お金(かね)を貸(か)してくれない？
+RM: Okane o kashite kurenai?
+
+EN: Would you wake me up at seven o'clock tomorrow?
+JP: 明日(あした)7時(しちじ)に起(お)こしてくれませんか？
+RM: Ashita shichiji ni okoshite kuremasen ka?
+
+EN: Could you write a letter of recommendation?
+JP: 推薦状(すいせんじょう)を書(か)いていただけませんか？
+RM: Suisenjou o kaite itadakemasen ka?
+
+EN: Will you teach me Japanese?
+JP: 日本語(にほんご)を教(おし)えてくれない？
+RM: Nihongo o oshiete kurenai?
+
+EN: Would you speak more slowly?
+JP: もっとゆっくり話(はな)してくれませんか？
+RM: Motto yukkuri hanashite kuremasen ka?
+
+EN: Could you translate this into English?
+JP: これを英語(えいご)に翻訳(ほんやく)していただけませんか？
+RM: Kore o eigo ni honyaku shite itadakemasen ka?
+
+## 210. 〜といい
+
+EN: I hope there is a good part-time job (for you).
+JP: いいアルバイトがあるといいですね。
+RM: Ii arubaito ga aru to ii desu ne.
+
+EN: I hope it does not rain.
+JP: 雨(あめ)が降(ふ)らないといいですね。
+RM: Ame ga furanai to ii desu ne.
+
+EN: I am hoping that the exam is easy.
+JP: 試験(しけん)が簡単(かんたん)だといいんですが。
+RM: Shiken ga kantan da to iin desu ga.
+
+EN: I hope I can catch the eight o'clock train.
+JP: 8時(じ)の電車(でんしゃ)に乗(の)れるといいんですが。
+RM: Hachiji no densha ni noreru to iin desu ga.
+
+EN: I am hoping to go to college (= hoping I can go).
+JP: 大学(だいがく)に行(い)けるといいんですが。
+RM: Daigaku ni ikeru to iin desu ga.
+
+EN: I hope you (Sue) will come.
+JP: すーが来(き)てくれるといいんですが。
+RM: Suu ga kite kureru to iin desu ga.
+
+EN: I hope I can receive a scholarship.
+JP: 奨学金(しょうがくきん)がもらえるといいんですが。
+RM: Shougakukin ga moraeru to iin desu ga.
+
+EN: I hope Sachi comes to your birthday party.
+JP: さちが誕生日(たんじょうび)パーティーにくるといいですね。
+RM: Sachi ga tanjoubi paatii ni kuru to ii desu ne.
+
+EN: I hope you can receive a good project.
+JP: いいプロジェクトがもらえるといいですね。
+RM: Ii purojekuto ga moraeru to ii desu ne.
+
+EN: I hope I can go to China next year.
+JP: 来年(らいねん)中国(ちゅうごく)に行(い)けるといいんですが。
+RM: Rainen Chuugoku ni ikeru to iin desu ga.
+
+## 211. 〜時（とき）1
+
+EN: I will get the visa issued when I go to Tibet.
+JP: チベットに行(い)くとき、ビザをとります。
+RM: Chibetto ni iku toki, biza o torimasu.
+
+EN: I had the visa issued when I was going to go to Tibet.
+JP: チベットに行(い)くとき、ビザをとりました。
+RM: Chibetto ni iku toki, biza o torimashita.
+
+EN: I take out the contact lenses when I go to sleep.
+JP: 寝(ね)るとき、コンタクトをとります。
+RM: Neru toki, kontakuto o torimasu.
+
+EN: I locked the door when I went out.
+JP: 出(で)かけるとき、ドアに鍵(かぎ)をかけました。
+RM: Dekakeru toki, doa ni kagi o kakemashita.
+
+EN: I call up friends when I am lonely.
+JP: さびしいとき、友達(ともだち)に電話(でんわ)します。
+RM: Sabishii toki, tomodachi ni denwa shimasu.
+
+EN: A phone call came when I was watching TV.
+JP: テレビをみているとき、電話(でんわ)がありました。
+RM: Terebi o mite iru toki, denwa ga arimashita.
+
+EN: I get a headache when it is cold.
+JP: 寒(さむ)いとき、頭(あたま)が痛(いた)くなります。
+RM: Samui toki, atama ga itaku narimasu.
+
+EN: I jog in the park when I feel energetic.
+JP: 元気(げんき)なとき、公園(こうえん)を走(はし)ります。
+RM: Genki na toki, kouen o hashirimasu.
+
+EN: I took the dog to a vet when it was sick.
+JP: 犬(いぬ)が病気(びょうき)のとき、病院(びょういん)に連(つ)れて行(い)きました。
+RM: Inu ga byouki no toki, byouin ni tsurete ikimashita.
+
+## 212. 〜時（とき）2
+
+EN: I will buy oolong tea when I go to China.
+JP: 中国(ちゅうごく)に行(い)ったとき、ウーロン茶(ちゃ)を買(か)います。
+RM: Chuugoku ni itta toki, uuroncha o kaimasu.
+
+EN: I bought oolong tea when I went to China.
+JP: 中国(ちゅうごく)に行(い)ったとき、ウーロン茶(ちゃ)を買(か)いました。
+RM: Chuugoku ni itta toki, uuroncha o kaimashita.
+
+EN: I take a long bath when I get tired.
+JP: 疲(つか)れたとき、ゆっくりお風呂(ふろ)に入(はい)ります。
+RM: Tsukareta toki, yukkuri ofuro ni hairimasu.
+
+## 213. 時Practice
+
+EN: When my friend comes to my town, I'll show them around.
+JP: 友達(ともだち)が町(まち)に来(き)たとき、案内(あんない)します。
+RM: Tomodachi ga machi ni kita toki, annai shimasu.
+
+EN: When my friend comes to my house, I clean my room.
+JP: 友達(ともだち)がうちに来(き)たとき、部屋(へや)を掃除(そうじ)します。
+RM: Tomodachi ga uchi ni kita toki, heya o souji shimasu.
+
+EN: When I oversleep, I take a taxi.
+JP: 寝坊(ねぼう)したとき、タクシーに乗(の)ります。
+RM: Nebou shita toki, takushii ni norimasu.
+
+EN: When I am bored, I watch TV.
+JP: 暇(ひま)なとき、テレビをみます。
+RM: Hima na toki, terebi o mimasu.
+
+EN: When I was a student, I liked baseball.
+JP: 学生(がくせい)のとき、野球(やきゅう)が好(す)きでした。
+RM: Gakusei no toki, yakyuu ga suki deshita.
+
+EN: I brushed my teeth when I went to bed.
+JP: 寝(ね)るとき、歯(は)を磨(みが)きました。
+RM: Neru toki, ha o migakimashita.
+
+EN: I ride a bus when I go to school.
+JP: 学校(がっこう)に行(い)くとき、バスにのります。
+RM: Gakkou ni iku toki, basu ni norimasu.
+
+EN: Takeshi used chopsticks when he ate spaghetti.
+JP: たけしはスパゲッティを食(た)べるとき、箸(はし)を使(つか)いました。
+RM: Takeshi wa supagetti o taberu toki, hashi o tsukaimashita.
+
+EN: I went to the police station when I lost my bag.
+JP: かばんを失(な)くしたとき、警察署(けいさつしょ)に行(い)きました。
+RM: Kaban o nakushita toki, keisatsusho ni ikimashita.
+
+EN: What do you do when you are bored?
+JP: 退屈(たいくつ)なとき、何(なに)をしますか？
+RM: Taikutsu na toki, nani o shimasu ka?
+
+EN: What do you want to do when you turn 20 years old?
+JP: 20歳(はたち)になったとき、何(なに)をしたいですか？
+RM: Hatachi ni natta toki, nani o shitai desu ka?
+
+## 214. 〜てすみませんでした
+
+EN: I am sorry for using foul language.
+JP: 汚(きたな)い言葉(ことば)を使(つか)って、すみませんでした。
+RM: Kitanai kotoba o tsukatte, sumimasen deshita.
+
+EN: I'm sorry for forgetting about the date.
+JP: デートの約束(やくそく)を忘(わす)れて、ごめん。
+RM: Deeto no yakusoku o wasurete, gomen.
+
+EN: I am sorry for not bringing in the homework.
+JP: 宿題(しゅくだい)をもってこなくて、すみませんでした。
+RM: Shukudai o motte konakute, sumimasen deshita.
+
+EN: Sorry that I did not tell you earlier.
+JP: もっと早(はや)く言(い)わなくて、ごめん。
+RM: Motto hayaku iwanakute, gomen.
+
+EN: I am sorry for not listening to the lecture.
+JP: 話(はなし)を聞(き)かなくてごめんなさい。
+RM: Hanashi o kikanakute gomen nasai.
+
+EN: I am sorry to call you late at night.
+JP: 夜遅(よるおそ)くに電話(でんわ)してごめんなさい。
+RM: Yoruosoku ni denwa shite gomen nasai.
+
+EN: I am sorry for not attending the meeting.
+JP: ミーティングに出席(しゅっせき)しなくてすみませんでした。
+RM: Miitingu ni shusseki shinakute sumimasen deshita.
+
+EN: I am sorry for not being able to go to the event.
+JP: イベントに行(い)けなくてごめんなさい。
+RM: Ibento ni ikenakute gomen nasai.
+
+## 217. 〜そうです
+
+EN: I have heard that their Japanese class is fun.
+JP: 日本語(にほんご)の授業(じゅぎょう)は楽(たの)しいそうです。
+RM: Nihongo no jugyou wa tanoshii sou desu.
+
+EN: I have heard that their teacher is very kind.
+JP: 先生(せんせい)はとても親切(しんせつ)だそうです。
+RM: Sensei wa totemo shinsetsu da sou desu.
+
+EN: I have heard that they did not have a class today.
+JP: 今日(きょう)は授業(じゅぎょう)がなかったそうです。
+RM: Kyou wa jugyou ga nakatta sou desu.
+
+EN: I heard that Ken speaks Japanese.
+JP: けんは日本語(にほんご)を話(はな)すそうです。
+RM: Ken wa nihongo o hanasu sou desu.
+
+EN: I heard that Ken is a student.
+JP: けんは学生(がくせい)だそうです。
+RM: Ken wa gakusei da sou desu.
+
+EN: According to the weather forecast, it will rain tomorrow.
+JP: 天気予報(てんきよほう)によると、明日(あした)雨(あめ)が降(ふ)るそうです。
+RM: Tenkiyohou ni yoru to, ashita ame ga furu sou desu.
+
+EN: I heard that Miki will get a divorce.
+JP: みきは離婚(りこん)するそうです。
+RM: Miki wa rikon suru sou desu.
+
+EN: I heard that Miki got a divorce.
+JP: みきは離婚(りこん)したそうです。
+RM: Miki wa rikon shita sou desu.
+
+EN: I heard that it won't rain tomorrow.
+JP: 明日(あした)雨(あめ)が降(ふ)らないそうです。
+RM: Ashita ame ga furanai sou desu.
+
+EN: I heard that it did not rain yesterday.
+JP: 昨日(きのう)雨(あめ)が降(ふ)らなかったそうです。
+RM: Kinou ame ga furanakatta sou desu.
+
+EN: I heard that the movie theater was not crowded.
+JP: 映画館(えいがかん)は混(こ)んでいなかったそうです。
+RM: Eigakan wa konde inakatta sou desu.
+
+## 218. 〜って
+
+EN: (Mary said/says) she is busy today.
+JP: メアリーは今日(きょう)は忙(いそが)しいって。
+RM: Mearii wa kyou wa isogashii tte.
+
+EN: (Mary said/says) she has an exam tomorrow.
+JP: メアリーは明日(あした)試験(しけん)があるって。
+RM: Mearii wa ashita shiken ga aru tte.
+
+EN: Tomo said he ate sushi last night.
+JP: ともは昨晩(さくばん)すしを食(た)べたって言(い)ってた。
+RM: Tomo wa sakuban sushi o tabeta tte itteta.
+
+EN: What did Akira say?
+JP: あきらは何(なん)て言(い)ってた？
+RM: Akira wa nante itteta?
+
+EN: Tom said he needs to study tonight.
+JP: トムは今晩(こんばん)勉強(べんきょう)しなくちゃいけないって。
+RM: Tomu wa konban benkyou shinakuchaikenai tte.
+
+EN: Mary said her birthday is tomorrow.
+JP: メアリーの誕生日(たんじょうび)は明日(あした)だって。
+RM: Mearii no tanjoubi wa ashita da tte.
+
+EN: Kai said he won't attend the meeting.
+JP: かいは会議(かいぎ)に出席(しゅっせき)しないって。
+RM: Kai wa kaigi ni shusseki shinai tte.
+
+EN: Machi said she won't come to Japan.
+JP: まちは日本(にほん)にこないって。
+RM: Machi wa nihon ni konai tte.
+
+## 219. 〜たら 1 - If A, then B
+
+EN: I will buy Kimono if and when I go to Japan.
+JP: 日本(にほん)に行(い)ったら、着物(きもの)を買(か)います。
+RM: Nihon ni ittara, kimono o kaimasu.
+
+EN: We will go for a walk, if the weather is fine.
+JP: 天気(てんき)がよかったら、散歩(さんぽ)に行(い)きます。
+RM: Tenki ga yokattara, sanpo ni ikimasu.
+
+EN: I will ask about it, if I see Tom.
+JP: トムに会(あ)ったら、そのことを聞(き)きます。
+RM: Tomu ni attara, sono koto o kikimasu.
+
+EN: If they are a Japanese person, then they will probably know this word.
+JP: 日本人(にほんじん)だったら、この言葉(ことば)を知(し)っているでしょう。
+RM: Nihonjin dattara, kono kotoba o shitte iru deshou.
+
+EN: If I was not a teacher, I want to be a lawyer.
+JP: 先生(せんせい)じゃなかったら、弁護士(べんごし)になりたいです。
+RM: Sensei ja nakattara, bengoshi ni naritai desu.
+
+EN: Let's have a barbecue, if it does not rain this weekend.
+JP: 今週末(こんしゅうまつ)雨(あめ)が降(ふ)らなかったら、バーベキューをしましょう。
+RM: Konshuumatsu ame ga furanakattara, baabekyuu o shimashou.
+
+EN: If I oversleep, please wake me up.
+JP: 寝坊(ねぼう)したら、起(お)こしてください。
+RM: Nebou shitara, okoshite kudasai.
+
+EN: If my grade is not good, I become sad.
+JP: 成績(せいせき)がよくなかったら、悲(かな)しくなります。
+RM: Seiseki ga yokunakattara, kanashiku narimasu.
+
+EN: If I am not fine, I will not go out.
+JP: 元気(げんき)じゃなかったら、出(で)かけません。
+RM: Genki ja nakattara, dekakemasen.
+
+## 220. 〜たら 2 - Events and Activities in a Temporal Sequence
+
+EN: I will call you when I get home tonight.
+JP: 今晩(こんばん)、うちに帰(かえ)ったら、電話(でんわ)します。
+RM: Konban, uchi ni kaettara, denwa shimasu.
+
+EN: Let's go out and have some fun once we are done with the homework.
+JP: 宿題(しゅくだい)が終(お)わったら、遊(あそ)びに行(い)きましょう。
+RM: Shukudai ga owattara, asobi ni ikimashou.
+
+EN: I will read a book (if and) when I finish cleaning the house.
+JP: 家(いえ)の掃除(そうじ)が終(お)わったら、本(ほん)を読(よ)みます。
+RM: Ie no souji ga owattara, hon o yomimasu.
+
+EN: I will study (if and) after I eat dinner.
+JP: 夜(よる)ご飯(はん)を食(た)べたら、勉強(べんきょう)します。
+RM: Yorugohan o tabetara, benkyou shimasu.
+
+EN: Miyu will be happy (if and) when she sees her parents.
+JP: 両親(りょうしん)に会(あ)ったら、みゆは嬉(うれ)しいでしょう。
+RM: Ryoushin ni attara, Miyu wa ureshii deshou.
+
+EN: Let's go camping (if and) when I buy a tent!
+JP: テントを買(か)ったら、キャンプしに行(い)きましょう。
+RM: Tento o kattara, kyanpu shi ni ikimashou.
+
+## 221. 〜たら 3 - Hypothetical Condition and its Probable Result
+
+EN: If I were a cat, I would probably sleep all day.
+JP: 私(わたし)が猫(ねこ)だったら、一日中(いちにちじゅう)寝(ね)ているでしょう。
+RM: Watashi ga neko dattara, ichinichijuu nete iru deshou.
+
+EN: If I had money, I would buy a car.
+JP: お金(かね)があったら、車(くるま)を買(か)うんですけど。
+RM: Okane ga attara, kuruma o kaun desu kedo.
+
+EN: If you have an exam next week, you should study this weekend.
+JP: 来週(らいしゅう)試験(しけん)があったら、今週末(こんしゅうまつ)勉強(べんきょう)したほうがいいです。
+RM: Raishuu shiken ga attara, konshuumatsu benkyou shita hou ga ii desu.
+
+EN: Even if you want to get married, I will not marry you.
+JP: あなたが結婚(けっこん)したかったら、私(わたし)は結婚(けっこん)しません。
+RM: Anata ga kekkon shitakattara, watashi wa kekkon shimasen.
+
+EN: If I were Japanese, I would eat sushi every day.
+JP: 日本人(にほんじん)だったら、毎日(まいにち)寿司(すし)を食(た)べます。
+RM: Nihonjin dattara, mainichi sushi o tabemasu.
+
+EN: If I were young, I would start surfing.
+JP: 若(わか)かったら、サーフィンを始(はじ)めます。
+RM: Wakakattara, saafin o hajimemasu.
+
+EN: If you could become anything, what would you want to become?
+JP: 何(なに)にでもなれたら、何(なに)になりたいですか？
+RM: Nani ni demo naretara, nani ni naritai desu ka?
+
+## 222. 〜なくてもいいです (Don't need to do....)
+
+EN: You don't need to take off your shoes.
+JP: 靴(くつ)をぬがなくてもいいです。
+RM: Kutsu o nuganakute mo ii desu.
+
+EN: The present doesn't need to be expensive.
+JP: プレゼントは高(たか)くなくてもいいです。
+RM: Purezento wa takakunakute mo ii desu.
+
+EN: You don't need to make a reservation.
+JP: 予約(よやく)しなくてもいいです。
+RM: Yoyaku shinakute mo ii desu.
+
+EN: You don't need to bring food to the party.
+JP: パーティーに食(た)べ物(もの)を持(も)ってこなくてもいいです。
+RM: Paatii ni tabemono o motte konakute mo ii desu.
+
+EN: I don't need to study tonight.
+JP: 今晩(こんばん)勉強(べんきょう)しなくてもいいです。
+RM: Konban benkyou shinakute mo ii desu.
+
+EN: You don't need to clean the second floor.
+JP: 2階(にかい)を掃除(そうじ)しなくてもいいです。
+RM: Nikai o souji shinakute mo ii desu.
+
+## 223. 〜みたいです (A resembles B)
+
+EN: My older brother is like my father.
+JP: 私(わたし)の兄(あに)は私(わたし)のお父(とう)さんみたいです。
+RM: Watashi no ani wa watashi no otousan mitai desu.
+
+EN: That person is like a gorilla.
+JP: あの人(ひと)はゴリラみたいです。
+RM: Ano hito wa gorira mitai desu.
+
+EN: It seems like it rained.
+JP: 雨(あめ)が降(ふ)ったみたいです。
+RM: Ame ga futta mitai desu.
+
+EN: It seems like Maki isn't coming to school tomorrow.
+JP: まきは明日(あした)学校(がっこう)に来(こ)ないみたいです。
+RM: Maki wa ashita gakkou ni konai mitai desu.
+
+EN: Kotomi is like my mother.
+JP: ことみは私(わたし)のお母(かあ)さんみたいです。
+RM: Kotomi wa watashi no okaasan mitai desu.
+
+EN: Do I seem like Mary?
+JP: 私(わたし)はメアリーみたいですか？
+RM: Watashi wa Mearii mitai desu ka?
+
+EN: Takeshi isn't like Ken.
+JP: たけしはけんみたいじゃないです。
+RM: Takeshi wa Ken mitai ja nai desu.
+
+EN: It seems like Taka will graduate from university next year.
+JP: たかは来年(らいねん)大学(だいがく)を卒業(そつぎょう)するみたいです。
+RM: Taka wa rainen daigaku o sotsugyou suru mitai desu.
+
+## 224. 〜前に (Before doing ...)
+
+EN: Before I go back to America, I will go to Tokyo one more time.
+JP: アメリカに帰(かえ)る前(まえ)に、もう一度(いちど)東京(とうきょう)に行(い)きます。
+RM: Amerika ni kaeru mae ni, mou ichido Toukyou ni ikimasu.
+
+EN: Before coming to Japan, I studied Japanese for one semester.
+JP: 日本(にほん)に来(く)る前(まえ)に、一学期(いちがっき)日本語(にほんご)を勉強(べんきょう)しました。
+RM: Nihon ni kuru mae ni, ichi gakki nihongo o benkyou shimashita.
+
+EN: Before watching TV, I do my homework.
+JP: テレビを観(み)る前(まえ)に、宿題(しゅくだい)をします。
+RM: Terebi o miru mae ni, shukudai o shimasu.
+
+EN: Before coming to Japan, I went to China.
+JP: 日本(にほん)に来(く)る前(まえ)に、中国(ちゅうごく)に行(い)きました。
+RM: Nihon ni kuru mae ni, Chuugoku ni ikimashita.
+
+EN: Mary didn't drink coffee before going to the café.
+JP: メアリーはカフェに行(い)く前(まえ)にコーヒーを飲(の)みませんでした。
+RM: Mearii wa kafe ni iku mae ni koohii o nomimasen deshita.
+
+EN: Did you brush your teeth before going to bed?
+JP: 寝(ね)る前(まえ)に歯(は)を磨(みが)きましたか？
+RM: Neru mae ni ha o migakimashita ka?
+
+## 225. 〜てから (After doing ...)
+
+EN: After studying, I met Kai.
+JP: 勉強(べんきょう)してから、かいに会(あ)いました。
+RM: Benkyou shite kara, Kai ni aimashita.
+
+EN: Let's eat after Ken comes.
+JP: けんがきてから、食(た)べましょう。
+RM: Ken ga kite kara, tabemashou.
+
+EN: I've been very lonely since my cat died.
+JP: 猫(ねこ)が死(し)んでから、とても寂(さび)しいです。
+RM: Neko ga shinde kara, totemo sabishii desu.
+
+EN: After cleaning the house, I will go to the gym.
+JP: 家(いえ)を掃除(そうじ)してから、ジムに行(い)きます。
+RM: Ie o souji shite kara, jimu ni ikimasu.
+
+EN: Mika came to school after going to the store.
+JP: みかはお店(みせ)に行(い)ってから、学校(がっこう)にきました。
+RM: Mika wa mise ni itte kara, gakkou ni kimashita.
+
+EN: Do you eat after praying?
+JP: 祈(いの)ってから、ご飯(はん)を食(た)べますか？
+RM: Inotte kara, gohan o tabemasu ka?
+
+EN: After playing tennis, I studied Japanese.
+JP: テニスをしてから、日本語(にほんご)を勉強(べんきょう)しました。
+RM: Tenisu o shite kara, nihongo o benkyou shimashita.
+
+## 227. Transitivity Pairs
+
+EN: Takeshi turned on the light.
+JP: たけしが電気(でんき)をつけました。
+RM: Takeshi ga denki o tsukemashita.
+
+EN: The light turned on.
+JP: 電気(でんき)がつきました。
+RM: Denki ga tsukimashita.
+
+EN: I put the apple in the basket.
+JP: りんごをかごに入(い)れました。
+RM: Ringo o kago ni iremashita.
+
+EN: The apple went into the basket.
+JP: りんごがかごに入(はい)りました。
+RM: Ringo ga kago ni hairimashita.
+
+EN: Sue is talking with her mother.
+JP: すーはお母(かあ)さんと話(はな)しています。
+RM: Suu wa okaasan to hanashite imasu.
+
+EN: Tom is married.
+JP: トムは結婚(けっこん)しています。
+RM: Tomu wa kekkon shite imasu.
+
+EN: Ken is opening the window.
+JP: けんは窓(まど)を開(あ)けています。
+RM: Ken wa mado o akete imasu.
+
+EN: The window is open.
+JP: 窓(まど)が開(あ)いています。
+RM: Mado ga aite imasu.
+
+EN: Tomo is turning off the light.
+JP: ともは電気(でんき)を消(け)しています。
+RM: Tomo wa denki o keshite imasu.
+
+EN: The light is off.
+JP: 電気(でんき)が消(き)えています。
+RM: Denki ga kiete imasu.
+
+EN: I will close the door.
+JP: ドアを閉(し)めます。
+RM: Doa o shimemasu.
+
+EN: The door is closed.
+JP: ドアが閉(し)まっています。
+RM: Doa ga shimatte imasu.
+
+EN: Please blow out the candle.
+JP: ろうそくを消(け)してください。
+RM: Rousoku o keshite kudasai.
+
+EN: I got my clothes dirty.
+JP: 洋服(ようふく)を汚(よご)しました。
+RM: Youfuku o yogoshimashita.
+
+EN: My shoes didn't get dirty.
+JP: 靴(くつ)が汚(よご)れませんでした。
+RM: Kutsu ga yogoremasen deshita.
+
+## 228. 〜てしまう (To complete doing something, and to regret doing something)
+
+EN: I finished reading the book.
+JP: 本(ほん)を読(よ)んでしまいました。
+RM: Hon o yonde shimaimashita.
+
+EN: I ate the whole cake.
+JP: ケーキを食(た)べてしまいました。
+RM: Keeki o tabete shimaimashita.
+
+EN: I accidentally forgot my textbook.
+JP: 教科書(きょうかしょ)を忘(わす)れてしまいました。
+RM: Kyoukasho o wasurete shimaimashita.
+
+EN: Miki couldn't help getting angry.
+JP: みきは怒(おこ)ってしまいました。
+RM: Miki wa okotte shimaimashita.
+
+EN: I forgot my textbook.
+JP: 教科書(きょうかしょ)を忘(わす)れちゃった。
+RM: Kyoukasho o wasurechatta.
+
+EN: I finished writing the essay.
+JP: エッセイを書(か)いてしまいました。
+RM: Essei o kaite shimaimashita.
+
+EN: I finished writing the essay.
+JP: エッセイを書(か)いちゃった。
+RM: Essei o kaichatta.
+
+EN: I unfortunately lost my house key.
+JP: 家(いえ)の鍵(かぎ)を失(な)くしてしまいました。
+RM: Ie no kagi o nakushite shimaimashita.
+
+EN: I lost my house key.
+JP: 家(いえ)の鍵(かぎ)を失(な)くしちゃった。
+RM: Ie no kagi o nakushichatta.
+
+EN: Yesterday, my dog sadly passed away.
+JP: 昨日(きのう)、犬(いぬ)が死(し)んでしまいました。
+RM: Kinou, inu ga shinde shimaimashita.
+
+EN: Yesterday, my dog passed away.
+JP: 昨日(きのう)、犬(いぬ)が死(し)んじゃった。
+RM: Kinou, inu ga shinjatta.
+
+## 229. 〜と (Whenever A, B)
+
+EN: When I talk with Tomo, I feel energized.
+JP: ともと話(はな)すと、元気(げんき)になります。
+RM: Tomo to hanasu to, genki ni narimasu.
+
+EN: When the road is congested, it takes more time.
+JP: 道(みち)が混(こ)んでいると、時間(じかん)がかかる。
+RM: Michi ga konde iru to, jikan ga kakaru.
+
+EN: When Mary goes back to America, we get lonely.
+JP: メアリーがアメリカに帰(かえ)ると、寂(さび)しくなります。
+RM: Mearii ga Amerika ni kaeru to, sabishiku narimasu.
+
+EN: When I was a child, I would catch a cold whenever winter came.
+JP: 子供(こども)の時(とき)、冬(ふゆ)になると風邪(かぜ)をひきました。
+RM: Kodomo no toki, fuyu ni naru to kaze o hikimashita.
+
+EN: Whenever I talk with Kana, we go to a café.
+JP: かなと話(はな)すとカフェに行(い)きます。
+RM: Kana to hanasu to kafe ni ikimasu.
+
+EN: When autumn comes, the trees turn red.
+JP: 秋(あき)になると、木(き)が赤(あか)くなります。
+RM: Aki ni naru to, ki ga akaku narimasu.
+
+EN: If letters don't arrive, I feel sad.
+JP: 手紙(てがみ)がこないと、悲(かな)しくなります。
+RM: Tegami ga konai to, kanashiku narimasu.
+
+EN: If you eat too much, you'll get sick.
+JP: 食(た)べすぎると、病気(びょうき)になります。
+RM: Tabesugiru to, byouki ni narimasu.
+
+EN: Whenever Ken comes to Japan, we eat sushi.
+JP: けんが日本(にほん)にくると、すしを食(た)べます。
+RM: Ken ga Nihon ni kuru to, sushi o tabemasu.
+
+EN: When spring comes, the flowers bloom.
+JP: 春(はる)になると、花(はな)が咲(さ)きます。
+RM: Haru ni naru to, hana ga sakimasu.
+
+## 230. 〜ながら (While doing...)
+
+EN: I always study Japanese while listening to music.
+JP: いつも音楽(おんがく)を聴(き)きながら日本語(にほんご)を勉強(べんきょう)します。
+RM: Itsumo ongaku o kikinagara nihongo o benkyou shimasu.
+
+EN: Takeshi is doing laundry while singing.
+JP: たけしは歌(うた)を歌(うた)いながら洗濯(せんたく)しています。
+RM: Takeshi wa uta o utainagara sentaku shite imasu.
+
+EN: Going to school while working a part-time job is tough.
+JP: アルバイトをしながら学校(がっこう)に行(い)くのは大変(たいへん)です。
+RM: Arubaito o shinagara gakkou ni iku no wa taihen desu.
+
+EN: I did my homework while watching TV.
+JP: テレビを観(み)ながら宿題(しゅくだい)をしました。
+RM: Terebi o minagara shukudai o shimashita.
+
+EN: You shouldn't eat while walking.
+JP: 歩(ある)きながら食(た)べないほうがいいです。
+RM: Arukinagara tabenai hou ga ii desu.
+
+EN: I like drinking wine while cooking.
+JP: 料理(りょうり)しながら、ワインを飲(の)むのが好(す)きです。
+RM: Ryouri shinagara, wain o nomu no ga suki desu.
+
+EN: It's difficult to think in Japanese while speaking English.
+JP: 英語(えいご)を話(はな)しながら、日本語(にほんご)で考(かんが)えるのはむずかしいです。
+RM: Eigo o hanashinagara, nihongo de kangaeru no wa muzukashii desu.
+
+## 231. 〜ばよかったです (I shouldn't have done...)
+
+EN: I should have bought the dress.
+JP: ドレスを買(か)えばよかったです。
+RM: Doresu o kaeba yokatta desu.
+
+EN: I shouldn't have drunk beer.
+JP: ビールを飲(の)まなければよかったです。
+RM: Biiru o nomanakereba yokatta desu.
+
+EN: I should have bought the camera.
+JP: カメラを買(か)えばよかったです。
+RM: Kamera o kaeba yokatta desu.
+
+EN: I shouldn't have bought the camera.
+JP: カメラを買(か)わなければよかったです。
+RM: Kamera o kawanakereba yokatta desu.
+
+EN: I should have gone to the party.
+JP: パーティーに行(い)けばよかったです。
+RM: Paatii ni ikeba yokatta desu.
+
+EN: I shouldn't have gone to the party.
+JP: パーティーに行(い)かなければよかったです。
+RM: Paatii ni ikanakereba yokatta desu.
+
+EN: I should have come earlier.
+JP: 早(はや)くくればよかったです。
+RM: Hayaku kureba yokatta desu.
+
+EN: I shouldn't have come early.
+JP: 早(はや)くこなければよかったです。
+RM: Hayaku konakereba yokatta desu.
+
+## 234. Honorific Verbs 1
+
+EN: The teacher is not at school.
+JP: 先生(せんせい)は学校(がっこう)にいらっしゃいません。
+RM: Sensei wa gakkou ni irasshaimasen.
+
+EN: What will you have?
+JP: 何(なに)を召(め)し上(あ)がりますか？
+RM: Nani o meshiagarimasu ka?
+
+EN: Miki's mother gave me this book.
+JP: みきのお母(かあ)さんがこの本(ほん)をくださいました。
+RM: Miki no okaasan ga kono hon o kudasaimashita.
+
+EN: I heard the teacher cooks.
+JP: 先生(せんせい)は料理(りょうり)なさるそうです。
+RM: Sensei wa ryouri nasaru sou desu.
+
+EN: Please don't worry.
+JP: 心配(しんぱい)なさらないでください。
+RM: Shinpai nasaranaide kudasai.
+
+EN: The teacher is watching TV.
+JP: 先生(せんせい)はテレビをご覧(らん)になっています。
+RM: Sensei wa terebi o goran ni natte imasu.
+
+EN: Ms. Suzuki eats bread every morning.
+JP: すずきさんは毎朝(まいあさ)パンを召(め)し上(あ)がります。
+RM: Suzuki-san wa maiasa pan o meshiagarimasu.
+
+EN: Did you watch the movie?
+JP: 映画(えいが)をご覧(らん)になりましたか？
+RM: Eiga o goran ni narimashita ka?
+
+EN: Ms. Sato did not come to school.
+JP: さとうさんは学校(がっこう)にいらっしゃいませんでした。
+RM: Satou-san wa gakkou ni irasshaimasen deshita.
+
+EN: What did Mr. Kato say?
+JP: かとうさんは何(なん)とおっしゃいましたか？
+RM: Katou-san wa nan to osshaimashita ka?
+
+EN: The teacher played tennis.
+JP: 先生(せんせい)はテニスをなさいました。
+RM: Sensei wa tenisu o nasaimashita.
+
+## 235. Honorific Verbs 2
+
+EN: (Someone) is listening to music.
+JP: 音楽(おんがく)を聞(き)いています。
+RM: Ongaku o kiite imasu.
+
+EN: (Someone) is respectfully listening to music.
+JP: 音楽(おんがく)を聞(き)いていらっしゃいます。
+RM: Ongaku o kiite irasshaimasu.
+
+EN: (Someone) is tired.
+JP: 疲(つか)れています。
+RM: Tsukarete imasu.
+
+EN: (Someone) is tired (respectful).
+JP: 疲(つか)れていらっしゃいます。
+RM: Tsukarete irasshaimasu.
+
+EN: It looks like (someone) is writing a letter.
+JP: 手紙(てがみ)を書(か)いているみたいです。
+RM: Tegami o kaite iru mitai desu.
+
+EN: It looks like (someone) is respectfully writing a letter.
+JP: 手紙(てがみ)を書(か)いていらっしゃるみたいです。
+RM: Tegami o kaite irassharu mitai desu.
+
+EN: (Someone) went home.
+JP: 帰(かえ)りました。
+RM: Kaerimashita.
+
+EN: (Someone) respectfully went home.
+JP: お帰(かえ)りになりました。
+RM: Okaeri ni narimashita.
+
+EN: (Someone) will read it.
+JP: 読(よ)みます。
+RM: Yomimasu.
+
+EN: (Someone) will respectfully read it.
+JP: お読(よ)みになります。
+RM: Oyomi ni narimasu.
+
+EN: Please use it.
+JP: 使(つか)ってください。
+RM: Tsukatte kudasai.
+
+EN: Please use it (respectfully).
+JP: お使(つか)いになってください。
+RM: Otsukai ni natte kudasai.
+
+EN: Ms. Suzuki is married.
+JP: すずきさんは結婚(けっこん)していらっしゃいます。
+RM: Suzuki-san wa kekkon shite irasshaimasu.
+
+EN: Mr. Tanaka is eating sushi.
+JP: たなかさんはすしを召(め)し上(あ)がっています。
+RM: Tanaka-san wa sushi o meshiagatte imasu.
+
+EN: Ms. Sasaki speaks English.
+JP: ささきさんは英語(えいご)をお話(はな)しになります。
+RM: Sasaki-san wa eigo o ohanashi ni narimasu.
+
+EN: The teacher will wait in front of the station.
+JP: 先生(せんせい)は駅(えき)の前(まえ)でお待(ま)ちになります。
+RM: Sensei wa eki no mae de omachi ni narimasu.
+
+EN: The teacher is waiting in front of the station.
+JP: 先生(せんせい)は駅(えき)の前(まえ)で待(ま)っていらっしゃいます。
+RM: Sensei wa eki no mae de matte irasshaimasu.
+
+## 236. Giving Respectful Advice
+
+EN: Please take a number ticket.
+JP: 整理券(せいりけん)をお取(と)りください。
+RM: Seiriken o otori kudasai.
+
+EN: Please read the instructions.
+JP: 説明(せつめい)をお読(よ)みください。
+RM: Setsumei o oyomi kudasai.
+
+EN: Please pass the salt.
+JP: 塩(しお)をお取(と)りください。
+RM: Shio o otori kudasai.
+
+EN: Please pass me the salt.
+JP: 塩(しお)を取(と)ってください。
+RM: Shio o totte kudasai.
+
+EN: Please be careful.
+JP: ご注意(ちゅうい)ください。
+RM: Gochuui kudasai.
+
+EN: Please get ready.
+JP: ご準備(じゅんび)ください。
+RM: Gojunbi kudasai.
+
+EN: Please take a look.
+JP: ご覧(らん)ください。
+RM: Goran kudasai.
+
+EN: Please get some rest.
+JP: お休(やす)みください。
+RM: Oyasumi kudasai.
+
+EN: Please help yourself.
+JP: お召(め)し上(あ)がりください。
+RM: Omeshiagari kudasai.
+
+EN: Please write down your name.
+JP: 名前(なまえ)をお書(か)きください。
+RM: Namae o okaki kudasai.
+
+EN: Please look at that temple.
+JP: あのお寺(てら)をご覧(らん)ください。
+RM: Ano otera o goran kudasai.
+
+EN: Please wait here.
+JP: ここでお待(ま)ちください。
+RM: Koko de omachi kudasai.
+
+EN: Please have a seat.
+JP: お座(すわ)りください。
+RM: Osuwari kudasai.
+
+EN: Please take your seats.
+JP: ご着席(ちゃくせき)ください。
+RM: Gochakuseki kudasai.
+
+## 237. 〜てくれてありがとう
+
+EN: Thank you for helping me.
+JP: 手伝(てつだ)ってくれてありがとう。
+RM: Tetsudatte kurete arigatou.
+
+EN: Thank you for being a good friend.
+JP: いい友達(ともだち)でいてくれてありがとう。
+RM: Ii tomodachi de ite kurete arigatou.
+
+EN: Thank you very much for writing the recommendation letter.
+JP: 推薦状(すいせんじょう)を書(か)いてくださってありがとうございました。
+RM: Suisenjou o kaite kudasatte arigatou gozaimashita.
+
+EN: Thank you for introducing me to your friend.
+JP: 友達(ともだち)を紹介(しょうかい)してくれてありがとう。
+RM: Tomodachi o shoukai shite kurete arigatou.
+
+EN: Thank you for inviting me.
+JP: 招待(しょうたい)してくれてありがとう。
+RM: Shoutai shite kurete arigatou.
+
+EN: Thank you for teaching me math.
+JP: 数学(すうがく)を教(おし)えてくれてありがとう。
+RM: Suugaku o oshiete kurete arigatou.
+
+EN: Thank you very much for treating me to dinner.
+JP: 夜(よる)ご飯(はん)を奢(おご)ってくださってありがとうございます。
+RM: Yorugohan o ogotte kudasatte arigatou gozaimasu.
+
+EN: Thank you very much for lending me money.
+JP: お金(かね)を貸(か)してくださってありがとうございます。
+RM: Okane o kashite kudasatte arigatou gozaimasu.
+
+EN: Thank you for being a good mother.
+JP: いいお母(かあ)さんでいてくれてありがとう。
+RM: Ii okaasan de ite kurete arigatou.
+
+## 238. 〜てよかったです
+
+EN: I'm glad I studied Japanese.
+JP: 日本語(にほんご)を勉強(べんきょう)してよかったです。
+RM: Nihongo o benkyou shite yokatta desu.
+
+EN: I'm glad Mary got better.
+JP: メアリーが元気(げんき)になってよかったです。
+RM: Mearii ga genki ni natte yokatta desu.
+
+EN: I'm glad I didn't go to the party.
+JP: パーティーに行(い)かなくてよかったです。
+RM: Paatii ni ikanakute yokatta desu.
+
+EN: I'm glad I studied honorific language.
+JP: 尊敬語(そんけいご)を勉強(べんきょう)してよかったです。
+RM: Sonkeigo o benkyou shite yokatta desu.
+
+EN: I'm glad it didn't rain.
+JP: 雨(あめ)が降(ふ)らなくてよかったです。
+RM: Ame ga furanakute yokatta desu.
+
+EN: I'm glad I had been saving money.
+JP: 貯金(ちょきん)していてよかったです。
+RM: Chokin shite ite yokatta desu.
+
+EN: I'm glad I didn't give up.
+JP: 諦(あきら)めないでよかったです。
+RM: Akiramenaide yokatta desu.
+
+## 239. 〜はずです
+
+EN: The bank should be closed.
+JP: 銀行(ぎんこう)はしまっているはずです。
+RM: Ginkou wa shimatte iru hazu desu.
+
+EN: The bank shouldn't be closed.
+JP: 銀行(ぎんこう)はしまっていないはずです。
+RM: Ginkou wa shimatte inai hazu desu.
+
+EN: The bank should have been closed.
+JP: 銀行(ぎんこう)はしまっていたはずです。
+RM: Ginkou wa shimatte ita hazu desu.
+
+EN: The bank shouldn't have been closed.
+JP: 銀行(ぎんこう)はしまっていなかったはずです。
+RM: Ginkou wa shimatte inakatta hazu desu.
+
+EN: I was supposed to get a call, but there was no call.
+JP: 電話(でんわ)をもらうはずでしたが、電話(でんわ)がありませんでした。
+RM: Denwa o morau hazu deshita ga, denwa ga arimasen deshita.
+
+EN: It should be interesting.
+JP: 面白(おもしろ)いはずです。
+RM: Omoshiroi hazu desu.
+
+EN: (Someone) should be fine.
+JP: 元気(げんき)なはずです。
+RM: Genki na hazu desu.
+
+EN: (Someone) should be a student.
+JP: 学生(がくせい)のはずです。
+RM: Gakusei no hazu desu.
+
+EN: Sue should be studying.
+JP: スーは勉強(べんきょう)するはずです。
+RM: Suu wa benkyou suru hazu desu.
+
+EN: There shouldn't be an exam today.
+JP: 今日(きょう)試験(しけん)がないはずです。
+RM: Kyou shiken ga nai hazu desu.
+
+EN: When I got home, Taka should have been cooking.
+JP: 家(いえ)に帰(かえ)ったとき、たかは料理(りょうり)していたはずです。
+RM: Ie ni kaetta toki, Taka wa ryouri shite ita hazu desu.
+
+EN: Canada should be bigger than America.
+JP: カナダのほうがアメリカより大(おお)きいはずです。
+RM: Kanada no hou ga Amerika yori ookii hazu desu.
+
+## 241. Extra- Modest Expressions
+
+EN: I will be in Japan next year as well.
+JP: 私(わたくし)は来年(らいねん)も日本(にほん)におります。
+RM: Watakushi wa rainen mo Nihon ni orimasu.
+
+EN: I graduated from university this past June.
+JP: 私(わたくし)は今年(ことし)の6月(ろくがつ)に大学(だいがく)を卒業(そつぎょう)いたしました。
+RM: Watakushi wa kotoshi no rokugatsu ni daigaku o sotsugyou itashimashita.
+
+EN: I have been studying Japanese for one year.
+JP: 私(わたくし)は1年間(いちねんかん)日本語(にほんご)を勉強(べんきょう)しております。
+RM: Watakushi wa ichinenkan nihongo o benkyou shite orimasu.
+
+EN: I have an interest in Japanese culture.
+JP: 私(わたくし)は日本(にほん)の文化(ぶんか)に興味(きょうみ)がございます。
+RM: Watakushi wa Nihon no bunka ni kyoumi ga gozaimasu.
+
+EN: My mother is a doctor.
+JP: 私(わたくし)の母(はは)は医者(いしゃ)でございます。
+RM: Watakushi no haha wa isha de gozaimasu.
+
+EN: The train is arriving.
+JP: 電車(でんしゃ)が参(まい)ります。
+RM: Densha ga mairimasu.
+
+EN: The restroom is on the second floor.
+JP: お手洗(てあら)いは2階(にかい)でございます。
+RM: Otearai wa nikai de gozaimasu.
+
+EN: Will you be coming to school tomorrow?
+JP: 明日(あした)学校(がっこう)にいらっしゃいますか？
+RM: Ashita gakkou ni irasshaimasu ka?
+
+EN: I will have some tea.
+JP: お茶(ちゃ)をいただきます。
+RM: Ocha o itadakimasu.
+
+EN: I will arrive at the office at 10am.
+JP: 午前(ごぜん)10時(じ)に事務所(じむしょ)に参(まい)ります。
+RM: Gozen juuji ni jimusho ni mairimasu.
+
+EN: I have a younger sister.
+JP: 妹(いもうと)がおります。
+RM: Imouto ga orimasu.
+
+EN: My father lives in Tokyo.
+JP: 父(ちち)は東京(とうきょう)に住(す)んでおります。
+RM: Chichi wa Toukyou ni sunde orimasu.
+
+## 242. Humble Expressions 1
+
+EN: I met with the teacher yesterday.
+JP: 昨日(きのう)、先生(せんせい)にお会(あ)いしました。
+RM: Kinou, sensei ni oai shimashita.
+
+EN: I plan to lend the teacher a book.
+JP: 先生(せんせい)に本(ほん)をお貸(か)しするつもりです。
+RM: Sensei ni hon o okashi suru tsumori desu.
+
+EN: I borrowed a dictionary from the teacher.
+JP: 先生(せんせい)に辞書(じしょ)をお借(か)りしました。
+RM: Sensei ni jisho o okari shimashita.
+
+EN: I sent Ms. Suzuki a letter.
+JP: すずきさんに手紙(てがみ)をお送(おく)りしました。
+RM: Suzuki-san ni tegami o ookuri shimashita.
+
+EN: I returned the dictionary to Mr. Aoki.
+JP: あおきさんに辞書(じしょ)をお返(かえ)ししました。
+RM: Aoki-san ni jisho o okaeshi shimashita.
+
+EN: I will introduce my mother to Ms. Tanaka.
+JP: たなかさんに母(はは)をご紹介(しょうかい)します。
+RM: Tanaka-san ni haha o goshoukai shimasu.
+
+EN: I called Mr. Nishida.
+JP: にしださんにお電話(でんわ)しました。
+RM: Nishida-san ni odenwa shimashita.
+
+## 243. Humble Expressions 2
+
+EN: I received this book from the teacher.
+JP: 先生(せんせい)にこの本(ほん)をいただきました。
+RM: Sensei ni kono hon o itadakimashita.
+
+EN: The teacher was kind enough to teach me kanji.
+JP: 先生(せんせい)に漢字(かんじ)を教(おし)えていただきました。
+RM: Sensei ni kanji o oshiete itadakimashita.
+
+EN: I will give the teacher a present.
+JP: 先生(せんせい)にプレゼントをさしあげます。
+RM: Sensei ni purezento o sashiagemasu.
+
+EN: I showed the teacher the map.
+JP: 先生(せんせい)に地図(ちず)をお見(み)せしました。
+RM: Sensei ni chizu o omise shimashita.
+
+EN: Let me turn on the TV for you.
+JP: テレビをおつけしましょう。
+RM: Terebi o otsuke shimashou.
+
+EN: The teacher arrived.
+JP: 先生(せんせい)がいらっしゃいました。
+RM: Sensei ga irasshaimashita.
+
+EN: My name is Mary.
+JP: 私(わたし)はメアリーと申(もう)します。
+RM: Watashi wa Mearii to moushimasu.
+
+EN: I returned the book to the teacher.
+JP: 私(わたし)は先生(せんせい)に本(ほん)をお返(かえ)ししました。
+RM: Watashi wa sensei ni hon o okaeshi shimashita.
+
+EN: I received a certificate of appreciation from the principal.
+JP: 校長先生(こうちょうせんせい)に感謝状(かんしゃじょう)をいただきました。
+RM: Kouchou sensei ni kanshajou o itadakimashita.
+
+EN: Ms. Nonaka was kind enough to take me to the hospital.
+JP: のなかさんに病院(びょういん)に連(つ)れて行(い)っていただきました。
+RM: Nonaka-san ni byouin ni tsurete itte itadakimashita.
+
+EN: I will give this cake to Mr. Nakao.
+JP: このケーキをなかおさんに差(さ)し上(あ)げます。
+RM: Kono keeki o Nakao-san ni sashiagemasu.
+
+## 244. 〜ないで
+
+EN: I read the newspaper without using a dictionary.
+JP: 辞書(じしょ)を使(つか)わないで新聞(しんぶん)を読(よ)みます。
+RM: Jisho o tsukawaide shinbun o yomimasu.
+
+EN: I went out without checking the weather forecast.
+JP: 天気予報(てんきよほう)を確認(かくにん)しないで、出(で)かけました。
+RM: Tenki yohou o kakunin shinaide, dekakemashita.
+
+EN: I bought an expensive watch without thinking.
+JP: 考(かんが)えないで、高(たか)い時計(とけい)を買(か)いました。
+RM: Kangaenaide, takai tokei o kaimashita.
+
+EN: Can you read a Japanese book without using a dictionary?
+JP: 辞書(じしょ)を使(つか)わないで、日本語(にほんご)の本(ほん)を読(よ)めますか？
+RM: Jisho o tsukawaide, nihongo no hon o yomemasu ka?
+
+EN: Have you ever traveled without booking a hotel?
+JP: ホテルを予約(よやく)しないで、旅行(りょこう)したことがありますか？
+RM: Hoteru o yoyaku shinaide, ryokou shita koto ga arimasu ka?
+
+EN: I ate cookies without washing my hands.
+JP: 手(て)を洗(あら)わないで、クッキーを食(た)べました。
+RM: Te o arawaide, kukkii o tabemashita.
+
+## 245. Questions within Larger Sentences
+
+EN: I don't remember what he ate yesterday.
+JP: 昨日(きのう)何(なに)を食(た)べたか覚(おぼ)えていません。
+RM: Kinou nani o tabeta ka oboete imasen.
+
+EN: Do you know where Mary lives?
+JP: メアリーがどこに住(す)んでいるか知(し)っていますか？
+RM: Mearii ga doko ni sunde iru ka shitte imasu ka?
+
+EN: I don't know whether I'll go to school tomorrow.
+JP: 明日(あした)学校(がっこう)に行(い)くかどうかわかりません。
+RM: Ashita gakkou ni iku ka dou ka wakarimasen.
+
+EN: I don't know who is the best.
+JP: 誰(だれ)が一番(いちばん)上手(じょうず)かわかりません。
+RM: Dare ga ichiban jouzu ka wakarimasen.
+
+EN: I don't know who was the best.
+JP: 誰(だれ)が一番(いちばん)上手(じょうず)だったかわかりません。
+RM: Dare ga ichiban jouzu datta ka wakarimasen.
+
+EN: I don't know whether Ken is a student.
+JP: けんが学生(がくせい)かどうかわかりません。
+RM: Ken ga gakusei ka dou ka wakarimasen.
+
+EN: I don't know whether Ken was a student.
+JP: けんが学生(がくせい)だったかどうかわかりません。
+RM: Ken ga gakusei datta ka dou ka wakarimasen.
+
+EN: I don't know what Takeshi ate.
+JP: たけしが何(なに)を食(た)べたか知(し)りません。
+RM: Takeshi ga nani o tabeta ka shirimasen.
+
+EN: I don't know how long it takes to get to the airport.
+JP: 空港(くうこう)までどのくらいかかるか知(し)りません。
+RM: Kuukou made dono kurai kakaru ka shirimasen.
+
+EN: I don't know whether I can become a lawyer.
+JP: 弁護士(べんごし)になれるかどうかわかりません。
+RM: Bengoshi ni nareru ka dou ka wakarimasen.
+
+EN: Do you know what kind of person lives in the room next door?
+JP: 隣(となり)の部屋(へや)にどんな人(ひと)が住(す)んでいるか知(し)っていますか？
+RM: Tonari no heya ni donna hito ga sunde iru ka shitte imasu ka?
+
+EN: I don't know what kind of person lives in the room next door.
+JP: 隣(となり)の部屋(へや)にどんな人(ひと)が住(す)んでいるか知(し)りません。
+RM: Tonari no heya ni donna hito ga sunde iru ka shirimasen.
+
+EN: Do you know what Mary's hobby is?
+JP: メアリーの趣味(しゅみ)が何(なに)か知(し)っていますか？
+RM: Mearii no shumi ga nani ka shitte imasu ka?
+
+## 246. name という item
+
+EN: I used to keep a dog named Pochi.
+JP: ぽちという犬(いぬ)を飼(か)っていました。
+RM: Pochi to iu inu o katte imashita.
+
+EN: I sang a song called "Hana."
+JP: 花(はな)という歌(うた)を歌(うた)いました。
+RM: Hana to iu uta o utaimashita.
+
+EN: I will read a book called "Tomodachi."
+JP: ともだちという本(ほん)を読(よ)みます。
+RM: Tomodachi to iu hon o yomimasu.
+
+EN: I became friends with a person named Tomo.
+JP: ともという人(ひと)と友達(ともだち)になりました。
+RM: Tomo to iu hito to tomodachi ni narimashita.
+
+EN: I worked part-time at a restaurant called Sukiya.
+JP: すきやというレストランでバイトしました。
+RM: Sukiya to iu resutoran de baito shimashita.
+
+EN: Is the person named Daiki your younger brother?
+JP: だいきという人(ひと)はあなたの弟(おとうと)ですか？
+RM: Daiki to iu hito wa anata no otouto desu ka?
+
+## 247. 〜やすい 〜にくい
+
+EN: This computer is easy to use.
+JP: このパソコンは使(つか)いやすいです。
+RM: Kono pasokon wa tsukaiyasui desu.
+
+EN: This book wasn't easy to read.
+JP: この本(ほん)は読(よ)みやすくなかったです。
+RM: Kono hon wa yomiyasukunakatta desu.
+
+EN: The fish is hard to eat.
+JP: 魚(さかな)は食(た)べにくいです。
+RM: Sakana wa tabenikui desu.
+
+EN: This town is very easy to live in.
+JP: この町(まち)はとても住(す)みやすいです。
+RM: Kono machi wa totemo sumiyasui desu.
+
+EN: This cup is hard to drink from.
+JP: このコップは飲(の)みにくいです。
+RM: Kono koppu wa nominikui desu.
+
+EN: This chair is uncomfortable to sit on.
+JP: このいすは座(すわ)りにくい。
+RM: Kono isu wa suwarinikui.
+
+EN: It's difficult to get a seat on this chair.
+JP: このいすに座(すわ)るのは難(むずか)しい。
+RM: Kono isu ni suwaru no wa muzukashii.
+
+EN: It's embarrassing to buy this magazine.
+JP: この雑誌(ざっし)は買(か)いにくい。
+RM: Kono zasshi wa kainikui.
+
+EN: It's difficult to get hold of this magazine.
+JP: この雑誌(ざっし)を買(か)うのは難(むずか)しい。
+RM: Kono zasshi o kau no wa muzukashii.
+
+EN: Since prices are low, this country is easy to live in.
+JP: 物価(ぶっか)が安(やす)いから、この国(くに)は住(す)みやすいです。
+RM: Bukka ga yasui kara, kono kuni wa sumiyasui desu.
+
+EN: That corner is narrow, so it's hard to turn there.
+JP: あそこの曲(ま)がり角(かど)は狭(せま)いから、曲(ま)がりにくいです。
+RM: Asoko no magarikado wa semai kara, magarinikui desu.
+
+EN: Mary is gentle and kind, so she's easy to talk to.
+JP: メアリーは優(やさ)しくて親切(しんせつ)だから、話(はな)しやすいです。
+RM: Mearii wa yasashikute shinsetsu dakara, hanashiyasui desu.
+
+EN: The letters are small, so this book is hard to read.
+JP: 文字(もじ)が小(ちい)さいから、この本(ほん)は読(よ)みにくいです。
+RM: Moji ga chiisai kara, kono hon wa yominikui desu.
+
+## 250. Passive Sentences 1
+
+EN: My friend used the car.
+JP: 友達(ともだち)が車(くるま)を使(つか)いました。
+RM: Tomodachi ga kuruma o tsukaimashita.
+
+EN: My car was used by my friend, and I wasn't happy about it.
+JP: 友達(ともだち)に車(くるま)を使(つか)われました。
+RM: Tomodachi ni kuruma o tsukawaremashita.
+
+EN: I was bothered by Masa smoking near me.
+JP: 私(わたし)はまさにタバコを吸(す)われました。
+RM: Watashi wa Masa ni tabako o suwaremashita.
+
+EN: I heard Taka's password was stolen by someone.
+JP: たかは誰(だれ)かにパスワードを盗(ぬす)まれたそうです。
+RM: Taka wa dareka ni pasuwaado o nusumareta sou desu.
+
+EN: Takeshi is often laughed at by Mary.
+JP: たけしはメアリーによく笑(わら)われます。
+RM: Takeshi wa Mearii ni yoku warawaremasu.
+
+EN: Kai was complained to by a customer.
+JP: かいはお客(きゃく)さんに苦情(くじょう)を言(い)われました。
+RM: Kai wa okyakusan ni kujou o iwaremashita.
+
+EN: Maki had her bag stolen by a thief.
+JP: まきは泥棒(どろぼう)にカバンを盗(ぬす)まれました。
+RM: Maki wa dorobou ni kaban o nusumaremashita.
+
+EN: I wasn't invited to the party by Ken.
+JP: 私(わたし)はけんにパーティーに招待(しょうたい)されませんでした。
+RM: Watashi wa Ken ni paatii ni shoutai saremasen deshita.
+
+EN: Do strangers take your picture without permission?
+JP: あなたは知(し)らない人(ひと)に写真(しゃしん)を撮(と)られますか？
+RM: Anata wa shiranai hito ni shashin o toraremasu ka?
+
+EN: Have you ever been kicked by Taro?
+JP: たろうに蹴(け)られたことがありますか？
+RM: Tarou ni kerareta koto ga arimasu ka?
+
+## 251. Passive Sentences 2
+
+EN: My diary was read by Aki, and it bothered me.
+JP: 私(わたし)はあきに日記(にっき)を読(よ)まれました。
+RM: Watashi wa Aki ni nikki o yomaremashita.
+
+EN: I had Aki read my diary for me.
+JP: 私(わたし)はあきに日記(にっき)を読(よ)んでもらいました。
+RM: Watashi wa Aki ni nikki o yonde moraimashita.
+
+EN: I was asked out on a date by that person.
+JP: 私(わたし)はその人(ひと)にデートに誘(さそ)われました。
+RM: Watashi wa sono hito ni deeto ni sasowaremashita.
+
+EN: I was introduced to someone by my older brother's friend.
+JP: 私(わたし)は兄(あに)の友達(ともだち)に紹介(しょうかい)されました。
+RM: Watashi wa ani no tomodachi ni shoukai saremashita.
+
+EN: I wasn't invited to the party by Mako.
+JP: 私(わたし)はまこにパーティーに呼(よ)ばれませんでした。
+RM: Watashi wa Mako ni paatii ni yobaremasen deshita.
+
+EN: Ken is respected by everyone.
+JP: けんはみんなに尊敬(そんけい)されています。
+RM: Ken wa minna ni sonkei sarete imasu.
+
+EN: I got caught in the rain.
+JP: 私(わたし)は雨(あめ)に降(ふ)られました。
+RM: Watashi wa ame ni furaremashita.
+
+EN: This park was built ten years ago.
+JP: この公園(こうえん)は10年前(じゅうねんまえ)に建(た)てられました。
+RM: Kono kouen wa juunen mae ni tateraremashita.
+
+EN: The details of the event were not announced.
+JP: イベントの詳細(しょうさい)は発表(はっぴょう)されませんでした。
+RM: Ibento no shousai wa happyou saremasen deshita.
+
+EN: Is this book read all over the world?
+JP: この本(ほん)は世界中(せかいじゅう)で読(よ)まれますか？
+RM: Kono hon wa sekaijuu de yomaremasu ka?
+
+EN: Do you want to be invited to the meeting?
+JP: 会議(かいぎ)に招待(しょうたい)されたいですか？
+RM: Kaigi ni shoutai saretai desu ka?
+
+EN: While I was on the phone with my mother, my name was called.
+JP: お母(かあ)さんに電話(でんわ)しているとき、名前(なまえ)が呼(よ)ばれました。
+RM: Okaasan ni denwa shite iru toki, namae ga yobaremashita.
+
+## 252. 〜てある
+
+EN: Since it's cold, the heater has been left on.
+JP: 寒(さむ)いので、ストーブがつけてあります。
+RM: Samui node, sutoobu ga tsukete arimasu.
+
+EN: There is a book placed on the table.
+JP: テーブルの上(うえ)に本(ほん)が置(お)いてあります。
+RM: Teeburu no ue ni hon ga oite arimasu.
+
+EN: The restaurant reservation has been made.
+JP: レストランの予約(よやく)がしてあります。
+RM: Resutoran no yoyaku ga shite arimasu.
+
+EN: I made a reservation in advance.
+JP: 予約(よやく)をしておきました。
+RM: Yoyaku o shite okimashita.
+
+EN: Bread has been bought and is ready.
+JP: パンが買(か)ってあります。
+RM: Pan ga katte arimasu.
+
+EN: I bought bread in advance.
+JP: パンを買(か)っておきました。
+RM: Pan o katte okimashita.
+
+EN: The window has been closed and left that way.
+JP: 窓(まど)が閉(し)めてあります。
+RM: Mado ga shimete arimasu.
+
+EN: The window is closed.
+JP: 窓(まど)が閉(し)まっています。
+RM: Mado ga shimatte imasu.
+
+EN: Dinner has been made. Let's eat!
+JP: 夜(よる)ご飯(はん)が作(つく)ってあります。食(た)べましょう！
+RM: Yorugohan ga tsukutte arimasu. Tabemashou!
+
+EN: It's cold, isn't it? Has the heater been turned on?
+JP: 寒(さむ)いですね。ヒーターはつけてありますか？
+RM: Samui desu ne. Hiitaa wa tsukete arimasu ka?
+
+EN: It looks like the light has been turned off.
+JP: 電気(でんき)が消(け)してあるみたいです。
+RM: Denki ga keshite aru mitai desu.
+
+## 253. 〜間に
+
+EN: While I was taking a bath, there was a phone call.
+JP: お風呂(ふろ)に入(はい)っている間(あいだ)に、電話(でんわ)がありました。
+RM: Ofuro ni haitte iru aida ni, denwa ga arimashita.
+
+EN: While I was sleeping last night, there was an earthquake.
+JP: 昨夜(さくや)寝(ね)ている間(あいだ)に、地震(じしん)がありました。
+RM: Sakuya nete iru aida ni, jishin ga arimashita.
+
+EN: While my mother is in Japan, I want to take her to Kyoto.
+JP: 母(はは)が日本(にほん)にいる間(あいだ)に、京都(きょうと)に連(つ)れて行(い)きたいです。
+RM: Haha ga Nihon ni iru aida ni, Kyouto ni tsurete ikitai desu.
+
+EN: While I was out, a friend came over.
+JP: 留守(るす)の間(あいだ)に、友達(ともだち)が来(き)ました。
+RM: Rusu no aida ni, tomodachi ga kimashita.
+
+EN: The whole time Maki was using the computer, I waited reading a book.
+JP: まきがパソコンを使(つか)っている間(あいだ)、私(わたし)は本(ほん)を読(よ)んで待(ま)ちました。
+RM: Maki ga pasokon o tsukatte iru aida, watashi wa hon o yonde machimashita.
+
+EN: While I was changing clothes, Taka kindly made coffee for me.
+JP: 私(わたし)が着替(きが)えている間(あいだ)に、たかがコーヒーを作(つく)ってくれました。
+RM: Watashi ga kigaete iru aida ni, Taka ga koohii o tsukutte kuremashita.
+
+EN: While the baby is sleeping, I will make dinner.
+JP: 赤(あか)ちゃんが寝(ね)ている間(あいだ)に、夜(よる)ご飯(はん)を作(つく)ります。
+RM: Akachan ga nete iru aida ni, yorugohan o tsukurimasu.
+
+EN: While you were taking a bath, there was a call from Ken.
+JP: あなたがお風呂(ふろ)に入(はい)っている間(あいだ)に、けんから電話(でんわ)がありました。
+RM: Anata ga ofuro ni haitte iru aida ni, Ken kara denwa ga arimashita.
+
+## 254. Adjective +する
+
+EN: I made the room clean.
+JP: 部屋(へや)を綺麗(きれい)にしました。
+RM: Heya o kirei ni shimashita.
+
+EN: Please make the story more interesting.
+JP: 話(はなし)をおもしろくしてください。
+RM: Hanashi o omoshiroku shite kudasai.
+
+EN: I want to make my hair like Mary's.
+JP: 髪(かみ)をメアリーみたいにしたいです。
+RM: Kami o Mearii mitai ni shitai desu.
+
+EN: Let's make the world better.
+JP: 世界(せかい)をよくしましょう。
+RM: Sekai o yoku shimashou.
+
+EN: To make it quiet.
+JP: 静(しず)かにする。
+RM: Shizuka ni suru.
+
+EN: Please be quiet.
+JP: 静(しず)かにしてください。
+RM: Shizuka ni shite kudasai.
+
+EN: Since my parents are coming, I have to clean the room.
+JP: 両親(りょうしん)がくるので、部屋(へや)を綺麗(きれい)にしなくちゃいけません。
+RM: Ryoushin ga kuru node, heya o kirei ni shinakucha ikemasen.
+
+EN: There are so many words to memorize. Please reduce the number.
+JP: 覚(おぼ)える単語(たんご)がたくさんあります。少(すく)なくしてください。
+RM: Oboeru tango ga takusan arimasu. Sukunaku shite kudasai.
+
+EN: Two thousand yen is too expensive. Could you make it cheaper?
+JP: 2千円(にせんえん)は高(たか)すぎます。安(やす)くしていただけませんか？
+RM: Nisen'en wa takasugimasu. Yasuku shite itadakemasen ka?
+
+EN: My coworker came to my room and made it dirty.
+JP: 同僚(どうりょう)が部屋(へや)にきて、部屋(へや)を汚(きたな)くしました。
+RM: Douryou ga heya ni kite, heya o kitanaku shimashita.
+
+## 255. 〜てほしい
+
+EN: I want Ken to help me with my homework.
+JP: けんに宿題(しゅくだい)を手伝(てつだ)ってほしいです。
+RM: Ken ni shukudai o tetsudatte hoshii desu.
+
+EN: I wanted Sato to eat the cake.
+JP: さとにケーキを食(た)べてほしかったです。
+RM: Sato ni keeki o tabete hoshikatta desu.
+
+EN: I don't want Taka to smoke.
+JP: たかにたばこを吸(す)ってほしくありません。
+RM: Taka ni tabako o sutte hoshiku arimasen.
+
+EN: I don't want Taka to smoke.
+JP: たかにたばこを吸(す)わないでほしいです。
+RM: Taka ni tabako o suwanaide hoshii desu.
+
+EN: I don't want Misa to sing.
+JP: みさに歌(うた)ってほしくありません。
+RM: Misa ni utatte hoshiku arimasen.
+
+EN: I don't want Misa to sing.
+JP: みさに歌(うた)わないでほしいです。
+RM: Misa ni utawanaide hoshii desu.
+
+EN: I want Ken to be quiet.
+JP: けんに静(しず)かにしてほしいです。
+RM: Ken ni shizuka ni shite hoshii desu.
+
+EN: I want Takeshi to teach me Japanese.
+JP: たけしに日本語(にほんご)を教(おし)えてほしいです。
+RM: Takeshi ni nihongo o oshiete hoshii desu.
+
+EN: I don't want Mary to be late.
+JP: メアリーに遅刻(ちこく)してほしくないです。
+RM: Mearii ni chikoku shite hoshikunai desu.
+
+EN: I don't want Mary to be late.
+JP: メアリーに遅刻(ちこく)しないでほしいです。
+RM: Mearii ni chikoku shinaide hoshii desu.
+
+EN: I had wanted Maki to come to my birthday party.
+JP: まきに誕生日(たんじょうび)パーティーにきてほしかったです。
+RM: Maki ni tanjoubi paatii ni kite hoshikatta desu.
+
+EN: I hadn't wanted Hana to eat the pudding.
+JP: はなにプリンを食(た)べてほしくなかったです。
+RM: Hana ni purin o tabete hoshikunakatta desu.
+
+EN: I hadn't wanted Hana to eat the pudding.
+JP: はなにプリンを食(た)べないでほしかったです。
+RM: Hana ni purin o tabenaide hoshikatta desu.
+
+## 256. Causative Sentences 1
+
+EN: The father made/let his child eat vegetables.
+JP: お父(とう)さんは子供(こども)に野菜(やさい)を食(た)べさせました。
+RM: Otousan wa kodomo ni yasai o tabesasemashita.
+
+EN: The mother made/let her child read the book.
+JP: お母(かあ)さんは子供(こども)に本(ほん)を読(よ)ませました。
+RM: Okaasan wa kodomo ni hon o yomasemashita.
+
+EN: I accidentally made the child cry.
+JP: 私(わたし)はその子供(こども)を泣(な)かせてしまいました。
+RM: Watashi wa sono kodomo o nakasete shimaimashita.
+
+EN: Allen made everyone laugh.
+JP: アレンはみんなを笑(わら)わせました。
+RM: Aren wa minna o warawasemashita.
+
+EN: The teacher made me go to the bathroom.
+JP: 先生(せんせい)は私(わたし)をトイレに行(い)かせました。
+RM: Sensei wa watashi o toire ni ikasemashita.
+
+EN: That person made me sit there.
+JP: その人(ひと)は私(わたし)をそこに座(すわ)らせました。
+RM: Sono hito wa watashi o soko ni suwarasemashita.
+
+EN: Maki made me read books.
+JP: まきは私(わたし)に本(ほん)を読(よ)ませました。
+RM: Maki wa watashi ni hon o yomasemashita.
+
+EN: The department manager ordered Ken to work overtime.
+JP: 部長(ぶちょう)はけんを残業(ざんぎょう)させました。
+RM: Buchou wa Ken o zangyou sasemashita.
+
+EN: The teacher made the students look the word up in a dictionary.
+JP: 先生(せんせい)は生徒(せいと)に辞書(じしょ)で言葉(ことば)を調(しら)べさせました。
+RM: Sensei wa seito ni jisho de kotoba o shirabesasemashita.
+
+EN: The department manager plans on making Ken go on a business trip.
+JP: 部長(ぶちょう)はけんを出張(しゅっちょう)に行(い)かせるつもりです。
+RM: Buchou wa Ken o shucchou ni ikaseru tsumori desu.
+
+EN: Ken will let Mary bring his phone.
+JP: けんはメアリーに携帯電話(けいたいでんわ)を持(も)っていかせます。
+RM: Ken wa Mearii ni keitaidenwa o motte ikasemasu.
+
+EN: Will you allow Taka to use your car?
+JP: たかに車(くるま)を使(つか)わせますか？
+RM: Taka ni kuruma o tsukawasemasu ka?
+
+## 257. Causative Sentences 2
+
+EN: Taka did not allow me to speak in English.
+JP: たかは私(わたし)に英語(えいご)を話(はな)させてくれませんでした。
+RM: Taka wa watashi ni eigo o hanasasete kuremasen deshita.
+
+EN: I think I will let Kai go to Spain.
+JP: 私(わたし)はかいをスペインに行(い)かせてあげるつもりです。
+RM: Watashi wa Kai o Supein ni ikasete ageru tsumori desu.
+
+EN: Please let me do this job.
+JP: 私(わたし)にこの仕事(しごと)をさせてください。
+RM: Watashi ni kono shigoto o sasete kudasai.
+
+EN: My parent did not let me keep (own) a dog.
+JP: 両親(りょうしん)は私(わたし)に犬(いぬ)を飼(か)わせてくれませんでした。
+RM: Ryoushin wa watashi ni inu o kawasete kuremasen deshita.
+
+EN: My father will not let me live alone.
+JP: お父(とう)さんは私(わたし)に一人暮(ひとりぐ)らしさせてくれません。
+RM: Otousan wa watashi ni hitorigurashi sasete kuremasen.
+
+EN: Ken let me play his guitar yesterday.
+JP: 昨日(きのう)けんにギターを弾(ひ)かせてもらいました。
+RM: Kinou Ken ni gitaa o hikasete moraimashita.
+
+EN: I will let Mia use my laptop.
+JP: みあにパソコンを使(つか)わせてあげます。
+RM: Mia ni pasokon o tsukawasete agemasu.
+
+EN: Please let me eat this pasta.
+JP: このパスタを食(た)べさせてください。
+RM: Kono pasuta o tabesasete kudasai.
+
+EN: Please let me take a break.
+JP: 休憩(きゅうけい)させてください。
+RM: Kyuukei sasete kudasai.
+
+## 258. Verb Stem + なさい (Command)
+
+EN: Call home everyday.
+JP: 毎日(まいにち)うちに電話(でんわ)しなさい。
+RM: Mainichi uchi ni denwa shinasai.
+
+EN: Listen to what the teacher has to say.
+JP: 先生(せんせい)の言(い)うことを聞(き)きなさい。
+RM: Sensei no iu koto o kikinasai.
+
+EN: Fill in the blanks with a word.
+JP: 空欄(くうらん)に単語(たんご)を入(い)れなさい。
+RM: Kuuran ni tango o irenasai.
+
+EN: Wake up.
+JP: 起(お)きなさい。
+RM: Okinasai.
+
+EN: Go to school.
+JP: 学校(がっこう)に行(い)きなさい。
+RM: Gakkou ni ikinasai.
+
+EN: Eat carrots.
+JP: にんじんを食(た)べなさい。
+RM: Ninjin o tabenasai.
+
+EN: Wear this shirt.
+JP: このシャツを着(き)なさい。
+RM: Kono shatsu o kinasai.
+
+EN: Speak in Japanese.
+JP: 日本語(にほんご)を話(はな)しなさい。
+RM: Nihongo o hanashinasai.
+
+## 259. 〜ば (Conditional Statement)
+
+EN: If you have a car, you can go to various places.
+JP: 車(くるま)があれば、色々(いろいろ)なところに行(い)けます。
+RM: Kuruma ga areba, iroiro na tokoro ni ikemasu.
+
+EN: If you lock the door, you won't have your apartment broken into.
+JP: 鍵(かぎ)をかけておけば、泥棒(どろぼう)に入(はい)られません。
+RM: Kagi o kakete okeba, dorobou ni hairaremasen.
+
+EN: If you do not tell the landlord, he will never find that out.
+JP: 大家(おおや)さんに言(い)わなければ、分(わ)かりませんよ。
+RM: Ooyasan ni iwanakereba, wakarimasen yo.
+
+EN: You will be okay if you take this medicine.
+JP: この薬(くすり)を飲(の)めば、大丈夫(だいじょうぶ)です。
+RM: Kono kusuri o nomeba, daijoubu desu.
+
+EN: All you have to do is ask the teacher.
+JP: 先生(せんせい)に聞(き)けば、いいんです。
+RM: Sensei ni kikeba, iin desu.
+
+EN: If you sleep early, you won't be sleepy tomorrow.
+JP: 早(はや)く寝(ね)れば、明日(あした)眠(ねむ)たくなりません。
+RM: Hayaku nereba, ashita nemutaku narimasen.
+
+EN: If you take a taxi, you will be on time.
+JP: タクシーに乗(の)れば、間(ま)に合(あ)います。
+RM: Takushii ni noreba, maniaimasu.
+
+EN: If we make a reservation in advance, we will be all right.
+JP: 前(まえ)もって予約(よやく)すれば、大丈夫(だいじょうぶ)です。
+RM: Maemotte yoyaku sureba, daijoubu desu.
+
+EN: If you work overtime, the project will be completed.
+JP: 残業(ざんぎょう)すれば、プロジェクトは完成(かんせい)します。
+RM: Zangyou sureba, purojekuto wa kansei shimasu.
+
+## 260. 〜のに (Even though...)
+
+EN: This company is rich, but its workers' salary is low.
+JP: この会社(かいしゃ)はお金(かね)があるのに、給料(きゅうりょう)は低(ひく)いです。
+RM: Kono kaisha wa okane ga aru noni, kyuuryou wa hikui desu.
+
+EN: She is home but does not answer the phone.
+JP: 家(いえ)にいるのに、電話(でんわ)にでない。
+RM: Ie ni iru noni, denwa ni denai.
+
+EN: Ken is nice, but Miki does not like him.
+JP: けんは親切(しんせつ)なのに、みきはけんが嫌(きら)いです。
+RM: Ken wa shinsetsu na noni, Miki wa Ken ga kirai desu.
+
+EN: It is a big issue, but he does not consult with anybody.
+JP: 大(おお)きい問題(もんだい)なのに、あの人(ひと)はだれにも相談(そうだん)しません。
+RM: Ookii mondai na noni, ano hito wa dare ni mo soudan shimasen.
+
+EN: This Japanese is a bit difficult, but please read it.
+JP: 少(すこ)し難(むずか)しいけど、これを読(よ)んでください。
+RM: Sukoshi muzukashii kedo, kore o yonde kudasai.
+
+EN: The food does not look very promising, but let's eat here.
+JP: あまり美味(おい)しそうじゃないけど、ここで食(た)べましょう。
+RM: Amari oishisou ja nai kedo, koko de tabemashou.
+
+EN: Although I have a final exam today, I did not study.
+JP: 今日(きょう)期末試験(きまつしけん)があるのに、勉強(べんきょう)しませんでした。
+RM: Kyou kimatsushiken ga aru noni, benkyou shimasen deshita.
+
+EN: Although I practiced everyday, we lost.
+JP: 毎日(まいにち)練習(れんしゅう)したのに、負(ま)けました。
+RM: Mainichi renshuu shita noni, makemashita.
+
+EN: Although I did not practice everyday, I won.
+JP: 毎日(まいにち)練習(れんしゅう)しなかったのに、勝(か)ちました。
+RM: Mainichi renshuu shinakatta noni, kachimashita.
+
+EN: Although I gave Ken a present, he did not say thank you.
+JP: けんにプレゼントをあげたのに、けんはありがとうと言(い)いませんでした。
+RM: Ken ni purezento o ageta noni, Ken wa arigatou to iimasen deshita.
+
+## 261. 〜のような・〜のように (Like...)
+
+EN: I like towns like Kamakura.
+JP: 鎌倉(かまくら)のようなまちが好(す)きです。
+RM: Kamakura no you na machi ga suki desu.
+
+EN: I want to be a person like Mary.
+JP: メアリーのような人(ひと)になりたいです。
+RM: Mearii no you na hito ni naritai desu.
+
+EN: Mary can swim very well, just like a fish.
+JP: メアリーは魚(さかな)のように上手(じょうず)に泳(およ)げます。
+RM: Mearii wa sakana no you ni jouzu ni oyogemasu.
+
+EN: Ken is strong like Takeshi.
+JP: けんはたけしのように強(つよ)いです。
+RM: Ken wa Takeshi no you ni tsuyoi desu.
+
+EN: Ken says the same thing over and over again, just like a broken vinyl record.
+JP: けんは壊(こわ)れたレコードのように同(おな)じことを言(い)います。
+RM: Ken wa kowareta rekoodo no you ni onaji koto o iimasu.
+
+EN: This town is as quiet as a graveyard at night.
+JP: この街(まち)は夜(よる)の墓場(はかば)のように静(しず)かです。
+RM: Kono machi wa yoru no hakaba no you ni shizuka desu.
+
+EN: I like movies like Titanic.
+JP: タイタニックのような映画(えいが)が好(す)きです。
+RM: Taitanikku no you na eiga ga suki desu.
+
+EN: Maya can sing well like a bird.
+JP: まやは鳥(とり)のように上手(じょうず)に歌(うた)えます。
+RM: Maya wa tori no you ni jouzu ni utaemasu.
+
+EN: I don't want to live in a city like Tokyo.
+JP: 東京(とうきょう)のような街(まち)に住(す)みたくないです。
+RM: Toukyou no you na machi ni sumitakunai desu.
+
+EN: I want to be famous like Taylor Swift.
+JP: テイラー・スイフトのように有名(ゆうめい)になりたいです。
+RM: Teiraa Suifuto no you ni yuumei ni naritai desu.
+
+## 262. Causative-Passive Sentences
+
+EN: I was forced to sing by my older brother.
+JP: 私(わたし)は兄(あに)に歌(うた)を歌(うた)わされました。
+RM: Watashi wa ani ni uta o utawasaremashita.
+
+EN: I am always made to eat meat by Miki.
+JP: 私(わたし)はみきにいつも肉(にく)を食(た)べさせられます。
+RM: Watashi wa Miki ni itsumo niku o tabesaseraremasu.
+
+EN: Yumi was made to study by her mother.
+JP: ゆみはお母(かあ)さんに勉強(べんきょう)させられました。
+RM: Yumi wa okaasan ni benkyou saseraremashita.
+
+EN: My mother made me wash dishes.
+JP: 私(わたし)はお母(かあ)さんにお皿(さら)を洗(あら)わされました。
+RM: Watashi wa okaasan ni osara o arawasaremashita.
+
+EN: Who made you write this?
+JP: あなたは誰(だれ)にこれを書(か)かされましたか？
+RM: Anata wa dare ni kore o kakasaremashita ka?
+
+EN: Tsukasa always makes me come to his house.
+JP: わたしはいつもつかさに家(いえ)に来(こ)させられます。
+RM: Watashi wa itsumo Tsukasa ni ie ni kosaseraremasu.
+
+EN: Mako made me wait in front of the station for 1 hour.
+JP: わたしはまこに駅(えき)の前(まえ)で1時間(いちじかん)待(ま)たされました。
+RM: Watashi wa Mako ni eki no mae de ichijikan matasaremashita.
+
+EN: Satoshi did not make me eat the bread.
+JP: わたしはさとしにパンを食(た)べさせられませんでした。
+RM: Watashi wa Satoshi ni pan o tabesaseraremasen deshita.
+
+## 263. 〜ても
+
+EN: I went to class everyday, even if it rained.
+JP: 私(わたし)は雨(あめ)が降(ふ)っていても、毎日(まいにち)授業(じゅぎょう)に行(い)きました。
+RM: Watashi wa ame ga futte itemo, mainichi jugyou ni ikimashita.
+
+EN: I will not turn on the air conditioner, even if it is hot.
+JP: 暑(あつ)くても、エアコンをつけません。
+RM: Atsukutemo, eakon o tsukemasen.
+
+EN: I can eat the cake, even if I am not hungry.
+JP: おなかがへってなくても、ケーキは食(た)べられます。
+RM: Onaka ga hettenakutemo, keeki wa taberaremasu.
+
+EN: You will be able to understand it, even if you are a child.
+JP: 子供(こども)でも、わかります。
+RM: Kodomo demo, wakarimasu.
+
+EN: I will not go out, even if it stops raining.
+JP: 雨(あめ)が止(や)んでも、出(で)かけません。
+RM: Ame ga yandemo, dekakemasen.
+
+EN: I will continue the study of Japanese, even if the grade is bad.
+JP: 成績(せいせき)が悪(わる)くても、日本語(にほんご)の勉強(べんきょう)を続(つづ)けます。
+RM: Seiseki ga warukutemo, nihongo no benkyou o tsuzukemasu.
+
+EN: My friend says nothing, even if I don't keep a promise.
+JP: 約束(やくそく)を守(まも)らなくても、友達(ともだち)は何(なに)も言(い)いません。
+RM: Yakusoku o mamoranakutemo, tomodachi wa nanimo iimasen.
+
+EN: I don't complain, even if the class is boring.
+JP: 授業(じゅぎょう)が退屈(たいくつ)でも、文句(もんく)を言(い)いません。
+RM: Jugyou ga taikutsu demo, monku o iimasen.
+
+## 264. 〜ことにする
+
+EN: I have decided to buy a car.
+JP: 車(くるま)を買(か)うことにしました。
+RM: Kuruma o kau koto ni shimashita.
+
+EN: I have decided not to make too many complaints.
+JP: あまり文句(もんく)を言(い)わないことにします。
+RM: Amari monku o iwanai koto ni shimasu.
+
+EN: Let's go to Vietnam this summer.
+JP: 夏(なつ)はベトナムに行(い)くことにしよう。
+RM: Natsu wa Betonamu ni iku koto ni shiyou.
+
+EN: Let's not go to Vietnam this summer.
+JP: 夏(なつ)はベトナムに行(い)かないことにしよう。
+RM: Natsu wa Betonamu ni ikanai koto ni shiyou.
+
+EN: I make it a rule to go to bed at ten every night.
+JP: 毎日(まいにち)10時(じ)に寝(ね)ることにしています。
+RM: Mainichi juuji ni neru koto ni shite imasu.
+
+EN: I have made a decision not to drink (and have followed it).
+JP: お酒(さけ)を飲(の)まないことにしています。
+RM: Osake o nomanai koto ni shite imasu.
+
+EN: Maki has decided to take the examination next year.
+JP: まきは来年(らいねん)試験(しけん)を受(う)けることにしました。
+RM: Maki wa rainen shiken o ukeru koto ni shimashita.
+
+EN: John has decided to stay up all night.
+JP: ジョンは一晩中(ひとばんじゅう)起(お)きていることにしました。
+RM: Jon wa hitobanjuu okite iru koto ni shimashita.
+
+EN: Maki goes to bed by twelve every night.
+JP: まきは毎晩(まいばん)12時(じ)までに寝(ね)ることにしています。
+RM: Maki wa maiban juuniji made ni neru koto ni shite imasu.
+
+EN: Takeshi does not talk behind someone's back.
+JP: たけしは悪口(わるぐち)を言(い)わないことにしています。
+RM: Takeshi wa waruguchi o iwanai koto ni shite imasu.
+
+## 265. 〜まで
+
+EN: I will wait in the coffee shop until it becomes sunny.
+JP: 晴(は)れるまで、カフェで待(ま)ちます。
+RM: Hareru made, kafe de machimasu.
+
+EN: I will not go back to France, until I become fluent in Japanese.
+JP: 日本語(にほんご)が上手(じょうず)になるまで、フランスに帰(かえ)りません。
+RM: Nihongo ga jouzu ni naru made, Furansu ni kaerimasen.
+
+EN: I will sing a lullaby till the baby falls asleep.
+JP: 赤(あか)ちゃんが寝(ね)るまで、私(わたし)は歌(うた)を歌(うた)ってあげます。
+RM: Akachan ga neru made, watashi wa uta o utatte agemasu.
+
+EN: I will not travel until I save money.
+JP: お金(かね)を貯(た)めるまで、旅行(りょこう)しません。
+RM: Okane o tameru made, ryokou shimasen.
+
+EN: Could you wait for me until my homework is finished?
+JP: 宿題(しゅくだい)が終(お)わるまで、待(ま)ってくれませんか？
+RM: Shukudai ga owaru made, matte kuremasen ka?
+
+EN: You must not drink beer until you become 20 years old.
+JP: 20歳(はたち)になるまで、ビールを飲(の)んではいけません。
+RM: Hatachi ni naru made, biiru o nonde wa ikemasen.
+
+EN: I had to wait until the rain stopped.
+JP: 雨(あめ)が止(や)むまで、待(ま)たなくちゃいけませんでした。
+RM: Ame ga yamu made, matanakuchaikemasen deshita.
+
+## 266. 〜方（かた）
+
+EN: The way Takeshi eats pasta is interesting.
+JP: たけしのパスタの食(た)べ方(かた)は面白(おもしろ)いです。
+RM: Takeshi no pasuta no tabekata wa omoshiroi desu.
+
+EN: Can you tell me how to write kanji?
+JP: 漢字(かんじ)の書(か)き方(かた)を教(おし)えていただけませんか？
+RM: Kanji no kakikata o oshiete itadakemasen ka?
+
+EN: I don't know how to send emails.
+JP: メールの送(おく)り方(かた)を知(し)りません。
+RM: Meeru no okurikata o shirimasen.
+
+EN: Do you know how to make a flight reservation?
+JP: 飛行機(ひこうき)の予約(よやく)のしかたを知(し)っていますか？
+RM: Hikouki no yoyaku no shikata o shitte imasu ka?
+
+EN: Can you teach me how to bake a delicious cake?
+JP: 美味(おい)しいケーキの焼(や)き方(かた)を教(おし)えてくれませんか？
+RM: Oishii keeki no yakikata o oshiete kuremasen ka?
+
+EN: Taka did not teach me how to swim.
+JP: たかは泳(およ)ぎ方(かた)を教(おし)えてくれませんでした。
+RM: Taka wa oyogikata o oshiete kuremasen deshita.
 
