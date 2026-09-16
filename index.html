@@ -120,6 +120,27 @@
     text-overflow: ellipsis;
     white-space: nowrap;
   }
+  #chapterselectrow {
+    padding: 0 12px 8px;
+  }
+  #chapterselect {
+    width: 100%;
+    padding: 8px 30px 8px 12px;
+    font-size: 13px;
+    color: var(--ink);
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23b0492f' d='M7 10l5 5 5-5z'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 18px;
+  }
+  #chapterselect:focus { border-color: var(--accent); }
   #navpanel {
     position: absolute;
     left: 0;
@@ -381,12 +402,11 @@
     font-size: 20px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     cursor: pointer;
-    display: none;
+    display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 30;
+    z-index: 9999;
   }
-  #fab-top.show { display: flex; }
 
   @media (max-width: 480px) {
     .lesson-head h2 { font-size: 15px; }
@@ -410,6 +430,9 @@
       </button>
       <span id="currentlesson"></span>
       <a class="crosslink" href="https://ekrcjack.github.io/four/">四態表<span class="arrow">&#9656;</span></a>
+    </div>
+    <div id="chapterselectrow">
+      <select id="chapterselect" aria-label="跳到章節"></select>
     </div>
     <div id="navpanel" hidden>
       <a href="#lesson-0" class="crumb" data-idx="0">01. 五類動詞變化（動詞後接不同形式）</a>
@@ -17530,6 +17553,7 @@
   <button id="fab-top" aria-label="回到最上面">&uarr;</button>
 
 <script>
+  var ZH_TITLES={"17":"數字 1～10","18":"數字 11～99","19":"數字 100～9,999","20":"更大的數字：萬以上單位","22":"日期、月份與星期","23":"時間的說法","26":"X 是 Y：名詞肯定句","27":"疑問句：〜か","28":"疑問句 2：疑問詞","29":"名詞 1 の 名詞 2：所屬與修飾","30":"名詞＋も：也","31":"否定句：現在式","32":"否定句：過去式","37":"這個・那個・哪個：指示事物","38":"這個…・那個…・哪個…：修飾名詞","39":"だれの＋名詞：誰的…","40":"這裡・那裡・哪裡：指示場所","41":"寫作練習","44":"る動詞：第二類動詞","45":"う動詞：第一類動詞","46":"不規則動詞：する・来る","47":"動詞分類與現在式","48":"過去式","53":"基本助詞","54":"基本助詞練習","55":"時間表達與助詞","56":"主題助詞 は","57":"助詞 が","58":"助詞 も","59":"助詞 と","60":"助詞 や","61":"助詞 で","62":"頻率副詞","65":"邀約：要不要一起…","66":"提議：一起…吧","68":"非生物的存在：有…","69":"生物的存在：有…","70":"位置的描述：前後左右上下","74":"い形容詞","75":"な形容詞","76":"不規則形容詞：いい 系","77":"喜歡與討厭","78":"程度副詞","83":"て形變化規則：る動詞","84":"て形變化規則：う動詞","86":"て形用法 1：請求與並列","87":"て形用法 2：許可與禁止","93":"進行與持續狀態","94":"瞬間變化動詞的狀態","98":"て形連接句子","99":"寫作練習","102":"描述身體特徵","106":"動詞語幹＋に行く：去做…","107":"寫作練習","108":"聽力練習","110":"很多：たくさん 的位置","112":"時間長度的說法","115":"現在式常體：肯定變化","116":"現在式常體：否定變化","117":"常體用法 1：引用","118":"常體用法 2：日常會話","119":"常體用法 3：請不要做…","120":"常體用法 4：喜歡做…","124":"過去式常體：肯定變化","125":"過去式常體：否定變化","126":"過去式常體：用法","130":"何か・何も：某物與什麼都沒有","131":"場所、人、事物的 some／any","135":"用動詞與形容詞修飾名詞","138":"還沒做…，尚未發生的動作","143":"原因理由 1：因為…","144":"原因理由 2：因為…","146":"比較 1：A 比 B 更…","147":"比較 2：A 和 B 哪個比較…","148":"比較 3：在…之中 A 最…","149":"比較 4：在…之中哪個最…","154":"用の代替重複的名詞","156":"打算做…","159":"形容詞＋なる：變得…","164":"想要做…","165":"引用他人的願望","166":"看起來某人想做…","170":"列舉具代表性的動作","172":"曾經做過…的經驗","176":"說明語氣：解釋原因","179":"太…、過度…","181":"強烈建議：最好做…","184":"不得不做…","186":"推測：大概…吧","196":"授受動詞：給予","197":"授受動詞：得到","198":"建議：…如何？","199":"數量詞＋も／しか：數量的多寡","202":"意向形：〜よう／〜おう","203":"事先做好、維持原狀","204":"用句子修飾名詞","206":"為別人做…","207":"別人為我做…","208":"請別人為我做…","209":"客氣請求：能否請您…","210":"希望…就好了","211":"…的時候 1","212":"…的時候 2","213":"〜時（とき）練習","214":"為…道歉","217":"傳聞：據說…","218":"口語引用","219":"如果 A 就 B","220":"事情的先後順序","221":"純粹假設的條件與結果","222":"不需要做…","223":"像…一樣／似乎…","224":"做…之前","225":"做了…之後","227":"他動詞・自動詞配對","228":"做完／不小心做了…","229":"每當A就B","230":"一邊…一邊…","231":"早知道就該／不該做…","234":"尊敬語動詞 1","235":"尊敬語動詞 2","236":"恭敬地建議、指示","237":"謝謝你做了…","238":"很高興是這樣的結果","239":"應該是…","241":"丁重語","242":"謙讓語 1","243":"謙讓語 2","244":"不做…而做…","245":"疑問句包進句子裡","246":"叫做…的人事物","247":"容易～／難以～","250":"被動句 1","251":"被動句 2","252":"狀態的維持","253":"…的期間","254":"使…變成…","255":"希望某人做…","256":"使役句 1：讓／叫某人做…","257":"使役句 2：使役的應用","258":"命令語氣：給我做…","259":"條件形","260":"明明…卻…","261":"像…一樣","262":"使役被動：被迫做…","263":"即使…也…","264":"決定做…","265":"到…為止","266":"做…的方法"};
   var fab = document.getElementById('fab-top');
   window.addEventListener('scroll', function () {
     fab.classList.toggle('show', window.scrollY > 400);
@@ -17572,7 +17596,30 @@
   var navBtn = document.getElementById('navbtn');
   var navPanel = document.getElementById('navpanel');
   var currentLabel = document.getElementById('currentlesson');
+  var chapterSelect = document.getElementById('chapterselect');
   var activeCrumb = crumbs[0] || null;
+
+  chapterSelect.innerHTML = crumbs.map(function (c) {
+    var text = c.textContent;
+    if (!/）$/.test(text)) {
+      var m = text.match(/^(\d+)/);
+      if (m) {
+        var key = String(parseInt(m[1], 10));
+        if (ZH_TITLES[key]) text = text + '（' + ZH_TITLES[key] + '）';
+      }
+    }
+    return '<option value="' + c.dataset.idx + '">' + text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</option>';
+  }).join('');
+  if (activeCrumb) chapterSelect.value = activeCrumb.dataset.idx;
+
+  chapterSelect.addEventListener('change', function () {
+    var idx = this.value;
+    var crumb = crumbs.filter(function (c) { return c.dataset.idx === idx; })[0];
+    if (!crumb) return;
+    setActive(crumb);
+    var target = document.getElementById('lesson-' + idx);
+    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 
   function centerActive() {
     if (!activeCrumb) return;
@@ -17598,6 +17645,7 @@
     crumb.classList.add('active');
     activeCrumb = crumb;
     currentLabel.textContent = crumb.textContent;
+    chapterSelect.value = crumb.dataset.idx;
   }
 
   if (activeCrumb) {
