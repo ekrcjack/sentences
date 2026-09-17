@@ -5868,6 +5868,24 @@ EN: To write (te-form)
 JP: かいて
 RM: kaite
 
+## 85. Te-form rules (Irregular)
+
+EN: To do
+JP: する
+RM: suru
+
+EN: To do (te-form)
+JP: して
+RM: shite
+
+EN: To come
+JP: 来(く)る
+RM: kuru
+
+EN: To come (te-form)
+JP: 来(き)て
+RM: kite
+
 ## 86. Te-form Usage 1 - Making request ... please
 
 EN: Name
@@ -5971,6 +5989,72 @@ RM: Mado o akete mo ii desu.
 EN: You may not open the window.
 JP: 窓(まど)を開(あ)けてはいけません。
 RM: Mado o akete wa ikemasen.
+
+## 88. Te-form Usage 3 - Forming a sentence that describes two events or activities
+
+EN: Notebook
+JP: ノート
+RM: nooto
+
+EN: To borrow
+JP: 借(か)りる
+RM: kariru
+
+EN: To photocopy
+JP: コピーする
+RM: kopii suru
+
+EN: Post office
+JP: 郵便局(ゆうびんきょく)
+RM: yuubinkyoku
+
+EN: To take a nap
+JP: 昼寝(ひるね)する
+RM: hirune suru
+
+EN: Bus
+JP: バス
+RM: basu
+
+EN: Airplane
+JP: 飛行機(ひこうき)
+RM: hikouki
+
+EN: Paris
+JP: パリ
+RM: pari
+
+EN: I will borrow the notebook and photocopy it.
+JP: ノートを借(か)りてコピーします。
+RM: Nooto o karite kopii shimasu.
+
+EN: I got up at six and studied.
+JP: 6時(じ)に起(お)きて勉強(べんきょう)しました。
+RM: Rokuji ni okite benkyou shimashita.
+
+EN: I went to the post office and returned home.
+JP: 郵便局(ゆうびんきょく)に行(い)って家(いえ)に帰(かえ)りました。
+RM: Yuubinkyoku ni itte ie ni kaerimashita.
+
+EN: I will take a nap and study Spanish.
+JP: 昼寝(ひるね)してスペイン語(ご)を勉強(べんきょう)します。
+RM: Hirune shite supeingo o benkyou shimasu.
+
+EN: I met Takeshi and watched a movie.
+JP: たけしと会(あ)って映画(えいが)を見(み)ました。
+RM: Takeshi to atte eiga o mimashita.
+
+EN: I go to work by bus.
+JP: バスに乗(の)って仕事(しごと)に行(い)きます。
+RM: Basu ni notte shigoto ni ikimasu.
+
+EN: I am sorry for leaving the textbook at home.
+JP: 教科書(きょうかしょ)を忘(わす)れてすみません。
+RM: Kyoukasho o wasurete sumimasen.
+
+EN: I will go to Paris by plane.
+JP: 飛行機(ひこうき)に乗(の)ってパリに行(い)きます。
+RM: Hikouki ni notte Pari ni ikimasu.
 
 ## 93. 〜ている (Action in progress)
 
